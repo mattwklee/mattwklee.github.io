@@ -17,7 +17,7 @@ Specific research interests include:
  - Integrated motor drives (IMDs)
 
 News
-======
+------
 - [Publications] Three papers presented @ IEEE ECCE 2023
 - [Research Grant] DOE VTO Research Grant
 
