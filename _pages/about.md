@@ -11,10 +11,9 @@ redirect_from:
 Our research lab focuses on transportation electrification and energy-efficient power conversion system with ultra and/or wide bandgap (UWBG/WBG) devices
 
 Specific research interests include:
- - UWBG/WBG-based power electronics and motor drive
- - Multiphase electric machines and motor drives
- - Fault-tolerant operation with open- and short-circuit failures
- - High-speed motor drives
+ - UWBG/WBG-based power electronics and motor drives
+ - Multiphase electric motors and drives
+ - EMI and partial discharge in electric drives
  - Integrated motor drives (IMDs)
 
 News
