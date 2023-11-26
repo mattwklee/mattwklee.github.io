@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matt Woongkul Lee / Assistant Professor"
+title                    : "Assistant Professor"
 title_separator          : "-"
 name                     : &name "Matt Woongkul Lee"
 description              : &description "Assistant Professor @ Michigan State University"
