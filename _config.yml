@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en"
   email            : "leewoong@msu.edu
-  researchgate     : "https://www.researchgate.net/profile/Woongkul-Lee"
+  researchgate     : #"https://www.researchgate.net/profile/Woongkul-Lee"
   uri              :
   bitbucket        :
   codepen          :
