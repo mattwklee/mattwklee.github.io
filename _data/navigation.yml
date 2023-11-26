@@ -1,12 +1,15 @@
 # main links links
 main:
 
-  - title: "People"
-    url: /People/    
+  - title: "Members"
+    url: /Members/    
     
   - title: "Research"
     url: /Research/
 
+  - title: "Publications"
+    url: /Publications/
+    
   - title: "Teaching"
     url: /teaching/    
     
