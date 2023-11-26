@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Matt Woongkul Lee"
+  name             : "Matt Woongkul Lee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Power Electronics / Electric Machines"
   location         : "East Lansing, MI"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Michigan State University"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en"
-  email            : "leewoong@msu.edu
-  researchgate     : #"https://www.researchgate.net/profile/Woongkul-Lee"
+  email            : "leewoong@msu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Woongkul-Lee"
   uri              :
   bitbucket        :
   codepen          :
