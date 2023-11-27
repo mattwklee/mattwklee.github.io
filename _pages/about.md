@@ -14,7 +14,7 @@ MSU Power Electronics and Drives Research Lab
 Our research lab focuses on transportation electrification and distributed energy resources.
 
 Specific research interests include:
- - UWBG/WBG-based power electronics and motor drives
+ - WBG/UWBG-based power electronics and motor drives
  - Multiphase electric motors and drives
  - EMI and partial discharge in electric drives
  - Integrated motor drives (IMDs)
