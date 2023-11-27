@@ -5,14 +5,14 @@ main:
     url: https://minority24.github.io/mattwklee.github.io/
     
   - title: "Members"
-    url: /Members/    
+    url: /markdown/    
     
   - title: "Research"
-    url: /Research/
+    url: /talks/
 
   - title: "Publications"
-    url: /Publications/
+    url: /publications/
     
   - title: "Teaching"
-    url: /Teaching/    
+    url: /teaching/    
     
