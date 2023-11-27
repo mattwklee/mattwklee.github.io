@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt Woongkul Lee"
-  avatar           : "MSU_Seal_Green.png"
+  avatar           : "/images/MSU_Seal_Green.png"
   bio              : "Assistant Professor @ MSU"
   location         : "East Lansing, MI"
   employer         : "Michigan State University"
