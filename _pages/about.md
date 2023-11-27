@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image_front_page](/images/MSU_Wordmark_Green.png) {: .align-right width="300px"}
+![image_front_page](/images/MSU_Seal_Green.png) {: .align-right width="300px"}
 Our research lab focuses on transportation electrification and energy-efficient power conversion system with ultra and/or wide bandgap (UWBG/WBG) devices
 
 Specific research interests include:
