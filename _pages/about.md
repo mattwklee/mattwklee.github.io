@@ -18,7 +18,19 @@ Specific research interests include:
 
 News
 ------
+2023
+- [Publications] Four papers accepted @ IEEE APEC 2024
 - [Publications] Three papers presented @ IEEE ECCE 2023
+- [Publications] IEEE TPEL journal paper titled "NPL.H: Neutral-point-less H-type 3-level inverter" accepted
+- [Research Grant] DOE VTO Research Grant
+- [Research Grant] MTRAC Full Grant
+- [Research Grant] DOE VTO Research Grant
+- [Publications] Two papers presented @ IEEE ITEC 2023
+- [Publications] Three papers presented @ IEEE APEC 2023
+- [Publications] One paper presented @ IEEE SLED 2023
+
+2023
+- [Research Grant] US Army GVSC Research Grant
 - [Research Grant] DOE VTO Research Grant
 
 
