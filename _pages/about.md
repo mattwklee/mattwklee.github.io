@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Our research lab focuses on transportation electrification and energy-efficient power conversion system with ultra and/or wide bandgap (UWBG/WBG) devices
+Our research lab focuses on transportation electrification and energy-efficient power conversion system
 
 Specific research interests include:
  - UWBG/WBG-based power electronics and motor drives
