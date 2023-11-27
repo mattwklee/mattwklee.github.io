@@ -22,6 +22,7 @@ Specific research interests include:
  - Multiphase electric motors and drives
  - EMI and partial discharge in electric drives
  - Integrated motor drives (IMDs)
+ - Distributed energy resources
 
 News
 ------
