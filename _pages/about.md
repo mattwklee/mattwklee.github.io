@@ -18,7 +18,7 @@ Specific research interests include:
 
 Research Sponsors
 ------
-![sponsors](mattwklee.github.io/images/sponsors.png)
+![sponsors](/mattwklee.github.io/images/sponsors.png)
 
 News
 ------
