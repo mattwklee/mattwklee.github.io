@@ -18,6 +18,7 @@ Specific research interests include:
 
 Research Sponsors
 ------
+![sponsors](/images/sponsors.png)
 
 News
 ------
