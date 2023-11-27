@@ -49,5 +49,4 @@ News
 - [Research Grant] NASA USRC Research Grant
   
 2020
-- [Research Grant] US Army GVSC Research Grant
-- [Research Grant] DOE VTO Research Grant
+- [New member] Matt Woongkul Lee joined MSU
