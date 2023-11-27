@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![sponsors](/images/W.Lee_Profile.png)
+![sponsors](/W.Lee_Profile.png)
 Matt Woongkul Lee
 Assistant Professor
 Electrical and Computer Engineering
