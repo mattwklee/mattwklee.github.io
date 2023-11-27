@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![image_front_page](/images/MSU_Wordmark_Green.png){: . align-right width="300px"}
+![image_front_page](/images/MSU_Wordmark_Green.png) {: . align-right width="300px"}
 Our research lab focuses on transportation electrification and energy-efficient power conversion system with ultra and/or wide bandgap (UWBG/WBG) devices
 
 Specific research interests include:
@@ -27,20 +27,23 @@ News
 - [New member] Ali Halawa joined the team
 - [New member] Gavin Gardner joined the team
 - [Research Grant] MTRAC Full Grant
-- [Research Grant] DOE VTO Research Grant
 - [Publications] Two papers presented @ IEEE ITEC 2023
 - [Publications] Three papers presented @ IEEE APEC 2023
 - [Publications] One paper presented @ IEEE SLED 2023
+- [Research Grant] NASA USRC Research Grant
 - [New member] Avinash Dornala joined the team
 
 2022
 - [Research Grant] US Army GVSC Research Grant
 - [Research Grant] DOE VTO Research Grant
+- [Research Grant] MTRAC Starter Grant
 
 2021
 - [New member] Mikayla Benson joined the team
 - [New member] Mostafa Fereydoonian joined the team
 - [New member] Kangbeen Lee joined the team
+- [Research Grant] MTRAC Award
+- [Research Grant] NASA USRC Research Grant
   
 2020
 - [Research Grant] US Army GVSC Research Grant
