@@ -9,18 +9,14 @@ redirect_from:
 ---
 
 MSU Power Electronics and Drives Research Lab
-------
-Our research lab focuses on transportation electrification and energy-efficient power conversion system
+======
+Our research lab focuses on transportation electrification and distributed energy resources
 
 Specific research interests include:
  - UWBG/WBG-based power electronics and motor drives
  - Multiphase electric motors and drives
  - EMI and partial discharge in electric drives
  - Integrated motor drives (IMDs)
-
-Research Sponsors
-------
-![sponsors](/images/sponsors.png)
 
 News
 ------
@@ -52,3 +48,7 @@ News
   
 2020
 - [New member] Matt Woongkul Lee joined MSU
+
+Research Sponsors
+------
+![sponsors](/images/sponsors.png)
