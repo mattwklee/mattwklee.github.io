@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Power Electronics and Electric Machine Research @ Michigan State University"
+title: "MSU Power Electronics and Electric Machine Research Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
