@@ -17,6 +17,9 @@ Specific research interests include:
  - EMI and partial discharge in electric drives
  - Integrated motor drives (IMDs)
 
+Research Sponsors
+------
+
 News
 ------
 2023
