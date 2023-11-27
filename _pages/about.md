@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MSU Power Electronics and Drives Research Lab"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+MSU Power Electronics and Drives Research Lab
+------
 Our research lab focuses on transportation electrification and energy-efficient power conversion system
 
 Specific research interests include:
