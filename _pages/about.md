@@ -7,10 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![sponsors](/images/sponsors.png)
+Matt Woongkul Lee
+Assistant Professor
+Electrical and Computer Engineering
+Michigan State University
 
 MSU Power Electronics and Drives Research Lab
-======
-Our research lab focuses on transportation electrification and distributed energy resources
+------
+Our research lab focuses on transportation electrification and distributed energy resources.
 
 Specific research interests include:
  - UWBG/WBG-based power electronics and motor drives
