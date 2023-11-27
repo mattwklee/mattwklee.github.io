@@ -23,14 +23,24 @@ News
 - [Publications] Three papers presented @ IEEE ECCE 2023
 - [Publications] IEEE TPEL journal paper titled "NPL.H: Neutral-point-less H-type 3-level inverter" accepted
 - [Research Grant] DOE VTO Research Grant
+- [New member] Ali Halawa joined the team
+- [New member] Gavin Gardner joined the team
 - [Research Grant] MTRAC Full Grant
 - [Research Grant] DOE VTO Research Grant
 - [Publications] Two papers presented @ IEEE ITEC 2023
 - [Publications] Three papers presented @ IEEE APEC 2023
 - [Publications] One paper presented @ IEEE SLED 2023
+- [New member] Avinash Dornala joined the team
 
-2023
+2022
 - [Research Grant] US Army GVSC Research Grant
 - [Research Grant] DOE VTO Research Grant
 
-
+2021
+- [New member] Mikayla Benson joined the team
+- [New member] Mostafa Fereydoonian joined the team
+- [New member] Kangbeen Lee joined the team
+  
+2020
+- [Research Grant] US Army GVSC Research Grant
+- [Research Grant] DOE VTO Research Grant
