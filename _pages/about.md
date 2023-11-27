@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am broadly interested in high-performance motor drive, power electronics, electric machines, and distributed energy resources. I received the M.S. and Ph.D. degrees from the University of Wisconsin-Madison, WI, USA, in 2016 and 2019 respectively both in electrical engineering. Before that, I received my B.S. degree from Yonsei University, Seoul, South Korea, in 2013. I was a postdoctoral research associate with the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC), University of Wisconsin-Madison from 2019 to 2020. In 2020, I joined Michigan State University as an assistant professor. 
+I am broadly interested in high-performance motor drive, power electronics, electric machines, and distributed energy resources. I was a postdoc with the Wisconsin Electric Machines and Power Electronics Consortium (WEMPEC), University of Wisconsin-Madison from 2019 to 2020. Before that, I spent 6 years at UW-Madison for both M.S. and Ph.D. degrees both in electrical engineering. In 2020, I joined Michigan State University as an assistant professor. 
 
 MSU Power Electronics and Drives Research Lab
 ------
