@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MSU Power Electronics and Electric Machine Research Lab"
+title: "MSU Electric Drive Research Lab"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
