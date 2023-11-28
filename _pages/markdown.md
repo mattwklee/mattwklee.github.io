@@ -22,9 +22,9 @@ Mikayla Benson - Mikayla received B.S. degrees in Mechanical and Electrical Engi
 
 Kangbeen Lee - Kangbeen received a B.S. degree in electrical engineering from Yonsei University, Seoul, South Korea, in 2016 and a M.S. degree in electrical engineering from Hanyang University, Seoul, South Korea, in 2019. He was a research engineer at Hyundai Motors company from 2016 to 2021. Since 2021, he is currently pursuing a Ph.D. in electrical and computer engineering at Michigan State University. His research interests include high-performance electric machines and drives, multilevel/multiphase motor drives, wide bandgap device-based power electronics, and partial discharge and electromagnetic interference in AC machine drives.
 
-Avinash Dornala - Avinash completed bachelor's degree in Electrical and Electronics Engineering and Masters in Power Systems in 2016 from India. Since then, he worked in Power Generation industry in maintenance, commissioning and erection activities in both Hydel and Thermal Power Plants. Since 2023, he is working towards PhD program in the Electrical Machines and Power Electronics Laboratory at Michigan State University.
+Avinash Dornala - Avinash completed bachelor's degree in Electrical and Electronics Engineering and Masters in Power Systems in 2016 from India. Since then, he worked in Power Generation industry in maintenance, commissioning and erection activities in both Hydel and Thermal Power Plants. Since 2023, he is working towards Ph.D. program in the Electrical Machines and Power Electronics Laboratory at Michigan State University.
 
-Ali Halawa - Ali received his bachelor’s from Jordan University of Science and Technology, Irbid, Jordan, in 2022. He is currently a PhD student at Michigan State University with research focus on WBG devices in multilevel inverters for EV applications.
+Ali Halawa - Ali received his bachelor’s from Jordan University of Science and Technology, Irbid, Jordan, in 2022. He is currently a Ph.D. student at Michigan State University with research focus on WBG devices in multilevel inverters for EV applications.
 
 Undergraduate Students
 -----
