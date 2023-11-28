@@ -53,4 +53,4 @@ News
 
 Research Sponsors
 ------
-![sponsors]url('./images/sponsors.png');
+url('./images/sponsors.png');
