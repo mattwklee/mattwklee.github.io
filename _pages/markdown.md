@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+![image](images/main_logo.png)
+
 Principal Investigator
 -----
 ![matt](./images/mwl.png){: .align-left width="150px"}
