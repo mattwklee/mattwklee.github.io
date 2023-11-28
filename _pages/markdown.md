@@ -24,7 +24,9 @@ Kangbeen Lee - Kangbeen received a B.S. degree in electrical engineering from Yo
 
 Avinash Dornala - Avinash completed bachelor's degree in Electrical and Electronics Engineering and Masters in Power Systems in 2016 from India. Since then, he worked in Power Generation industry in maintenance, commissioning and erection activities in both Hydel and Thermal Power Plants. Since 2023, he is working towards Ph.D. program in the Electrical Machines and Power Electronics Laboratory at Michigan State University.
 
-Ali Halawa - Ali received his bachelor’s from Jordan University of Science and Technology, Irbid, Jordan, in 2022. He is currently a Ph.D. student at Michigan State University with research focus on WBG devices in multilevel inverters for EV applications.
+Ali Halawa - Ali received his bachelor’s degree from Jordan University of Science and Technology, Irbid, Jordan, in 2022. He is currently a Ph.D. student at Michigan State University with research focus on WBG devices in multilevel inverters for EV applications.
+
+Gavin Gardner - Gavin received his bachelor’s degree from Michigan State University in 2023. He is currently a M.S. student at Michigan State University with research focus on optical power transfer and electric drones.
 
 Undergraduate Students
 -----
