@@ -4,7 +4,7 @@ title: "Members"
 author_profile: true
 redirect_from: 
   - /md/
-  - /members.html
+  - /markdown.html
 ---
 
 Principal Investigator
