@@ -16,7 +16,7 @@ Postdoctroal Research Associates
 
 Graduate Students
 -----
-![mostafa](images/mwl.png)Mostafa Fereydoonian - Mostafa received the B.Sc. degree in electrical engineering from Shahid Beheshti University, Abbaspour School of Engineering, Tehran, Iran, in 2012. He is currently working toward the Ph.D. in electrical engineering at Michigan State University. His research interests include electric machines and high-power density drive design.
+![mostafa](images/mf.png)Mostafa Fereydoonian - Mostafa received the B.Sc. degree in electrical engineering from Shahid Beheshti University, Abbaspour School of Engineering, Tehran, Iran, in 2012. He is currently working toward the Ph.D. in electrical engineering at Michigan State University. His research interests include electric machines and high-power density drive design.
 
 ![mikayla](images/mb.png)Mikayla Benson - Mikayla received B.S. degrees in Mechanical and Electrical Engineering from Kettering University in Flint, MI in March 2020, and earned her M.S. degree in Electrical Engineering from Michigan State University in May 2023. She is currently pursuing a Ph.D. in electrical engineering at Michigan State University. Her research interests include wide bandgap device applications, power converters, and neutral-point-less multilevel inverters.
 
