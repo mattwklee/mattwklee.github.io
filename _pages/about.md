@@ -3,7 +3,7 @@ title: "Home"
 permalink: /about/
 author_profile: true
 ---
-![image](minority24.github.io/mattwklee.github.io/images/main_logo.png)
+![image](/mattwklee.github.io/images/main_logo.png)
 
 MSU Power Electronics and Drives Research Lab
 ------
