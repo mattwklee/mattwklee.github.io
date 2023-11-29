@@ -5,7 +5,7 @@ author_profile: true
 ---
 Principal Investigator
 -----
-![matt](/mattwklee.github.io/images/mwl.png){: .align-left width="100px"}Dr. Matt Woongkul Lee - Matt is broadly interested in high-performance motor drive, power electronics, electric machines, and distributed energy resources. He was a postdoc with WEMPEC, University of Wisconsin-Madison from 2019 to 2020. Before that, he spent 6 years at UW-Madison for both M.S. and Ph.D. degrees both in electrical engineering. In 2020, he joined Michigan State University as an assistant professor. 
+![matt](/mattwklee.github.io/images/mwl.png){: .align-left width="100px"}Dr. Matt Woongkul Lee - Matt is broadly interested in high-performance motor drive, power electronics, electric machines, and distributed energy resources. He was a postdoctoral research associate at WEMPEC, University of Wisconsin-Madison from 2019 to 2020. Before that, he spent 6 years at UW-Madison for both M.S. and Ph.D. degrees both in electrical engineering. In 2020, he joined Michigan State University as an assistant professor. 
 
 Postdoctroal Research Associates
 -----
