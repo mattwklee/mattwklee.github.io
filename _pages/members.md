@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /member/
 title: "Members"
 author_profile: true
 redirect_from: 
