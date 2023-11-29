@@ -35,7 +35,7 @@ Graduate Students
 
 
 -----
-![ali](/mattwklee.github.io/images/ah.png){: .align-left width="100px"}Ali Halawa - Ali received his bachelor’s degree from Jordan University of Science and Technology, Irbid, Jordan, in 2022. He is currently pursuing a Ph.D. degree at Michigan State University. His research interests include characterization of WBG devices, multilevel and multiphae inverters for EV applications.
+![ali](/mattwklee.github.io/images/ah.png){: .align-left width="100px"}Ali Halawa - Ali received his bachelor’s degree from Jordan University of Science and Technology, Irbid, Jordan, in 2022. He is currently pursuing a Ph.D. degree in electrical and computer engineering department at Michigan State University. His research interests include characterization of WBG devices, multilevel and multiphae inverters for EV applications.
 
 
 
