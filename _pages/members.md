@@ -30,7 +30,7 @@ Graduate Students
 
 
 -----
-![avinash](/mattwklee.github.io/images/ad.png){: .align-left width="100px"}Avinash Dornala - Avinash completed bachelor's degree in Electrical and Electronics Engineering and Masters in Power Systems in 2016 from India. Since then, he worked in Power Generation industry in both Hydel and Thermal Power Plants. Since 2023, he is working towards Ph.D. program at Michigan State University.
+![avinash](/mattwklee.github.io/images/ad.png){: .align-left width="100px"}Avinash Dornala - Avinash completed bachelor's degree in Electrical and Electronics Engineering and Masters in Power Systems in 2016 from India. Since then, he worked in Power Generation industry in maintenance, commissioning and erection activities in both Hydel and Thermal Power Plants. Since 2023, he is working towards Ph.D. program at Michigan State University.
 
 
 
