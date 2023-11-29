@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 [Google Scholar](https://academicpages.github.io/talkmap.html](https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en)) [ResearchGate](https://www.researchgate.net/profile/Woongkul-Lee)
+
 Journal Publication
 ------
 1.	X. Dong, M. Benson, K. Lee, L. Yi, W. Lee, and J. Moon, “NPL.H: Neutral-Point-Less H-type 3-Level inverter,” IEEE Trans. Power Electron., vol.xx, no.xx, pp.xx, 2023.
