@@ -7,12 +7,16 @@ Principal Investigator
 -----
 ![matt](/mattwklee.github.io/images/mwl.png){: .align-left width="100px"}Dr. Matt Woongkul Lee - Matt is broadly interested in high-performance motor drive, power electronics, electric machines, and distributed energy resources. He was a postdoctoral research associate at WEMPEC, University of Wisconsin-Madison from 2019 to 2020. Before that, he spent 6 years at UW-Madison for both M.S. and Ph.D. degrees both in electrical engineering. In 2020, he joined Michigan State University as an assistant professor continuing his research in power electronics and electric machines. 
 
+B.S. Yonsei University
+M.S. University of Winsonsin-Madison
+Ph.D. University of Wisconsin-Madison
+
 Postdoctroal Research Associates
 -----
 
 Graduate Students
 -----
-![mostafa](/mattwklee.github.io/images/mf.png){: .align-left width="100px"}Mostafa Fereydoonian - Mostafa received the B.Sc. degree in electrical engineering from Shahid Beheshti University, Abbaspour School of Engineering, Tehran, Iran, in 2012. He is currently working toward the Ph.D. in electrical engineering at Michigan State University. His research interests include rare-earth magnet-free electric machines, integrated motor drives, and high-power density drive design.
+![mostafa](/mattwklee.github.io/images/mf.png){: .align-left width="100px"}Mostafa Fereydoonian - Mostafa received his B.Sc. degree in electrical engineering from Shahid Beheshti University, Abbaspour School of Engineering, Tehran, Iran, in 2012. He is currently working toward the Ph.D. in electrical engineering at Michigan State University. His research interests include rare-earth magnet-free electric machines, integrated motor drives, and high-power density drive design.
 
 
 
