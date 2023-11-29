@@ -2,6 +2,9 @@
 title: "Home"
 permalink: /about/
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 ![image](mattwklee.github.io/images/main_logo.png)
 
