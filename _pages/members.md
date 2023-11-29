@@ -7,9 +7,9 @@ Principal Investigator
 -----
 ![matt](/mattwklee.github.io/images/mwl.png){: .align-left width="100px"}Dr. Matt Woongkul Lee - Matt is broadly interested in high-performance motor drive, power electronics, electric machines, and distributed energy resources. He was a postdoctoral research associate at WEMPEC, University of Wisconsin-Madison from 2019 to 2020. Before that, he spent 6 years at UW-Madison for both M.S. and Ph.D. degrees both in electrical engineering. In 2020, he joined Michigan State University as an assistant professor continuing his research in power electronics and electric machines. 
 
-B.S. Yonsei University
-M.S. University of Winsonsin-Madison
-Ph.D. University of Wisconsin-Madison
+- B.S. Yonsei University
+- M.S. University of Winsonsin-Madison
+- Ph.D. University of Wisconsin-Madison
 
 Postdoctroal Research Associates
 -----
@@ -45,3 +45,12 @@ Graduate Students
 
 Undergraduate Students
 -----
+Ben Schuchardt
+Prerana Gunda
+Ryan Atkinson
+
+
+Undergraduate Research Teams
+-----
+MSU Solar Racing Team
+MSU DRIFT Team
