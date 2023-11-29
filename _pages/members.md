@@ -3,7 +3,7 @@ permalink: /members/
 title: "Members"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /member/
   - /members.html
 ---
 
