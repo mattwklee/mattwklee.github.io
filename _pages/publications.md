@@ -5,8 +5,7 @@ author_profile: true
 ---
 
 Journal Publication
-
-Published
+------
 1.	X. Dong, M. Benson, K. Lee, L. Yi, W. Lee, and J. Moon, “NPL.H: Neutral-Point-Less H-type 3-Level inverter,” IEEE Trans. Power Electron., vol.xx, no.xx, pp.xx, 2023.
 2.	W. Lee, S. G. Min, and B. Sarlioglu, “Fault-tolerant operation of six-phase permanent magnet motor drive with open-circuit failures,” IEEE Trans. Transport. Electrific., vol. xx, no. xx, pp. xx-xx, 2023.
 3.	W. Lee, “Rare-earth magnet-free electric machine design: unlocking sustainable electrification,” IEEE Electrification Magazine, 2023 (Invited).
@@ -30,6 +29,7 @@ Published
 21.	W. Lee, E. Schubert, Y. Li, S. Li, D. Bobba, and B. Sarlioglu, "Overview of electric turbocharger and supercharger for downsized internal combustion engines,” IEEE Trans. Transport. Electrific., vol. 3, no. 1, pp. 36-47, Mar. 2017.
 
 Conference Proceedings
+------
 1.	M. Benson, A. Dornala, M. Andleeb, and W. Lee, “Simple and robust carrier-based PWM technique for single-stage three-phase rectifier indirect matrix converter,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
 2.	K. Lee, M. Benson, X. Dong, J. Moon, and W. Lee, “A comparative common-mode EMI noise analysis of neutral-point-less (NPL) multilevel X-type inverter with active common-mode voltage cancellation,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
 3.	A. Dornala, K. Lee, M. Benson, M. Fereydoonian, and W. Lee, “A comprehensive efficiency and EMI analysis of WBG-based multilevel inverters for 800 V electric vehicle traction systems,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
