@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /members/
 title: "Members"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /members.html
 ---
 
 ![image](images/main_logo.png)
