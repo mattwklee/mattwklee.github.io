@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Home"
 permalink: /about/
 author_profile: true
