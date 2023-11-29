@@ -4,12 +4,101 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Journal Publication
 
-{% include base_path %}
+Published
+1.	X. Dong, M. Benson, K. Lee, L. Yi, W. Lee, and J. Moon, “NPL.H: Neutral-Point-Less H-type 3-Level inverter,” IEEE Trans. Power Electron., vol.xx, no.xx, pp.xx, 2023.
+2.	W. Lee, S. G. Min, and B. Sarlioglu, “Fault-tolerant operation of six-phase permanent magnet motor drive with open-circuit failures,” IEEE Trans. Transport. Electrific., vol. xx, no. xx, pp. xx-xx, 2023.
+3.	W. Lee, “Rare-earth magnet-free electric machine design: unlocking sustainable electrification,” IEEE Electrification Magazine, 2023 (Invited).
+4.	S. Choi, W. Lee, S. Baek, and J. S. Lee, “Accuracy improvement of maximum torque per ampere control for an interior permanent magnet synchronous motor drive reflecting the PM flux linkage variations,” J. Power Electron., vol. xx, no. xx, pp. xx-xx, 2023.
+5.	D. L. Bessette, D. C. Brainard, A. K. Srivastava, W. Lee, and S. Geurkink, “Battery electric tractors: small-scale organic growers’ preference, perspective, and concerns,” Energies 2022, 15, 8648.
+6.	P. C. Palavicino, W. Lee, and B. Sarlioglu, “Detection and compensation of inter-turn short circuit in interior permanent magnet synchronous machines with 2-level voltage source inverter,” IEEE Trans. Ind. Appl., vol. 58, no. 6, pp. 7251-7262, 2022.
+7.	L. Chang, M. Alvi, W. Lee, J. Kim, and T. M. Jahns, “Efficiency optimization of PWM-induced power losses in traction drive systems with IPM machines using wide bandgap-based inverters,” IEEE Trans. Ind. Appl., vol. 58, no. 5, pp. 5635-5649, 2022.
+8.	H. Dai, R. A. Torres, J. Gossmann, W. Lee, T. M. Jahns, and B. Sarlioglu, “A seven-switch current-source inverter using wide bandgap dual-gate bidirectional switches,” IEEE Trans. Ind. Appl., vol. 58, no. 3, pp. 3721-3737, 2022.
+9.	H. Ding, L. Zhang, A. Hembel, W. Lee, G. Nellis, and B. Sarlioglu, “Evaluation of the effects of skew on the electromagnetic and thermodynamic performance of an integrated motor-compressor,” IEEE Trans. Ind. Appl., vol. 58, no. 1, pp. 273-283, 2021.
+10.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, B. Sarlioglu, “Current-source inverter integrated motor drives using dual-gate four-quadrant wide-bandgap power switches,” IEEE Trans. Ind. Appl., vol. 57, no. 5, pp. 5183-5198, Jul. 2021.
+11.	L. Chang, W. Lee, T. Jahns, and R. Khwaja, “Investigation and prediction of high-frequency iron loss in lamination steels driven by voltage-source inverters using wide-bandgap switches,” IEEE Trans. Ind. Appl., vol. 57, no. 4, pp. 3607-3618, Jul.-Aug. 2021.
+12.	W. Lee, D. Han, D. Bobba, and B. Sarlioglu, “Design of Single-turn Air-core integrated planar inductor for improved thermal performance of GaN HEMT-based synchronous buck converter,” IEEE Trans. Ind. Appl., vol. 56, no. 2, pp. 1543-1552, 2019.
+13.	W. Lee, J. H. Kim, W. Choi, and B. Sarlioglu, “Torque ripple minimization control technique of high-speed single-phase brushless DC motor drive for electric turbocharger,” IEEE Trans. Veh. Technol., vol. 67, no. 11, pp. 10357-10365, Aug. 2018.
+14.	W. Choi, W. Lee, D. Han, and B. Sarlioglu, “New configuration of multi-functional grid-connected inverter to improve both current-based and voltage-based power quality,” IEEE Trans. Ind. Appl., vol. 54, no. 6, pp. 6374-6382, Jul. 2018.
+15.	W. Lee, S. Li, D. Han, T. Minav, M. Pietola, and B. Sarlioglu, “A review of integrated motor drive and wide bandgap power electronics for high performance electro-hydrostatic actuators,” IEEE Trans. Transport. Electrific., vol. 4, no. 3, pp. 684-693, Jul. 2018.
+16.	W. Lee, D. Han, and B. Sarlioglu, “Comparative performance analysis of reference voltage controlled pulse width modulation for high-speed single-phase brushless DC motor drive,” IEEE Trans. Power Electron., vol. 33, no. 5, pp. 4560-4568, May. 2018.
+17.	D. Han, W. Lee, S. Li, and B. Sarlioglu, “A new method for common mode voltage cancellation in motor drive: concept, realization, and asymmetry influence,” IEEE Trans. Power Electron., vol. 33, no. 2, pp. 1188-1201, Feb. 2018.
+18.	D. Han, C. T. Morris, W. Lee, and B. Sarlioglu, “Comparison between output CM chokes for SiC drive operating at 20 kHz and 200 kHz switching frequencies,” IEEE Trans. Ind. Appl., vol. 53, no. 3, pp. 2178-2188, May. 2017.
+19.	W. Lee, D. Han, C. Morris, and B. Sarlioglu, “High-frequency GaN HEMTs based point-of-load synchronous buck converter with zero-voltage switching,” Journal of Power Electron., vol. 17, no. 3, pp. 601-609, May. 2017.
+20.	D. Han, C. T. Morris, W. Lee, and B. Sarlioglu, “A case study on common mode electromagnetic interference characteristics of GaN HEMT and Si MOSFET power converters for EV/HEVs,” IEEE Trans. Transport. Electrific., vol. 3, no. 1, pp. 168-179, Mar. 2017.
+21.	W. Lee, E. Schubert, Y. Li, S. Li, D. Bobba, and B. Sarlioglu, "Overview of electric turbocharger and supercharger for downsized internal combustion engines,” IEEE Trans. Transport. Electrific., vol. 3, no. 1, pp. 36-47, Mar. 2017.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Conference Proceedings
+1.	M. Benson, A. Dornala, M. Andleeb, and W. Lee, “Simple and robust carrier-based PWM technique for single-stage three-phase rectifier indirect matrix converter,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
+2.	K. Lee, M. Benson, X. Dong, J. Moon, and W. Lee, “A comparative common-mode EMI noise analysis of neutral-point-less (NPL) multilevel X-type inverter with active common-mode voltage cancellation,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
+3.	A. Dornala, K. Lee, M. Benson, M. Fereydoonian, and W. Lee, “A comprehensive efficiency and EMI analysis of WBG-based multilevel inverters for 800 V electric vehicle traction systems,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
+4.	J. Choi, W. Lee, J. Lee, “Broken rotor bar fault detection in AC induction motors using cascaded flux-current state observer,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
+5.	J. Ko, J. So, C. Choi, W. Lee, and D. Kim, “A novel method for predicting the leakage inductance of the high-frequency transformer in a DAB converter considering parasitic capacitance,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2023, pp. 1-6.
+6.	M. Benson, X. Dong, K. Lee, J. Moon, and W. Lee, “Neutral-point-less (NPL) multilevel inverter with discontinuous pulse width modulations: X-type inverter,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2023, pp. 1-6.
+7.	M. Fereydoonian, G. Choi, and W. Lee, “Rotor saliency optimization for high-power density wound-field flux-switching machines,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2023, pp. 1-6.
+8.	R. Torres, H. Dai, W. Lee, T. Jahns, and B. Sarlioglu, “Investigation of pulsating vector excitation saliency-based rotor position estimation method in current-source inverters,” in Proc. IEEE International Symposium on Sensorless Control for Electrical Drives (SLED), 2023, pp. 1-6.
+9.	K. Lee, M. Fereydoonian, M. S. S. Nia, and W. Lee, “A comprehensive review of partial discharge modeling and measurement in WBG-based AC machine drives,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2023, pp. 1-6.
+10.	W. Lee and B. Sarlioglu “Fault-tolerant six-phase motor drive topology and control technique for short-circuit failure,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2023, pp. 1-6.
+11.	K. Lee, M. Benson, M. Fereydoonian, X. Dong, J. Moon, and W. Lee, “Comprehensive electromagnetic interference analysis of neutral-point-less (NPL) multilevel inverter with active common-mode voltage cancellation,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2023.
+12.	K. Lee, M. S. S. Sanjari, and W. Lee, “Frequency spectrum analysis of partial discharge activities in WBG-based AC machine drives,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2023.
+13.	M. Benson, X. Dong, M. Guven, K. Lee, J. Moon, and W. Lee, “Efficiency and DC-link ripple analysis of neutral-point-less (NPL) multilevel inverter with discontinuous pulse width modulations,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2022, pp. 1-6.
+14.	M. Fereydoonian, D. Bobba, and W. Lee, “Magnetic flux path and inductance analysis of flux-switching machines with different field and armature winding configurations,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2022, pp. 1-6.
+15.	R. A. Torres, H. Dai, W. Lee, K. Saviers, T. M. Jahns, and B. Sarlioglu, “Investigation of cooling techniques and enclosure types for integrated motor drives,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2022, pp. 1-6.
+16.	M. Guven, K. Lee, Y. Dong, and W. Lee, “Shunt-connected solar microinverter for induction motor soft-starting and active and reactive power compensation,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2022, pp. 1-6.
+17.	M. Fereydoonian, K. Lee, D. Bobba, and W. Lee, “Comparative analysis of wound-field flux-switching machines with different field and armature winding configurations,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2022, pp. 1-6.
+18.	M. Benson, X. Dong, M. Guven, K. Lee, J. Moon, and W. Lee, “Neutral-point-less (NPL) multilevel inverter topology with single dc-link capacitor: H-type inverter,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2022, pp. 1-6.
+19.	M. Guven, M. Benson, X. Dong, J. Moon, and W. Lee, “Operating principal of neutral-point-less (NPL) multilevel inverter topology: X-type inverter,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2022, pp. 1-6.
+20.	K. Lee, M. Fereydoonian, M. Benson, and W. Lee, “Partial discharge and electromagnetic interference under repetitive voltage pulses with high slew rate in AC machine drives,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2022, pp. 1-6.
+21.	J. Park, Y. Kwon, Y. Kwon, D. Lee, S. Kwon, S. Kim, G. Choi, and W. Lee, “Development of an eddy current braking system for an e-mobility application,” in Proc. Int. Conf. on Next Generation Computing, 2021.
+22.	W. Lee, G. Choi, “A comprehensive review of fault-tolerant AC machine drive topologies: inverter, control, and electric machine,” in Proc. IEEE International Symposium on Diagnostics for Electric Machines, Power Electronics, and Drives (SDEMPED), 2021, pp. 1-8.
+23.	W. Lee, R. A. Torres, H. Dai, T. M. Jahns, and B. Sarlioglu, “Integration and cooling strategies for WBG-based current-source inverter-based motor drives,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2021, pp. 5225-5232.
+24.	S. Wang, M. Fereydoonian, and W. Lee, “Six-phase three-level neutral point clamped inverter for capacitor voltage balancing and CMV cancellation,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2021.
+25.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, and B. Sarlioglu, “Cooling design of integrated motor drives using analytical thermal model, finite element analysis, and computational fluid dynamics,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2021, pp. 1509-1516.
+26.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, and B. Sarlioglu, “Thermal analysis of housing-cooled integrated motor drives,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2021, pp. 1-6.
+27.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, and B. Sarlioglu, “Evaluation of sensorless techniques for surface permanent-magnet integrated motor drive using current-source inverter,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2020, pp. 2387-2394.
+28.	H. Dai, R. A. Torres, W. Lee, T. M. Jahns, and B. Sarlioglu, “Integrated motor drive using soft-switching current-source inverters with SiC-and GaN-based bidirectional switches,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2020, pp. 2372-2378.
+29.	H. Dai, R. A. Torres, W. Lee, T. M. Jahns, and B. Sarlioglu, “High-frequency evaluation of two-level voltage-source and current-source inverters with different output cables,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2020, pp. 2403-2410.
+30.	H. Dai, R. A. Torres, J. Gossmann, W. Lee, T. M. Jahns, and B. Sarlioglu, “Common-mode EMI examination of three-phase voltage-source and current-source converters systems using WBG devices,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2020, pp. 3558-3565.
+31.	L. Chang, W. Lee, T. M. Jahns, and J. Kim, “Comparative analysis of PWM power losses in IPM machines with different modulation schemes using wide-bandgap-based inverters,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2020, pp. 3629-3636.
+(IEEE IAS Electrical Machines Committee Second Prize Award)
+32.	S. Lee, M. Liu, W. Lee, and B. Sarlioglu, “Comparison of high-frequency impedance of AC machines with circumferential and toroidal winding topologies for SiC MOSFET machine drives,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2020, pp. 3572-3579.
+33.	P. C. Palavicino, W. Lee, and B. Sarlioglu, “Detection and compensation of inter-turn short circuit in interior permanent magnet synchronous machines with 2-level voltage source inverter,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2020, pp. 4460-4465.
+34.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, and B. Sarlioglu, “A simple and robust controller design for high-frequency WBG-based current-source inverter-fed AC motor drive,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2020, pp. 111-117.
+(IEEE ITEC Best Paper Award)
+35.	P. Tian, W. Lee, and B. Sarlioglu, “Study of performance of balanced inverter under influence of power loop stray inductance,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2020, pp. 659-664.
+36.	H. Dai, R. A. Torres, J. Gossmann, W. Lee, T. M. Jahns, and B. Sarlioglu, “An H7 current-source inverter using wide bandgap bidirectional switches to achieve high efficiency and low conducted common-mode EMI,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2020, pp. 2519-2525.
+37.	P. C. Palavicino, B. Sarlioglu, D. Bobba, W. Lee, and T. Minav, “Electrification of hydraulic systems using high efficiency permanent magnet motors,” in Proc. 12th International Fluid Power Conf., 2020, pp. 461-469.
+38.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, B. Sarlioglu, “Development of current-source-inverter-based integrated motor drives using wide-bandgap power switches,” in Proc. Brazilian Power Electronics Conf. (COBEP), 2019, pp. 1-6.
+39.	W. Lee, S. G. Min, and B. Sarlioglu, “Modular 2n-phase inverter (M2I) topology with novel phase current injection scheme for fault-tolerant multiphase electric machine drives,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2019, pp. 345-352.
+40.	L. Cheng, W. Lee, T. M. Jahns, K. Rahman, “Investigation and prediction of PWM-induced iron loss in lamination steels using high-frequency inverters with wide-bandgap switches,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2019, pp. 2307-2314.
+41.	W. Lee, D. Han, and B. Sarlioglu, “Single-turn integrated planar inductor for GaN HEMT-based zero-voltage switching synchronous buck converter,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2019, pp. 1653-1660.
+42.	P. C. Palavicino, W. Lee, B. Sarlioglu, and T. A. Minav, “On faults and diagnostics in electrified hydraulic actuator systems,” in Proc. EPE ’18 ECCE Europe, 2018, pp. 1-10.
+43.	W. Choi, W. Lee, D. Han, and B. Sarlioglu, “Shunt-series-switched multi-functional grid-connected inverter for voltage regulation in vehicle-to-grid application,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2018, pp. 961-965.
+44.	W. Lee and B. Sarlioglu, “Thermal analysis of lateral GaN HEMT devices for high power density integrated motor drives considering the effect of PCB layout and parasitic parameters,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2018, pp. 471-476.
+45.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, and B. Sarlioglu, “Current-source inverters for integrated motor drives using wide-bandgap power switches,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2018, pp. 1002-1008.
+46.	P. C. Palavicino, Y. Wu, M. Smuda, W. Choi, W. Lee and B. Sarlioglu, “Methodology for evaluating potential benefits and economic value of residential photovoltaic and battery energy storage system,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2018, pp. 725-730.
+47.	D. Han, W. Lee, S. Li, and B. Sarlioglu, “Comparative performance evaluation of common mode voltage reduction three-phase inverter topologies,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2018, pp. 2625-2629.
+48.	W. Lee and B. Sarlioglu, “Design and analysis of integrated planar inductor for GaN HEMT-based zero-voltage switching synchronous buck converter,” in Proc. Power and Energy Conf. at Illinois (PECI), 2018, pp. 1-6.
+49.	W. Lee, D. Han, W. Choi, and B. Sarlioglu, “Reducing reverse conduction and switching losses in GaN HEMT-based high-speed permanent magnet brushless DC motor drive,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2017, pp. 3522-3528.
+50.	D. Han, S. Li, W. Lee, and B. Sarlioglu, “Achieving zero common mode voltage generation in a balanced inverter with neutral-point diode-clamping,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2017, pp. 4351-4357.
+51.	W. Choi, W. Lee, and B. Sarlioglu, “Performance evaluation of shunt-series switched multi-functional grid-connected inverter for voltage regulation,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2017, pp. 2996-3003.
+52.	W. Lee, S. Li, D. Han, B. Sarlioglu, T. A. Minav, and M. Pietola, “Achieving high-performance electrified actuation system with integrated motor drive and wide bandgap power electronics,” in Proc. EPE ’17 ECCE Europe, 2017, pp. 1-10.
+53.	D. Han, S. Li, W. Lee, and B. Sarlioglu, “Adoption of wide bandgap technology in hybrid/electric vehicles-opportunities and challenges,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2017, pp.561-566.
+54.	W. Choi, Y. Wu, D. Han, J. Gorman, P. C. Palavicino, W. Lee, and B. Sarlioglu, “Reviews on grid-connected inverter, utility-scaled battery energy storage system, and vehicle-to-grid application – challenges and opportunities,” in Proc. IEEE Transport. Electrific. Conf. and Expo (ITEC), 2017, pp.203-210.
+55.	W. Choi, W. Lee, D. Han and B. Sarlioglu, "New configuration of multi-functional grid-connected inverter to improve both current-based and voltage-based power quality,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2016, pp. 1-8.
+(IEEE ECCE Best Paper Award)
+56.	W. Choi, W. Lee, and B. Sarlioglu, "Reactive power compensation of grid-connected inverter in vehicle-to-grid application to mitigate balanced grid voltage sag,” in Proc. IEEE Power and Energy Soc. General Meeting (PESGM), 2016, pp. 1-5.
+57.	W. Lee, E. Schubert, Y. Li, S. Li, D. Bobba, and B. Sarlioglu, "Electrification of turbocharger and supercharger for downsized internal combustion engines and hybrid electric vehicles – benefits and challenges,” in Proc. IEEE Transport. Electrific. Conf. and Expo (ITEC), 2016, pp.1-6.
+58.	D. Han, C. Morris, W. Lee, and B. Sarlioglu, “Three-phase common mode inductor design and size minimization,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2016, pp. 1-8.
+59.	W. Choi, W. Lee, and B. Sarlioglu, “Reactive power control of grid-connected inverter in vehicle-to-grid application for voltage regulation,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2016, pp. 1-7.
+60.	W. Choi, W. Lee, and B. Sarlioglu, “Effect of grid inductance on power quality of parallel grid-connected inverter system with output LCL filter and closed-loop control,” in Proc. the IEEE Appl. Power Electron. Conf. (APEC), 2016, pp. 2679-2686.
+61.	D. Han, C. Morris, W. Lee, and B. Sarlioglu, “Determination of CM Choke Parameters for SiC MOSFET Motor Drive Based on Simple Measurements and Frequency Domain Modeling,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2016, pp. 2861-2867.
+(IEEE APEC Best Poster Presentation Recognition)
+62.	W. Choi, W. Lee, C. Morris, and B. Sarlioglu, “Modeling three-phase grid-connected inverter system using complex vector in synchronous dq reference frame and analysis on the influence of tuning parameters of synchronous frame PI controller,” in Proc. Power and Energy Conf. (PECI), 2016.
+63.	W. Lee, J. H. Kim, W. Choi, and B. Sarlioglu, “Torque ripple minimization via PWM control technique with GaN-based motor drive for high speed single phase brushless DC motor,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2015, pp. 4019-4025.
+64.	W. Lee, D. Han, and B. Sarlioglu, “Minimizing switching losses in high switching frequency GaN-based synchronous buck converter with zero-voltage resonant-transition switching,” in Proc. IEEE Int. Conf. of Power Electron. (ECCE-Asia), 2015, pp. 233-239.
+65.	W. Lee, D. Han, and B. Sarlioglu, “GaN-based single phase brushless DC motor drive for high speed applications,” in Proc. IEEE The 40th Annual Conf. of the IEEE Ind. Electron. Society (IECON), 2014, pp. 1499-1505.
+(IEEE IECON Best Oral Presentation Recognition)
+66.	D. Han, W. Lee, J. Noppakunkajorn, and B. Sarlioglu, “Investigating the influence of interconnection parasitic inductance on the performance of SiC based DC-DC converters in hybrid vehicles,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2014, pp. 1-7.
+
