@@ -4,7 +4,7 @@ title: "Home"
 permalink: /about/
 author_profile: true
 ---
-![image](./images/main_logo.png)
+![image](../images/main_logo.png)
 
 MSU Power Electronics and Drives Research Lab
 ------
