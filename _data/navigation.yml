@@ -2,7 +2,7 @@
 main:
 
   - title: "Home"
-    url: https://minority24.github.io/mattwklee.github.io/
+    url: /about/
     
   - title: "Members"
     url: /members/
