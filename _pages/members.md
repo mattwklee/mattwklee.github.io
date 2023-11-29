@@ -18,8 +18,8 @@ Graduate Students
 -----
 ![mostafa](/mattwklee.github.io/images/mf.png){: .align-left width="100px"}Mostafa Fereydoonian - Mostafa received his B.Sc. degree in electrical engineering from Shahid Beheshti University, Abbaspour School of Engineering, Tehran, Iran, in 2012. He is currently working toward the Ph.D. in electrical engineering at Michigan State University. His research interests include rare-earth magnet-free electric machines, integrated motor drives, and high-power density drive design.
 
-
-
+#
+#
 
 ![mikayla](/mattwklee.github.io/images/mb.png){: .align-left width="100px"}Mikayla Benson - Mikayla received B.S. degrees in Mechanical and Electrical Engineering from Kettering University in Flint, MI in March 2020, and M.S. degree from Michigan State University in May 2023. She is currently pursuing a Ph.D. at Michigan State University. Her research interests include WBG applications, power converters, and multilevel inverters.
 
