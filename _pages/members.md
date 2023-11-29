@@ -52,5 +52,6 @@ Ryan Atkinson
 
 Undergraduate Research Teams
 -----
-MSU Solar Racing Team
-MSU DRIFT Team
+![SRT](/mattwklee.github.io/images/SRT.png)[MSU Solar Racing Team](https://www.msusolar.com/)
+
+![DRIFT](/mattwklee.github.io/images/DRIFT.png)[MSU DRIFT Team](https://www.teamdrift.org/)
