@@ -8,7 +8,7 @@ main:
     url: /members/
     
   - title: "Research"
-    url: /talks/
+    url: /research/
 
   - title: "Publications"
     url: /publications/
