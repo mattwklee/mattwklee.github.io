@@ -49,4 +49,4 @@ News
 
 Research Sponsors
 ------
-![image](images/sponsors.png)
+![image](/mattwklee.github.io/images/sponsors.png)
