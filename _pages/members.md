@@ -1,8 +1,8 @@
 ---
-permalink: /members/
+layout: archive
 title: "Members"
+permalink: /members/
 author_profile: true
-
 ---
 Principal Investigator
 -----
