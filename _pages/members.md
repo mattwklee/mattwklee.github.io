@@ -3,8 +3,8 @@ permalink: /
 title: "Members"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /members/
+  - /members.html
 ---
 Principal Investigator
 -----
