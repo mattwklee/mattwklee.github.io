@@ -3,8 +3,8 @@ permalink: /
 title: "Members"
 author_profile: true
 redirect_from: 
-  - /members/
-  - /members.html
+  - /md/
+  - /markdown.html
 ---
 
 ![image](images/main_logo.png)
