@@ -55,4 +55,4 @@ Undergraduate Research Teams
 -----
 ![SRT](/mattwklee.github.io/images/SRT.png)[MSU Solar Racing Team](https://www.msusolar.com/)
 
-![DRIFT](/mattwklee.github.io/images/DRIFT.png){: .align-left width="150px"}[MSU DRIFT](https://www.teamdrift.org/)
+![DRIFT](/mattwklee.github.io/images/DRIFT.png){: width="150px"}[MSU DRIFT](https://www.teamdrift.org/)
