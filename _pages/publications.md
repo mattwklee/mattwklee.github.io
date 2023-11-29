@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[Google Scholar](https://academicpages.github.io/talkmap.html](https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en)    [ResearchGate](https://www.researchgate.net/profile/Woongkul-Lee)
+[Google Scholar](https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en)    [ResearchGate](https://www.researchgate.net/profile/Woongkul-Lee)
 
 Journal Publication
 ------
