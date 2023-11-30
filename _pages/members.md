@@ -43,6 +43,11 @@ Prerana Gunda
 
 Ryan Atkinson
 
+Alumni
+-----
+Saurabh Shah (M.S., 2022) Application Engineer at MPS
+
+Yuchen Wang (B.S., 2021) Engineer at Bosch
 
 Undergraduate Research Teams
 -----
