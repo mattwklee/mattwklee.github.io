@@ -11,7 +11,7 @@ Principal Investigator
 - M.S. University of Wisconsin-Madison
 - Ph.D. University of Wisconsin-Madison
 
-Postdoctroal Research Associates
+Postdoctoral Research Associates
 -----
 
 Graduate Students
