@@ -46,6 +46,8 @@ News
 - [New member] Kangbeen Lee joined the team
 - [Research Grant] MTRAC Award
 - [Research Grant] NASA USRC Research Grant
+- [Research Grant] Project GREEEN Research Grant
+- [Research Grant] Huppert Engineering Research Grant
   
 2020
 - [New member] Matt Woongkul Lee joined MSU
