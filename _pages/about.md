@@ -23,6 +23,7 @@ News
 - [Publications] Three papers presented @ IEEE ECCE 2023
 - [Publications] IEEE TPEL journal paper titled "NPL.H: Neutral-point-less H-type 3-level inverter" accepted
 - [Research Grant] DOE VTO Research Grant
+- [Research Grant] BorgWarner Research Grant
 - [New member] Ali Halawa joined the team
 - [New member] Gavin Gardner joined the team
 - [Research Grant] MTRAC Full Grant
@@ -36,6 +37,7 @@ News
 - [Research Grant] US Army GVSC Research Grant
 - [Research Grant] DOE VTO Research Grant
 - [Research Grant] MTRAC Starter Grant
+- [Research Grant] BorgWarner Research Grant
 
 2021
 - [New member] Mikayla Benson joined the team
