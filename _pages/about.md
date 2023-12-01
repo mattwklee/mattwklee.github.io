@@ -22,7 +22,7 @@ News
 - [Research Grant] ARPA-E ULTRAFAST Research Grant
 - [Publications] Four papers accepted @ IEEE APEC 2024
 - [Publications] Three papers presented @ IEEE ECCE 2023
-- [Publications] IEEE TPEL journal paper titled "NPL.H: Neutral-point-less H-type 3-level inverter" accepted
+- [Publications] IEEE TPEL journal paper accepted
 - [Research Grant] DOE VTO Research Grant
 - [Research Grant] BorgWarner Research Grant
 - [Publications] IEEE TTE journal paper accepted
