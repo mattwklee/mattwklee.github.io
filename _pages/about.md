@@ -25,6 +25,7 @@ News
 - [Publications] IEEE TPEL journal paper titled "NPL.H: Neutral-point-less H-type 3-level inverter" accepted
 - [Research Grant] DOE VTO Research Grant
 - [Research Grant] BorgWarner Research Grant
+- [Publications] IEEE TTE journal paper accepted
 - [New member] Ali Halawa joined the team
 - [New member] Gavin Gardner joined the team
 - [Research Grant] MTRAC Full Grant
