@@ -19,6 +19,7 @@ Specific research interests include:
 News
 ------
 2023
+- [Research Grant] ARPA-E ULTRAFAST Research Grant
 - [Publications] Four papers accepted @ IEEE APEC 2024
 - [Publications] Three papers presented @ IEEE ECCE 2023
 - [Publications] IEEE TPEL journal paper titled "NPL.H: Neutral-point-less H-type 3-level inverter" accepted
