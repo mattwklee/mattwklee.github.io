@@ -1,6 +1,6 @@
 ---
 title: "Home"
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 ![image](/images/main_logo.png)
