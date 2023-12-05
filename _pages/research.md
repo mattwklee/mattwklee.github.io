@@ -4,6 +4,9 @@ permalink: /research/
 author_profile: true
 ---
 
+![image](/images/main_airplane.png)
+
+
 Neutral-Point-Less Multilevel Inverter
 ------
 
