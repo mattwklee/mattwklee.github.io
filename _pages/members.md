@@ -5,7 +5,7 @@ author_profile: true
 ---
 Principal Investigator
 -----
-![matt](/images/mwl.png){: .align-left width="100px"}Dr. Matt Woongkul Lee - Matt is broadly interested in high-performance motor drive, power electronics, electric machines, and distributed energy resources. He was a postdoctoral research associate at WEMPEC, University of Wisconsin-Madison from 2019 to 2020. Before that, he spent 6 years at UW-Madison for both M.S. and Ph.D. degrees both in electrical engineering. In 2020, he joined Michigan State University as an assistant professor continuing his research in power electronics and electric machines. 
+![matt](/images/mwl.png){: .align-left width="100px"}Dr. Matt Woongkul Lee - Matt has a comprehensive interest in cutting-edge motor drive systems, power electronics, electric machines, and the integration of distributed energy resources, focusing on the critical role of efficient energy conversion in fostering a sustainable future. His academic journey included a postdoctoral research associate at WEMPEC, University of Wisconsin-Madison, from 2019 to 2020, after spending six years at the same university for his M.S. and Ph.D. in electrical engineering. In 2020, Matt took up a position as an assistant professor at Michigan State University, where he has continued his work in power electronics and electric machines, contributing to advancements in energy efficiency and sustainability. His commitment to advancing energy efficiency and sustainability was recognized in 2024 with the prestigious NSF CAREER award.
 
 - B.S. Yonsei University
 - M.S. University of Wisconsin-Madison
