@@ -21,6 +21,7 @@ News
 2024
 - [Publications] Four papers presented @ IEEE APEC 2024
 - [Research Grant] NSF CAREER Award
+- [Publications] Two IEEE ACCESS papers accepted
 - [Research Seminar] MDSM 2024 research seminar
 - [Research Seminar] Hyundai Motors R&D Center
 - [Research Seminar] Hanyang University
