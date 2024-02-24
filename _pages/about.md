@@ -67,4 +67,4 @@ News
 
 Research Sponsors
 ------
-![image](/images/sponsors.png)
+![image](/images/sponsors_2024.jpg)
