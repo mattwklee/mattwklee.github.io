@@ -18,6 +18,17 @@ Specific research interests include:
 
 News
 ------
+2024
+- [Publications] Four papers presented @ IEEE APEC 2024
+- [Research Grant] NSF CAREER Award
+- [Research Seminar] MDSM 2024 research seminar
+- [Research Seminar] Hyundai Motors R&D Center
+- [Research Seminar] Hanyang University
+- [Research Seminar] Keimyung University
+- [Research Seminar] Inha University
+- [Research Seminar] Jeonbuk National University
+- [Research Seminar] Yeungnam University
+
 2023
 - [Research Grant] ARPA-E ULTRAFAST Research Grant
 - [Publications] Four papers accepted @ IEEE APEC 2024
