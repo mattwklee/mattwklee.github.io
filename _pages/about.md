@@ -19,6 +19,8 @@ Specific research interests include:
 News
 ------
 2024
+- [Publications] Four papers accepted @ IEEE ITEC 2024
+- [Presentation Award] Poster presentation award @ IEEE APEC 2024
 - [Publications] Four papers presented @ IEEE APEC 2024
 - [Research Grant] NSF CAREER Award
 - [Publications] Two IEEE ACCESS papers accepted
