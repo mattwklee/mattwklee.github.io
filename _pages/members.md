@@ -13,7 +13,9 @@ Principal Investigator
 
 Postdoctoral Research Associates
 -----
-![haitao](/images/haitao.png){: .align-left width="100px"}Dr. Haitao Sun received the B.Sc. degree in automation and the M.Sc. degree in electrical engineering from the Taiyuan University of Technology, Taiyuan, China, in 2012 and 2016, respectively. Dr. Sun received his Ph.D. in electrical energy, metals, mechanical construction and systems at Ghent University, Gent, Belgium.
+![haitao](/images/haitao.png){: .align-left width="100px"}Dr. Haitao Sun received the B.Sc. degree in automation and the M.Sc. degree in electrical engineering from the Taiyuan University of Technology, Taiyuan, China, in 2012 and 2016, respectively. Dr. Sun received his Ph.D. in electrical energy, metals, mechanical construction and systems at Ghent University, Gent, Belgium. His research interests include switched reluctance motor drives and high-power density drive design.
+
+-----
 
 Graduate Students
 -----
