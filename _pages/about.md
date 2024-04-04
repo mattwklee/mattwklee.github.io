@@ -19,6 +19,7 @@ Specific research interests include:
 News
 ------
 2024
+- [Publications] IEEE TIA journal paper accepted
 - [Publications] Four papers accepted @ IEEE ITEC 2024
 - [Presentation Award] Poster presentation award @ IEEE APEC 2024
 - [Publications] Four papers presented @ IEEE APEC 2024
