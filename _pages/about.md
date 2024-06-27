@@ -19,13 +19,13 @@ Specific research interests include:
 News
 ------
 2024
-- [Research Grant/Award] ARPA-E IGNITE Early Career Award (https://arpa-e.energy.gov/igniite-2024-selectees)
+- [Research Grant/Award] [ARPA-E IGNITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
 - [Publications] IEEE TTE journal paper accepted
 - [Publications] IEEE TIA journal paper accepted
 - [Publications] Four papers accepted @ IEEE ITEC 2024
 - [Presentation Award] Poster presentation award @ IEEE APEC 2024
 - [Publications] Four papers presented @ IEEE APEC 2024
-- [Research Grant/Award] NSF CAREER Award (https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338755)
+- [Research Grant/Award] [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338755)
 - [Publications] Two IEEE ACCESS papers accepted
 - [Research Seminar] MDSM 2024 research seminar
 - [Research Seminar] Hyundai Motors R&D Center
