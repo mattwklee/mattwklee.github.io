@@ -19,7 +19,7 @@ Specific research interests include:
 News
 ------
 2024
-- [Research Grant/Award] [ARPA-E IGNITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
+- [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
 - [Publications] IEEE TTE journal paper accepted
 - [Publications] IEEE TIA journal paper accepted
 - [Publications] Four papers accepted @ IEEE ITEC 2024
