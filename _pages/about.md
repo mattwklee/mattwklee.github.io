@@ -19,6 +19,7 @@ Specific research interests include:
 News
 ------
 2024
+- Dr. Lee is elevated to IEEE Senior Member
 - [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
 - [Publications] IEEE TTE journal paper accepted
 - [Publications] IEEE TIA journal paper accepted
