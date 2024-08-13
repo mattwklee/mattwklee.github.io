@@ -19,6 +19,7 @@ Specific research interests include:
 News
 ------
 2024
+- Our research group moved to Purdue University in Fall 2024
 - Matt is elevated to IEEE Senior Member
 - [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
 - [Publications] IEEE TTE journal paper accepted
