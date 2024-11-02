@@ -8,7 +8,7 @@ Purdue University
 2024
 - ECE 61016 – Power Electronic Converters and Systems
 
----
+
 Michigan State University
 ------
 2023
