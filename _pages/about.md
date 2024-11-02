@@ -25,8 +25,8 @@ News
 - [Publications] IEEE JESTIE journal paper accepted
 - [New member] Karen Reyes joined the team
 - [New member] Junghoon Kim joined the team
-- [New member] Junhyuk Im joined the team
-- [New member] Hyunwoo Kim joined the team
+- [New member] Dr. Junhyuk Im joined the team
+- [New member] Dr. Hyunwoo Kim joined the team
 - Our research group moved to Purdue University in Fall 2024
 - Matt is elevated to IEEE Senior Member
 - [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
