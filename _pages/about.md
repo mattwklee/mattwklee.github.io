@@ -19,6 +19,10 @@ Specific research interests include:
 News
 ------
 2024
+- [Research Grant/Award] [USDA NRCS]([https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338755](https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power))
+- [Publications] Three papers presented @ IEEE ECCE 2024
+- [Publications] IEEE TPEL journal paper accepted
+- [Publications] IEEE JESTIE journal paper accepted
 - Our research group moved to Purdue University in Fall 2024
 - Matt is elevated to IEEE Senior Member
 - [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
