@@ -19,7 +19,8 @@ Specific research interests include:
 News
 ------
 2024
-- [Research Grant/Award] [USDA NRCS](https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power)
+- [Research Grant] Microelectronics Commons SCMC Hub research grant
+- [Research Grant] [USDA NRCS](https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power)
 - [Publications] Three papers presented @ IEEE ECCE 2024
 - [Publications] IEEE TPEL journal paper accepted
 - [Publications] IEEE JESTIE journal paper accepted
