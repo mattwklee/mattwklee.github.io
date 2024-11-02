@@ -5,7 +5,7 @@ author_profile: true
 ---
 ![image](/images/main_logo.png)
 
-MSU Power Electronics and Drives Research Lab
+Purdue Power Electronics and Drives Research Lab
 ------
 Our research lab focuses on transportation electrification and distributed energy resources.
 
