@@ -40,6 +40,7 @@ Graduate Students
 
 -----
 ![mikhail](/images/Profile_pic.jpg){: .align-left width="100px"}Mikhail Lopes- Mikhail earned his Bachelor’s degree in Electrical and Electronics Engineering from PES University, India, in 2018. Subsequently, he joined Collins Aerospace as an Associate Electrical Engineer, where his work consisted of the design and testing of Electronic Control Units (ECUs) for motor systems integrated into Urban Air Mobility vehicles. Since 2024, he has been pursuing his Master's degree in Power and Energy Systems within the Electrical and Computer Engineering Department at Purdue University. His current academic focus includes Reliability of power systems analysis and sustainable energy solutions.
+
 -----
 
 Undergraduate Students
