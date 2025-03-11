@@ -56,4 +56,4 @@ Yuchen Wang (B.S. 2021) Engineer at Bosch
 
 Undergraduate Research Teams
 -----
-![Purdue](/images/logo-2.png)[Purdue Drone Team](https://vfspurdue.com)
+![Purdue](/images/logo-2.png){: .align-left width="100px"}[Purdue Drone Team](https://vfspurdue.com)
