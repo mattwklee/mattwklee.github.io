@@ -37,13 +37,13 @@ News
 - [New member] Dr. Hyunwoo Kim joined the team
 - Our research group moved to Purdue University in Fall 2024
 - Matt is elevated to IEEE Senior Member
-- [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/igniite-2024-selectees)
+- [Research Grant/Award] [ARPA-E IGNIITE Early Career Award]([https://arpa-e.energy.gov/igniite-2024-selectees](https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/optically-powered-ultra-high-speed-opus-wound-field-synchronous-generators))
 - [Publications] IEEE TTE journal paper accepted
 - [Publications] IEEE TIA journal paper accepted
 - [Publications] Four papers accepted @ IEEE ITEC 2024
 - [Presentation Award] Poster presentation award @ IEEE APEC 2024
 - [Publications] Four papers presented @ IEEE APEC 2024
-- [Research Grant/Award] [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338755)
+- [Research Grant/Award] [NSF CAREER Award]([https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338755](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2512910&HistoricalAwards=false))
 - [Publications] Two IEEE ACCESS papers accepted
 - [Research Seminar] MDSM 2024 research seminar
 - [Research Seminar] Hyundai Motors R&D Center
