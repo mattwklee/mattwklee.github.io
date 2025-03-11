@@ -18,6 +18,13 @@ Specific research interests include:
 
 News
 ------
+2025
+- [Research Grant] SJ Global Research Grant
+- [New member] Dr. Taewoo Kim joined the team
+- [Research Grant] BorgWarner Research Grant
+- [Publications] IEEE JESTIE journal paper accepted
+- [Publications] IEEE TIE journal paper accepted
+
 2024
 - [Research Grant] [Microelectronics Commons SCMC Hub research grant](https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/)
 - [Research Grant] [USDA NRCS](https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power)
