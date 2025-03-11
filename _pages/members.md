@@ -46,6 +46,9 @@ Graduate Students
 ![mikhail](/images/ML.jpg){: .align-left width="100px"}Mikhail Lopes - Mikhail earned his Bachelor’s degree in Electrical and Electronics Engineering from PES University, India, in 2018. Subsequently, he joined Collins Aerospace as an Associate Electrical Engineer, where his work consisted of the design and testing of Electronic Control Units (ECUs) for motor systems integrated into Urban Air Mobility vehicles. Since 2024, he has been pursuing his Master's degree in Power and Energy Systems within the Electrical and Computer Engineering Department at Purdue University. His current academic focus includes Reliability of power systems analysis and sustainable energy solutions.
 
 -----
+![karen](/images/KR.jpg){: .align-left width="100px"}Karen Reyes received her B.S. and M.S. in Electrical Engineering from Purdue University in West Lafayette, IN, in 2018 and 2021, respectively. Afterward, she joined Rohm Semiconductors as an Applications Engineer from 2021 to 2024, where her work focused on providing technical support for the testing and evaluation of SiC power MOSFETs and accelerometers. She is now pursuing a Ph.D. at Purdue University, focusing her research on wide bandgap (WBG) and ultra-wide bandgap (UWBG) devices.
+
+-----
 
 Undergraduate Students
 -----
