@@ -56,6 +56,4 @@ Yuchen Wang (B.S. 2021) Engineer at Bosch
 
 Undergraduate Research Teams
 -----
-![SRT](/images/SRT.png)[MSU Solar Racing Team](https://www.msusolar.com/)
-
-![DRIFT](/images/DRIFT.png){: width="150px"}[MSU DRIFT](https://www.teamdrift.org/)
+![SRT](/images/SRT.png)[Purdue Drone Team](https://vfspurdue.com)
