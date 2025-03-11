@@ -15,7 +15,11 @@ Postdoctoral Research Associates
 -----
 ![haitao](/images/haitao.png){: .align-left width="100px"}Dr. Haitao Sun received the B.Sc. degree in automation and the M.Sc. degree in electrical engineering from the Taiyuan University of Technology, Taiyuan, China, in 2012 and 2016, respectively. Dr. Sun received his Ph.D. in electrical energy, metals, mechanical construction and systems at Ghent University, Gent, Belgium. His research interests include switched reluctance motor drives and high-power density drive design.
 
+-----
 ![hyunwoo](/images/photo_khw.jpg){: .align-left width="100px"}Dr. Hyunwoo Kim received the B.S., M.S., and Ph.D. degrees in electrical engineering from Hanyang University, Seoul, South Korea, in 2017, 2019, and 2022, respectively. From 2022 to 2024, He had worked as a Postdoctoral Researcher with a Research Institute of Industrial Science, Hanyang University, Seoul, South Korea. From Mar. 2024 to Sep. 2024, he was a Research Assistant Professor with the Department of Electrical Engineering, Hanyang University, Seoul, South Korea. Since Sep. 2024, he has been a Postdoctoral Research Assistant with Elmore Family School of Electrical and Computer Engineering, Purdue University, West Lafayette, USA. His research interests include the design, analysis, and control of electrical machines that are applied in mechanical and electrical systems.
+
+-----
+![hyunwoo](/images/photo_khw.jpg){: .align-left width="100px"}Dr. Taewoo Kim received the B.S. degree in electrical engineering from Kyungpook National University, Daegu, South Korea, in 2019, and the M.S., and Ph.D. degrees in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2021, and 2025, respectively. His research interests include high power density dc/dc converter, low EMI noise dc/dc converter, fault-tolerance, digital control, and AI data center applications.
 
 -----
 
