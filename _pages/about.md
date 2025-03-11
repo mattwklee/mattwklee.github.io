@@ -43,7 +43,7 @@ News
 - [Publications] Four papers accepted @ IEEE ITEC 2024
 - [Presentation Award] Poster presentation award @ IEEE APEC 2024
 - [Publications] Four papers presented @ IEEE APEC 2024
-- [Research Grant/Award] [NSF CAREER Award]([https://www.nsf.gov/awardsearch/showAward?AWD_ID=2512910&HistoricalAwards=false)
+- [Research Grant/Award] [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2512910&HistoricalAwards=false)
 - [Publications] Two IEEE ACCESS papers accepted
 - [Research Seminar] MDSM 2024 research seminar
 - [Research Seminar] Hyundai Motors R&D Center
