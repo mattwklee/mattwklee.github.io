@@ -58,7 +58,7 @@ Graduate Students
 
 -----
 
-![Jun](/images/roshan.png){: .align-left width="100px"}Roshan Varadharajan - Roshan completed bachelor’s degree in Electronics and Instrumentation Engineering from India in 2022. He worked in renewable energy industry in power equipment sizing and control system development in both wind and PV projects. Since 2023, he is working towards MS program at Michigan State University. His research interests include renewable energy, grid integration and power converters.
+![roshan](/images/roshan.png){: .align-left width="100px"}Roshan Varadharajan - Roshan completed bachelor’s degree in Electronics and Instrumentation Engineering from India in 2022. He worked in renewable energy industry in power equipment sizing and control system development in both wind and PV projects. Since 2023, he is working towards MS program at Michigan State University. His research interests include renewable energy, grid integration and power converters.
 
 -----
 
