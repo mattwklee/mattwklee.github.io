@@ -22,8 +22,7 @@ Postdoctoral Research Associates
 ![Taewoo](/images/TWK.jpeg){: .align-left width="100px"}Dr. Taewoo Kim received the B.S. degree in electrical engineering from Kyungpook National University, Daegu, South Korea, in 2019, and the M.S., and Ph.D. degrees in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea, in 2021, and 2025, respectively. His research interests include high power density dc/dc converter, low EMI noise dc/dc converter, fault-tolerance, digital control, and AI data center applications.
 
 -----
-![Taewoo](/images/jim.png){: .align-left width="100px"}Junhyuk Im (Member, IEEE) received the bachelor’s, master’s, and Ph.D. degrees from Incheon National University, Incheon, South Korea, in 2017, 2019, and 2022, respectively.
-Following the completion of his doctoral studies, he spent one year as a Research Professor at Incheon National University. In 2023, he worked as a Senior Researcher at Daegu Mechatronics and Materials Institute, Daegu, South Korea. In 2024, he transitioned to his current role as a Post-Doctoral Researcher at Purdue University, West Lafayette, IN, USA, where he continues to contribute to the field of electric machines.
+![Taewoo](/images/jim.png){: .align-left width="100px"}Junhyuk Im (Member, IEEE) received the bachelor’s, master’s, and Ph.D. degrees from Incheon National University, Incheon, South Korea, in 2017, 2019, and 2022, respectively. Following the completion of his doctoral studies, he spent one year as a Research Professor at Incheon National University. In 2023, he worked as a Senior Researcher at Daegu Mechatronics and Materials Institute, Daegu, South Korea. In 2024, he transitioned to his current role as a Post-Doctoral Researcher at Purdue University, West Lafayette, IN, USA, where he continues to contribute to the field of electric machines.
 
 
 -----
@@ -56,6 +55,10 @@ Graduate Students
 -----
 
 ![Jun](/images/junkim.png){: .align-left width="100px"}Jun (Junghoon) Kim - Jun's research interest is in optical power transfer, gate driver, WBG power device and quantum computing for power electronics. He has been working on high voltage high power inverter design in GE Aerospace(Aug 2023 - Current), General Motors(Jan 2020 - Aug 2023) and Ford Motors Company(Jan 2017 - Jan 2020). Before Ford, he was doing electrical engineering for 1.5 years in Inalfa and i-Tech. He earned MS in electrical engineering - circuits from University of Michigan, Ann Arbor(May 2014), and BS in electrical engineering from Hanyang University, Ansan in South Korea(Feb 2012).
+
+-----
+
+![Jun](/images/roshan.png){: .align-left width="100px"}Roshan Varadharajan - Roshan completed bachelor’s degree in Electronics and Instrumentation Engineering from India in 2022. He worked in renewable energy industry in power equipment sizing and control system development in both wind and PV projects. Since 2023, he is working towards MS program at Michigan State University. His research interests include renewable energy, grid integration and power converters.
 
 -----
 
