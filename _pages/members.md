@@ -50,6 +50,10 @@ Graduate Students
 
 -----
 
+![Jun](/images/junkim.png){: .align-left width="100px"}Jun (Junghoon) Kim - Jun's research interest is in optical power transfer, gate driver, WBG power device and quantum computing for power electronics. He has been working on high voltage high power inverter design in GE Aerospace(Aug 2023 - Current), General Motors(Jan 2020 - Aug 2023) and Ford Motors Company(Jan 2017 - Jan 2020). Before Ford, he was doing electrical engineering for 1.5 years in Inalfa and i-Tech. He earned MS in electrical engineering - circuits from University of Michigan, Ann Arbor(May 2014), and BS in electrical engineering from Hanyang University, Ansan in South Korea(Feb 2012).
+
+-----
+
 Undergraduate Students
 -----
 Ben Schuchardt
