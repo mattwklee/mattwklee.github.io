@@ -19,11 +19,14 @@ Specific research interests include:
 News
 ------
 2025
-- [Research Grant] SJ Global Research Grant
+- [Publications] Two APEC paper presented
+- [Presentation Award] Oral presentation award @ IEEE APEC 2025, Congratulations Ali!
+- [Publications] IEEE TMAG journal paper accepted, Congratulations Kangbeen and Hyunwoo!
+- [Publications] IEEE TMAG journal paper accepted
 - [New member] Dr. Taewoo Kim joined the team
 - [Research Grant] BorgWarner Research Grant
 - [Publications] IEEE JESTIE journal paper accepted
-- [Publications] IEEE TIE journal paper accepted
+- [Publications] IEEE TIE journal paper accepted, Congratulations Haitao!
 
 2024
 - [Research Grant] [Microelectronics Commons SCMC Hub research grant](https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/)
