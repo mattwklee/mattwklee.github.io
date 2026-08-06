@@ -50,7 +50,7 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
   <p class="panel-link"><a href="/publications/">Related publications →</a></p>
 </div>
 <div class="topic-panel" id="t2">
-  <h3>Single-Stage Matrix Converters for DC Fast Charging and V2G</h3>
+  <h3>Single-Stage Matrix Converters for DC Fast Charging &amp; V2G</h3>
   <p>Direct AC-DC conversion without a bulky intermediate DC link enables compact, efficient DC fast chargers and vehicle-to-grid interfaces built on dual-gate bidirectional switches.</p>
   <div class="kw-band">
     <span class="kw-chip">Indirect matrix converters</span><span class="kw-chip">Dual-gate bidirectional switches</span><span class="kw-chip">Carrier-based modulation</span><span class="kw-chip">Translation-based modulation</span><span class="kw-chip">Reactive power compensation</span><span class="kw-chip">V2G</span><span class="kw-chip">Over-voltage protection</span>
@@ -58,7 +58,7 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
   <p class="panel-link"><a href="/publications/">Related publications →</a></p>
 </div>
 <div class="topic-panel" id="t3">
-  <h3>Wide-Bandgap Devices and Gate Drives</h3>
+  <h3>Wide-Bandgap Devices &amp; Gate Drives</h3>
   <p>From GaN and SiC to UWBG and diamond electronics, we characterize emerging power devices and build the gate-drive technology to use them - including series-connected medium-voltage SiC stacks.</p>
   <div class="kw-band">
     <span class="kw-chip">GaN / SiC / UWBG</span><span class="kw-chip">Diamond electronics</span><span class="kw-chip">Series-connected SiC MOSFETs</span><span class="kw-chip">Self-powered gate drives</span><span class="kw-chip">Active gate drive</span><span class="kw-chip">Soft reverse recovery</span><span class="kw-chip">Cryogenic characterization</span>
@@ -74,7 +74,7 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
   <p class="panel-link"><a href="/publications/">Related publications →</a></p>
 </div>
 <div class="topic-panel" id="t5">
-  <h3>Multiphase and Fault-Tolerant Drives</h3>
+  <h3>Multiphase &amp; Fault-Tolerant Drives</h3>
   <p>Six-phase and dual three-phase machines and drives that keep spinning through open- and short-circuit failures - for aircraft, defense, and traction applications where failure is not an option.</p>
   <div class="kw-band">
     <span class="kw-chip">Dual three-phase drives</span><span class="kw-chip">Six-phase PMSM</span><span class="kw-chip">Open-end winding</span><span class="kw-chip">Zero-sequence current filters</span><span class="kw-chip">Short-circuit fault tolerance</span><span class="kw-chip">Modular 2n-phase inverters</span>
@@ -82,7 +82,7 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
   <p class="panel-link"><a href="/publications/">Related publications →</a></p>
 </div>
 <div class="topic-panel" id="t6">
-  <h3>Optical Power Transfer and OPUS Generators</h3>
+  <h3>Optical Power Transfer &amp; OPUS Generators</h3>
   <p>Delivering power across isolation barriers and onto spinning rotors with light. Under ARPA-E IGNIITE (with a 2026 Director's Award plus-up), we develop Optically Powered Ultra-high-Speed wound-field synchronous generators and optically powered gate drives.</p>
   <div class="kw-band">
     <span class="kw-chip">Optically excited WFSG</span><span class="kw-chip">Brushless excitation</span><span class="kw-chip">Laser power delivery</span><span class="kw-chip">Optical communication gate drives</span><span class="kw-chip">Ultra-high-speed generators</span><span class="kw-chip">More electric aircraft</span>
@@ -90,7 +90,7 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
   <p class="panel-link"><a href="/publications/">Related publications →</a></p>
 </div>
 <div class="topic-panel" id="t7">
-  <h3>Partial Discharge and EMI in WBG Motor Drives</h3>
+  <h3>Partial Discharge &amp; EMI in WBG Motor Drives</h3>
   <p>Fast-switching WBG inverters stress machine insulation with high dv/dt pulses. We develop measurement techniques, high-frequency models, and mitigation strategies - work recognized with the IEEE IAS Industrial Drives Committee Transactions First Paper Award.</p>
   <div class="kw-band">
     <span class="kw-chip">Partial discharge</span><span class="kw-chip">CM EMI</span><span class="kw-chip">dv/dt insulation stress</span><span class="kw-chip">Skin-effect control</span><span class="kw-chip">High-frequency machine impedance</span><span class="kw-chip">Altitude &amp; temperature effects</span><span class="kw-chip">Voltage-based PD measurement</span>
@@ -98,7 +98,7 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
   <p class="panel-link"><a href="/publications/">Related publications →</a></p>
 </div>
 <div class="topic-panel" id="t8">
-  <h3>Energy Systems and Applications</h3>
+  <h3>Energy Systems &amp; Applications</h3>
   <p>Our technologies reach the field: solar microinverters that soft-start irrigation pumps, electric drones and urban air mobility, power delivery for AI data centers, and second-life battery energy storage.</p>
   <div class="kw-band">
     <span class="kw-chip">Solar microinverters</span><span class="kw-chip">Smart agriculture</span><span class="kw-chip">Electric drones / UAM</span><span class="kw-chip">AI data center power delivery</span><span class="kw-chip">DCX voltage regulators</span><span class="kw-chip">Second-life EV batteries</span><span class="kw-chip">EV charging</span>

@@ -6,7 +6,7 @@ author_profile: true
 
 We teach across the power and energy curriculum - from junior-level energy conversion to graduate power electronics and machine drives - with a hands-on, hardware-oriented approach shaped by the lab's research.
 
-Purdue University
+<img class="uni-logo" src="/images/PU-Seal.jpg" alt="Purdue University"> Purdue University
 ------
 <div class="member-grid">
   <div class="member-card course-card">
@@ -32,7 +32,7 @@ Purdue University
   </div>
 </div>
 
-Michigan State University
+<img class="uni-logo" src="/images/MSU_Seal_Green.png" alt="Michigan State University"> Michigan State University
 ------
 <div class="member-grid">
   <div class="member-card course-card">
@@ -65,7 +65,7 @@ Michigan State University
   </div>
 </div>
 
-Short Courses and Outreach
+Short Courses &amp; Outreach
 ------
 <ul class="alumni-list">
   <li><strong>Power Electronics Boot Camp - Fundamentals of Distributed Energy Resources</strong> <span class="placement">Short Course, Sunchon National University · Dec. 2025</span></li>

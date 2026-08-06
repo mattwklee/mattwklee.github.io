@@ -975,3 +975,14 @@ html {
   text-align: center;
   color: #5B5E63;
 }
+
+/* University logos in teaching section headings */
+.uni-logo {
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
+  vertical-align: -10px;
+  margin-right: 10px;
+  border-radius: 50%;
+  background: #ffffff;
+}

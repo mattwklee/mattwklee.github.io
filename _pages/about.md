@@ -64,7 +64,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="people"><span class="badge badge-people">People</span> Sachin Srinivasa Murthy, Mohammed Thushar Imran, Benjamin Schuchardt, and Fahmy Navid Rahman joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Visiting scholars Dongin Lee and Junhyuk Heo (Incheon National University) joined the team</li>
   <li data-cat="talk"><span class="badge badge-talk">Talk</span> Seoul National University, Incheon National University, Jeonbuk National University, Hyundai Motors, Sunchon National University (short course), MathWorks, and Amazon</li>
-  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two APEC paper presented</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two papers presented @ IEEE APEC 2025</li>
   <li data-cat="award"><span class="badge badge-award">Award</span> Oral presentation award @ IEEE APEC 2025, Congratulations Ali!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TMAG journal paper accepted, Congratulations Kangbeen and Hyunwoo!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TMAG journal paper accepted</li>
@@ -125,7 +125,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Huppert Engineering Research Grant</li>
 </ul>
 
-Sponsors and Partners
+Sponsors &amp; Partners
 ------
 <div class="chip-band">
   <span class="chip">NSF</span>

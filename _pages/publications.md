@@ -60,7 +60,7 @@ Publications are organized by research topic below. Use the filters to browse by
 </div>
 
 <div class="pub-section" data-topic="csi">
-<h2>Current-source Inverters and Integrated Motor Drives</h2>
+<h2>Current-Source Inverters &amp; Integrated Motor Drives</h2>
 <ol class="pub-list">
   <li data-type="journal"><span class="badge badge-journal">Journal</span> R. Torres, S. Lee, H. Dai, <strong>W. Lee</strong>, T. Jahns, and B. Sarlioglu, “Analysis of Pulsating High-Frequency Injection Self-Sensing Control for CSI PM Motor Drives,” IEEE Trans. Power Electron., vol. x, no. x, pp. xx-xx, May. 2024.</li>
   <li data-type="journal"><span class="badge badge-journal">Journal</span> H. Dai, R. A. Torres, J. Gossmann, <strong>W. Lee</strong>, T. M. Jahns, and B. Sarlioglu, “A seven-switch current-source inverter using wide bandgap dual-gate bidirectional switches,” IEEE Trans. Ind. Appl., vol. 58, no. 3, pp. 3721-3737, 2022.</li>
@@ -84,7 +84,7 @@ Publications are organized by research topic below. Use the filters to browse by
 </div>
 
 <div class="pub-section" data-topic="pdemi">
-<h2>Partial Discharge and Electromagnetic Interference</h2>
+<h2>Partial Discharge &amp; Electromagnetic Interference</h2>
 <ol class="pub-list">
   <li data-type="journal"><span class="badge badge-journal">Journal</span> K. Lee, H. Kim, J. Im, S. A. Sufi, C. Park and <strong>W. Lee</strong>, "A review of partial discharge in high-frequency and high-speed WBG-based electric drives," IEEE Open Journal of Industry Applications, vol. 7, pp. 79-89, 2026.</li>
   <li data-type="conference"><span class="badge badge-conference">Conference</span> S. A. Sufi, <strong>W. Lee</strong>, K. Lee, and C. Park, “Mitigating PWM-induced partial discharge through optimized skin effect control,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2025.</li>

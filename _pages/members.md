@@ -44,10 +44,10 @@ Postdoctoral Research Associates
     <p class="bio">Received the B.S. and Ph.D. degrees in electrical engineering from Seoul National University, South Korea, in 2020 and 2026. His research interests include grid-connected converters, high-power density motor drives, and leakage current suppression of transformerless AC-DC and DC-DC converters. He received the Distinguished Ph.D. Dissertation Award from the Department of ECE at Seoul National University in 2026, and his work was recognized as outstanding Ph.D. research by Springer Nature.</p>
   </div>
   <div class="member-card">
-    <div class="avatar-fallback">YY</div>
+    <img src="/images/yuming_yan.jpg" alt="Yuming Yan">
     <h3>Dr. Yuming Yan</h3>
     <p class="member-role">Postdoctoral Research Associate</p>
-    <p class="bio">Joined the team in April 2025. His research focuses on power electronics and electric drives.</p>
+    <p class="bio">Received the B.Eng. degree in electrical engineering from Xi'an Jiaotong University, Xi'an, China, in 2017, and the Ph.D. degree in electrical engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2024. He was a Postdoctoral Research Fellow with the Department of Mechanical and Aerospace Engineering, North Carolina State University, before joining Purdue. His research interests include permanent magnet machines and drives, rare-earth-free electric machines, and their applications for AI data centers, robotic systems, and electrified mobility.</p>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ Graduate Students
     <img src="/images/ad.png" alt="Avinash Dornala">
     <h3>Avinash Dornala</h3>
     <p class="member-role">Ph.D. Student</p>
-    <p class="bio">Completed a bachelor's degree in Electrical and Electronics Engineering and a Master's in Power Systems in 2016 in India, then worked in the power generation industry on maintenance and commissioning of hydel and thermal power plants. Since 2023 he has been working toward the Ph.D., currently at Purdue University, with research interests in matrix converters and V2G applications.</p>
+    <p class="bio">Completed a bachelor's degree in electrical and electronics engineering and a master's degree in power systems in 2016 in India, then worked in the power generation industry on maintenance and commissioning of hydel and thermal power plants. Since 2023 he has been working toward the Ph.D., currently at Purdue University, with research interests in matrix converters and V2G applications.</p>
   </div>
   <div class="member-card">
     <img src="/images/ah.png" alt="Ali Halawa">
@@ -76,7 +76,7 @@ Graduate Students
     <img src="/images/KR.png" alt="Karen Reyes">
     <h3>Karen Reyes</h3>
     <p class="member-role">Ph.D. Student</p>
-    <p class="bio">Received her B.S. and M.S. in Electrical Engineering from Purdue University in 2018 and 2021, then joined Rohm Semiconductors as an Applications Engineer supporting testing and evaluation of SiC power MOSFETs. She is now pursuing a Ph.D. at Purdue, focusing on wide bandgap (WBG) and ultra-wide bandgap (UWBG) devices.</p>
+    <p class="bio">Received her B.S. and M.S. degrees in electrical engineering from Purdue University in 2018 and 2021, then joined ROHM Semiconductor as an Applications Engineer supporting testing and evaluation of SiC power MOSFETs. She is now pursuing a Ph.D. at Purdue, focusing on wide bandgap (WBG) and ultra-wide bandgap (UWBG) devices.</p>
   </div>
   <div class="member-card">
     <img src="/images/junkim.png" alt="Jun Kim">
