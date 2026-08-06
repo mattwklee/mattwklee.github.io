@@ -806,3 +806,35 @@ ol.pub-list > li:last-child {
 .filter-btn.fb-solar.is-active    { background: #7A6A10; border-color: #7A6A10; color: #ffffff; }
 .filter-btn.fb-journal.is-active  { background: #7A5A10; border-color: #7A5A10; color: #ffffff; }
 .filter-btn.fb-conference.is-active { background: #33506B; border-color: #33506B; color: #ffffff; }
+
+/* Teaching course cards */
+.course-card {
+  text-align: left;
+}
+.course-num {
+  display: inline-block;
+  background: #1B1B19;
+  color: #E3B23C;
+  font-family: "Archivo", sans-serif;
+  font-size: 0.82em;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  padding: 4px 12px;
+  border-radius: 4px;
+}
+.course-card h3 {
+  margin: 0.5em 0 0.1em;
+  font-size: 1.0em;
+}
+.course-level {
+  color: #8E6F3E;
+  font-family: "Archivo", sans-serif;
+  font-size: 0.75em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 0.4em;
+}
+.course-terms {
+  margin: 0.2em 0 0.6em;
+}
