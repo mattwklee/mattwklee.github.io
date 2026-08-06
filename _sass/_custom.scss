@@ -121,7 +121,7 @@ ul.news-list > li:last-child {
   background: #FAF8F4;
   border: 1px solid #ECE8DF;
   border-top: 3px solid #C28E0E;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 18px 20px 10px;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
@@ -311,6 +311,7 @@ ul.news-list > li:last-child {
   margin: 0.8em 0 1.2em;
 }
 .filter-btn {
+  transition: border-color 0.12s ease, background 0.12s ease;
   background: #ffffff;
   border: 1px solid #D9D3C6;
   color: #4B4B45;
@@ -363,7 +364,7 @@ ul.news-list > li:last-child {
   background: #FAF8F4;
   border: 1px solid #ECE8DF;
   border-left: 4px solid #C28E0E;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 18px 22px;
   margin: 1.6em 0;
 }
@@ -421,7 +422,7 @@ ul.news-list > li:last-child {
   background: #FAF8F4;
   border: 1px solid #ECE8DF;
   border-top: 3px solid #C28E0E;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 22px 18px 12px;
   text-align: center;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
@@ -528,7 +529,7 @@ ul.alumni-list .placement {
 
 .vision-hero {
   background: #1B1B19;
-  border-radius: 10px;
+  border-radius: 8px;
   padding: 28px 26px 24px;
   margin: 0.4em 0 1.4em;
   position: relative;
@@ -635,7 +636,7 @@ ul.alumni-list .placement {
   background: #FAF8F4;
   border: 1px solid #ECE8DF;
   border-top: 3px solid #C28E0E;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 20px 22px 14px;
   margin-bottom: 1.6em;
 }
@@ -692,7 +693,7 @@ ul.alumni-list .placement {
   background: #FAF8F4;
   border: 1px solid #ECE8DF;
   border-top: 3px solid #C28E0E;
-  border-radius: 6px;
+  border-radius: 8px;
   padding: 14px 16px 10px;
   text-align: center;
 }
@@ -882,4 +883,43 @@ ol.pub-list > li:last-child {
 .page__content > h1:first-child {
   margin-top: 0;
   padding-top: 0;
+}
+
+
+/* ==========================================================================
+   Consistency pass: focus states, selection, micro-interactions
+   ========================================================================== */
+
+.filter-btn:focus-visible,
+.topic-btn:focus-visible,
+.btn-gold:focus-visible,
+.btn-ghost:focus-visible,
+.profile-btn:focus-visible,
+.greedy-nav a:focus-visible {
+  outline: 2px solid #C28E0E;
+  outline-offset: 2px;
+}
+
+::selection {
+  background: #E3B23C;
+  color: #1B1B19;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+.hiring-ctas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.btn-ghost,
+.page__content a.btn-ghost {
+  margin-left: 0;
 }
