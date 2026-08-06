@@ -838,3 +838,8 @@ ol.pub-list > li:last-child {
 .course-terms {
   margin: 0.2em 0 0.6em;
 }
+
+/* Hide redundant page titles (kept in front matter for browser tab / SEO) */
+.page__title {
+  display: none;
+}
