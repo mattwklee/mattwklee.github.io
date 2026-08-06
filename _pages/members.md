@@ -96,4 +96,5 @@ Undergraduate Research Teams
 -----
 ![Purdue](/images/logo-2.png){: .align-left .logo-img width="100px"}[Purdue Drone Team](https://vfspurdue.com)
 
+
 ![Purdue](/images/logo-2.png){: .align-left .logo-img width="100px"}[Purdue IEEE Racing Team](https://www.purdueieee.org/)
