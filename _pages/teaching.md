@@ -6,7 +6,7 @@ author_profile: true
 
 We teach across the power and energy curriculum - from junior-level energy conversion to graduate power electronics and machine drives - with a hands-on, hardware-oriented approach shaped by the lab's research.
 
-<img class="uni-logo" src="/images/pu_seal_sq.png" alt="Purdue University"> Purdue University
+Purdue University
 ------
 <div class="member-grid">
   <div class="member-card course-card">
@@ -32,7 +32,7 @@ We teach across the power and energy curriculum - from junior-level energy conve
   </div>
 </div>
 
-<img class="uni-logo" src="/images/MSU_Seal_Green.png" alt="Michigan State University"> Michigan State University
+Michigan State University
 ------
 <div class="member-grid">
   <div class="member-card course-card">
