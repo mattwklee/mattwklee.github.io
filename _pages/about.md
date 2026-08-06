@@ -3,7 +3,7 @@ title: "Home"
 permalink: /
 author_profile: true
 ---
-![image](/images/main_logo.png)
+![image](/images/main_banner.jpg)
 
 <div class="hero-block">
   <h1>Power Electronics and Drives Research Lab</h1>
