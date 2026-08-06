@@ -91,10 +91,10 @@ Graduate Students
     <p class="bio">Joined the team in August 2025 as a Ph.D. student at Purdue University. He previously worked with the group as an undergraduate researcher at Michigan State University, contributing to GaN-based neutral-point-less multilevel inverter research.</p>
   </div>
   <div class="member-card">
-    <div class="avatar-fallback">TI</div>
+    <img src="/images/thushar_imran.jpg" alt="Mohammed Thushar Imran">
     <h3>Mohammed Thushar Imran</h3>
     <p class="member-role">Ph.D. Student</p>
-    <p class="bio">Joined the team in August 2025 as a Ph.D. student at Purdue University.</p>
+    <p class="bio">Mohammed Thushar Imran is a Ph.D. student at Purdue University, where he began his studies in Fall 2025. He received his B.Sc. in Electrical and Electronic Engineering from BRAC University in 2022 and later served there as a lecturer. His current research interests include power electronic converter design, wide-bandgap semiconductor devices, and motor control.</p>
   </div>
   <div class="member-card">
     <div class="avatar-fallback">FR</div>
