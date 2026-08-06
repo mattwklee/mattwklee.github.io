@@ -3,10 +3,7 @@ title: "Home"
 permalink: /
 author_profile: true
 ---
-<figure class="hero-figure">
-  <img class="hero-banner" src="https://commons.wikimedia.org/wiki/Special:FilePath/Purdue_Bell_Tower_Purdue_University_2016_01.jpg?width=2000" alt="Purdue Bell Tower">
-  <figcaption class="hero-credit">Purdue Bell Tower · photo via <a href="https://commons.wikimedia.org/wiki/File:Purdue_Bell_Tower_Purdue_University_2016_01.jpg">Wikimedia Commons</a>, CC BY 4.0</figcaption>
-</figure>
+![image](/images/main_logo.png)
 
 <div class="hero-block">
   <h1>Power Electronics and Drives Research Lab</h1>
