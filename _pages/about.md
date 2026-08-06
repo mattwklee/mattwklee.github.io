@@ -5,122 +5,202 @@ author_profile: true
 ---
 ![image](/images/main_logo.png)
 
-Purdue Power Electronics and Drives Research Lab
+<div class="hero-block">
+  <h1>Power Electronics and Drives Research Lab</h1>
+  <p class="hero-sub">Elmore Family School of Electrical and Computer Engineering<br>Purdue University</p>
+</div>
+
+We advance efficient electric energy conversion for a sustainable future - from wide-bandgap power semiconductors to electric machines and their integration - for transportation electrification, aerospace, distributed energy resources, and AI data centers. The lab is led by [Prof. Matt Woongkul Lee](/members/), and our work is supported by NSF (CAREER), DOE ARPA-E (IGNIITE), DOE VTO, USDA, US Army, NASA, and industry partners. Explore our [research](/research/), [publications](/publications/), and [team](/members/).
+
+<div class="hiring-card">
+  <span class="hiring-flag">Actively Recruiting</span>
+  <h3>We are recruiting new lab members.</h3>
+  <p>Openings are available for Ph.D. and M.S. students, postdoctoral researchers, and undergraduate researchers passionate about power electronics and electric machines.</p>
+  <p class="hiring-ctas"><a class="btn-gold" href="mailto:wklee@purdue.edu">Apply by Email</a> <a class="btn-ghost" href="/research/">View Research Areas</a></p>
+</div>
+
+Latest News
 ------
-We advance efficient electric energy conversion for a sustainable future - from wide-bandgap power semiconductors to electric machines and their integration - for transportation electrification, aerospace, distributed energy resources, and AI data centers. The lab is led by [Prof. Matt Woongkul Lee](/members/) in the Elmore Family School of Electrical and Computer Engineering, and our work is supported by NSF (CAREER), DOE ARPA-E (IGNIITE), DOE VTO, USDA, US Army, NASA, and industry partners.
+Announcements, publications, awards, grants, and team updates from the lab.
 
-Our [research](/research/) focuses on:
- - Neutral-point-less (NPL) multilevel inverters and WBG/UWBG power electronics
- - Rare-earth-free electric machines and multiphase fault-tolerant drives
- - Optical power transfer and optically excited high-speed generators (OPUS)
- - EMI and partial discharge in inverter-fed electric drives
- - Single-stage matrix converters for DC fast charging and V2G
- - Distributed energy resources, smart agriculture, and AI data center power delivery
+<div class="news-filter" role="group" aria-label="Filter news">
+  <button class="filter-btn is-active" data-filter="all">All</button>
+  <button class="filter-btn" data-filter="publication">Publications</button>
+  <button class="filter-btn" data-filter="award">Awards</button>
+  <button class="filter-btn" data-filter="grant">Grants</button>
+  <button class="filter-btn" data-filter="people">People</button>
+  <button class="filter-btn" data-filter="talk">Talks</button>
+</div>
 
-**Prospective students:** We are always looking for motivated Ph.D., M.S., and undergraduate researchers passionate about power electronics and electric machines. Please email [wklee@purdue.edu](mailto:wklee@purdue.edu) with your CV and transcript.
+<h3 class="news-year">2026</h3>
+<ul class="news-list">
+  <li data-cat="people"><span class="badge badge-people">People</span> Dr. Kangbeen Lee completed his Ph.D. and is joining Siemens, Congratulations Kangbeen!</li>
+  <li data-cat="award"><span class="badge badge-award">Award</span> ARPA-E Director's Award for IGNIITE 2024 Awardees (OPUS project plus-up funding)</li>
+  <li data-cat="award"><span class="badge badge-award">Award</span> Best Poster Presentation Award @ IEEE APEC 2026, Congratulations Junghoon!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE APEC 2026 (San Antonio, TX)</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TIE journal paper accepted, Congratulations Avinash!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TIE journal paper accepted, Congratulations Mikayla!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two IEEE TPEL journal papers accepted, Congratulations Mikayla and Ali!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TTE journal paper accepted, Congratulations Hyunwoo!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE OJIA review paper on partial discharge published, Congratulations Kangbeen!</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Hyundai Motors - Integrated zero-sequence filter for open-end winding traction drives</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global - Rare-earth-free integrated motor drive for data center and aerial mobility</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Dr. Taehoon Chin, Dr. Juwon Lee, and Dr. Yongmin Ju joined the team</li>
+  <li data-cat="talk"><span class="badge badge-talk">Talk</span> San Diego State University, UIUC, and KIAT Symposium</li>
+</ul>
 
-News
+<h3 class="news-year">2025</h3>
+<ul class="news-list">
+  <li data-cat="award"><span class="badge badge-award">Award</span> ASME Rising Star of Mechanical Engineering @ IMECE 2025</li>
+  <li data-cat="award"><span class="badge badge-award">Award</span> IEEE IAS Industrial Drives Committee Transactions First Paper Award @ ECCE 2025</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Six papers presented @ IEEE ECCE 2025 (Philadelphia, PA)</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Six papers presented @ IEEE ITEC 2025 (Anaheim, CA)</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted, Congratulations Kangbeen and Mikayla!</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Grainger CEME - Bioinspired electrohydraulic pump using hydrogel rotor</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Blueflite - High-power density electric propulsion for electric drones</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global - Line-start PM-assisted synchronous reluctance machine</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Dr. Yuming Yan joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Sachin Srinivasa Murthy, Mohammed Thushar Imran, Benjamin Schuchardt, and Fahmy Navid Rahman joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Visiting scholars Dongin Lee and Junhyuk Heo (Incheon National University) joined the team</li>
+  <li data-cat="talk"><span class="badge badge-talk">Talk</span> Seoul National University, Incheon National University, Jeonbuk National University, Hyundai Motors, Sunchon National University (short course), MathWorks, and Amazon</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two APEC paper presented</li>
+  <li data-cat="award"><span class="badge badge-award">Award</span> Oral presentation award @ IEEE APEC 2025, Congratulations Ali!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TMAG journal paper accepted, Congratulations Kangbeen and Hyunwoo!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TMAG journal paper accepted</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Dr. Taewoo Kim joined the team</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> BorgWarner Research Grant</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE JESTIE journal paper accepted</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TIE journal paper accepted, Congratulations Haitao!</li>
+</ul>
+
+<h3 class="news-year">2024</h3>
+<ul class="news-list">
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/">Microelectronics Commons SCMC Hub research grant</a></li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power">USDA NRCS</a></li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE ECCE 2024</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE JESTIE journal paper accepted</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Karen Reyes joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Junghoon Kim joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Dr. Junhyuk Im joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Dr. Hyunwoo Kim joined the team</li>
+</ul>
+
+<h3 class="news-year">2023</h3>
+<ul class="news-list">
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> ARPA-E ULTRAFAST Research Grant</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Four papers accepted @ IEEE APEC 2024</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE ECCE 2023</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> BorgWarner Research Grant</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TTE journal paper accepted</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Ali Halawa joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Gavin Gardner joined the team</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> MTRAC Full Grant</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two papers presented @ IEEE ITEC 2023</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE APEC 2023</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> One paper presented @ IEEE SLED 2023</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> NASA USRC Research Grant</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Avinash Dornala joined the team</li>
+</ul>
+
+<h3 class="news-year">2022</h3>
+<ul class="news-list">
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> US Army GVSC Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> MTRAC Starter Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> BorgWarner Research Grant</li>
+</ul>
+
+<h3 class="news-year">2021</h3>
+<ul class="news-list">
+  <li data-cat="people"><span class="badge badge-people">People</span> Mikayla Benson joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Mostafa Fereydoonian joined the team</li>
+  <li data-cat="people"><span class="badge badge-people">People</span> Kangbeen Lee joined the team</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> MTRAC Award</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> NASA USRC Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Project GREEEN Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Huppert Engineering Research Grant</li>
+</ul>
+
+Sponsors and Partners
 ------
-2026
-- [Graduation] Dr. Kangbeen Lee completed his Ph.D. and is joining Siemens, Congratulations Kangbeen!
-- [Award] ARPA-E Director's Award for IGNIITE 2024 Awardees (OPUS project plus-up funding)
-- [Presentation Award] Best Poster Presentation Award @ IEEE APEC 2026, Congratulations Mikhail!
-- [Publications] Three papers presented @ IEEE APEC 2026 (San Antonio, TX)
-- [Publications] IEEE TIE journal paper accepted, Congratulations Avinash!
-- [Publications] IEEE TIE journal paper accepted, Congratulations Mikayla!
-- [Publications] Two IEEE TPEL journal papers accepted, Congratulations Mikayla and Ali!
-- [Publications] IEEE TTE journal paper accepted, Congratulations Hyunwoo!
-- [Publications] IEEE OJIA review paper on partial discharge published, Congratulations Kangbeen!
-- [Research Grant] Hyundai Motors - Integrated zero-sequence filter for open-end winding traction drives
-- [Research Grant] SJ Global - Rare-earth-free integrated motor drive for data center and aerial mobility
-- [New member] Dr. Taehoon Chin, Dr. Juwon Lee, and Dr. Yongmin Ju joined the team
-- [Invited Seminars] San Diego State University, UIUC, and KIAT Symposium
+<div class="chip-band">
+  <span class="chip">NSF</span>
+  <span class="chip">DOE ARPA-E</span>
+  <span class="chip">DOE VTO</span>
+  <span class="chip">USDA NRCS</span>
+  <span class="chip">US Army DEVCOM GVSC</span>
+  <span class="chip">NASA</span>
+  <span class="chip">SCMC Hub</span>
+  <span class="chip">BorgWarner</span>
+  <span class="chip">Hyundai Motors</span>
+  <span class="chip">General Motors</span>
+  <span class="chip">onsemi</span>
+  <span class="chip">SJ Global</span>
+  <span class="chip">Blueflite</span>
+  <span class="chip">MathWorks</span>
+</div>
 
-2025
-- [Award] ASME Rising Star of Mechanical Engineering @ IMECE 2025
-- [Paper Award] IEEE IAS Industrial Drives Committee Transactions First Paper Award @ ECCE 2025
-- [Publications] Six papers presented @ IEEE ECCE 2025 (Philadelphia, PA)
-- [Publications] Six papers presented @ IEEE ITEC 2025 (Anaheim, CA)
-- [Publications] IEEE TPEL journal paper accepted, Congratulations Kangbeen and Mikayla!
-- [Research Grant] Grainger CEME - Bioinspired electrohydraulic pump using hydrogel rotor
-- [Research Grant] Blueflite - High-power density electric propulsion for electric drones
-- [Research Grant] SJ Global - Line-start PM-assisted synchronous reluctance machine
-- [New member] Dr. Yuming Yan joined the team
-- [New member] Sachin Srinivasa Murthy, Mohammed Thushar Imran, Benjamin Schuchardt, and Fahmy Navid Rahman joined the team
-- [New member] Visiting scholars Dongin Lee and Junhyuk Heo (Incheon National University) joined the team
-- [Invited Seminars] Seoul National University, Incheon National University, Jeonbuk National University, Hyundai Motors, Sunchon National University (short course), MathWorks, and Amazon
-- [Publications] Two APEC paper presented
-- [Presentation Award] Oral presentation award @ IEEE APEC 2025, Congratulations Ali!
-- [Publications] IEEE TMAG journal paper accepted, Congratulations Kangbeen and Hyunwoo!
-- [Publications] IEEE TMAG journal paper accepted
-- [New member] Dr. Taewoo Kim joined the team
-- [Research Grant] BorgWarner Research Grant
-- [Publications] IEEE JESTIE journal paper accepted
-- [Publications] IEEE TIE journal paper accepted, Congratulations Haitao!
-
-2024
-- [Research Grant] [Microelectronics Commons SCMC Hub research grant](https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/)
-- [Research Grant] [USDA NRCS](https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power)
-- [Publications] Three papers presented @ IEEE ECCE 2024
-- [Publications] IEEE TPEL journal paper accepted
-- [Publications] IEEE JESTIE journal paper accepted
-- [New member] Karen Reyes joined the team
-- [New member] Junghoon Kim joined the team
-- [New member] Dr. Junhyuk Im joined the team
-- [New member] Dr. Hyunwoo Kim joined the team
-- Our research group moved to Purdue University in Fall 2024
-- Matt is elevated to IEEE Senior Member
-- [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/optically-powered-ultra-high-speed-opus-wound-field-synchronous-generators)
-- [Publications] IEEE TTE journal paper accepted
-- [Publications] IEEE TIA journal paper accepted
-- [Publications] Four papers accepted @ IEEE ITEC 2024
-- [Presentation Award] Poster presentation award @ IEEE APEC 2024
-- [Publications] Four papers presented @ IEEE APEC 2024
-- [Research Grant/Award] [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2512910&HistoricalAwards=false)
-- [Publications] Two IEEE ACCESS papers accepted
-- [Research Seminar] MDSM 2024 research seminar
-- [Research Seminar] Hyundai Motors R&D Center
-- [Research Seminar] Hanyang University
-- [Research Seminar] Keimyung University
-- [Research Seminar] Inha University
-- [Research Seminar] Jeonbuk National University
-- [Research Seminar] Yeungnam University
-
-2023
-- [Research Grant] ARPA-E ULTRAFAST Research Grant
-- [Publications] Four papers accepted @ IEEE APEC 2024
-- [Publications] Three papers presented @ IEEE ECCE 2023
-- [Publications] IEEE TPEL journal paper accepted
-- [Research Grant] DOE VTO Research Grant
-- [Research Grant] BorgWarner Research Grant
-- [Publications] IEEE TTE journal paper accepted
-- [New member] Ali Halawa joined the team
-- [New member] Gavin Gardner joined the team
-- [Research Grant] MTRAC Full Grant
-- [Publications] Two papers presented @ IEEE ITEC 2023
-- [Publications] Three papers presented @ IEEE APEC 2023
-- [Publications] One paper presented @ IEEE SLED 2023
-- [Research Grant] NASA USRC Research Grant
-- [New member] Avinash Dornala joined the team
-
-2022
-- [Research Grant] US Army GVSC Research Grant
-- [Research Grant] DOE VTO Research Grant
-- [Research Grant] MTRAC Starter Grant
-- [Research Grant] BorgWarner Research Grant
-
-2021
-- [New member] Mikayla Benson joined the team
-- [New member] Mostafa Fereydoonian joined the team
-- [New member] Kangbeen Lee joined the team
-- [Research Grant] MTRAC Award
-- [Research Grant] NASA USRC Research Grant
-- [Research Grant] Project GREEEN Research Grant
-- [Research Grant] Huppert Engineering Research Grant
-  
-2020
-- [New member] Matt Woongkul Lee joined MSU
-
-Research Sponsors
+Join Us
 ------
-![image](/images/sponsors_2024.jpg)
+We seek motivated students and researchers who want to grow as independent scholars and build the future of electric energy conversion.
+
+<div class="research-grid">
+  <div class="research-card">
+    <h3>Ph.D. / M.S. Students</h3>
+    <p>Work on funded projects spanning WBG power electronics, electric machines, and drives - from topology concept to hardware demonstration.</p>
+    <ul class="join-list">
+      <li>Hands-on hardware experience with WBG converters and machine testbeds</li>
+      <li>Publish at leading venues (APEC, ECCE, ITEC, IEEE Transactions)</li>
+      <li>Collaborate with national labs and industry partners</li>
+    </ul>
+  </div>
+  <div class="research-card">
+    <h3>Postdoctoral Researchers</h3>
+    <p>Lead research thrusts with strong academic and real-world impact, with opportunities to define independent directions.</p>
+    <ul class="join-list">
+      <li>Independent research leadership on federally funded programs</li>
+      <li>Proposal development and mentoring experience</li>
+      <li>Pathway to academic and industry research careers</li>
+    </ul>
+  </div>
+  <div class="research-card">
+    <h3>Undergraduate Researchers</h3>
+    <p>Join research projects and student competition teams to build hands-on skills in power electronics and electrification.</p>
+    <ul class="join-list">
+      <li>Mentoring from graduate students and faculty</li>
+      <li>Student teams: GoAERO Prize and Purdue IEEE Racing</li>
+      <li>Pathway to graduate research</li>
+    </ul>
+  </div>
+</div>
+
+<div class="contact-block">
+  <h3>How to Apply</h3>
+  <p>Email your <strong>CV</strong>, <strong>transcript</strong>, and a brief statement of research interests to <a href="mailto:wklee@purdue.edu">Prof. Matt Woongkul Lee</a>.</p>
+  <p class="contact-meta">Seng-Liang Wang Hall, Room 2061 · 516 Northwestern Ave, West Lafayette, IN 47907</p>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var btns = document.querySelectorAll('.filter-btn');
+  btns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var f = btn.getAttribute('data-filter');
+      btns.forEach(function (b) { b.classList.remove('is-active'); });
+      btn.classList.add('is-active');
+      document.querySelectorAll('.news-list li').forEach(function (li) {
+        li.style.display = (f === 'all' || li.getAttribute('data-cat') === f) ? '' : 'none';
+      });
+      document.querySelectorAll('.news-list').forEach(function (ul) {
+        var visible = Array.prototype.some.call(ul.children, function (li) { return li.style.display !== 'none'; });
+        ul.style.display = visible ? '' : 'none';
+        var h = ul.previousElementSibling;
+        if (h && h.classList.contains('news-year')) { h.style.display = visible ? '' : 'none'; }
+      });
+    });
+  });
+});
+</script>

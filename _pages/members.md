@@ -28,9 +28,6 @@ Dr. Yuming Yan joined the team in April 2025 as a Postdoctoral Research Associat
 ![juwon](/images/juwon_lee.jpg){: .align-left width="100px"}Dr. Juwon Lee received the B.S. and Ph.D. degrees in electrical engineering from Seoul National University, South Korea, in 2020 and 2026, respectively. He is currently a Visiting Postdoctoral Fellow with the Elmore Family School of Electrical and Computer Engineering at Purdue University, USA. His research interests include grid-connected converters, high-power density motor drives, and leakage current suppression of transformerless AC-DC and DC-DC converters. Dr. Lee was a recipient of the Distinguished Ph.D. Dissertation Award from the Department of Electric and Computer Engineering at Seoul National University in 2026, and his work was recognized as outstanding Ph.D. research by Springer Nature.
 
 -----
-Dr. Yongmin Ju joined the team in May 2026 as a Postdoctoral Research Associate. His research focuses on power electronics and electric drives.
-
------
 
 Graduate Students
 -----
@@ -75,7 +72,7 @@ Dr. Haitao Sun (Postdoc 2024-2026) Faculty at Taiyuan University of Technology
 
 Mikayla Benson (Ph.D. 2025) Williams International
 
-Mikhail Lopes (M.S. 2026)
+Mikhail Lopes (M.S. 2026) Redwood Materials
 
 Arjun Gupta (M.S. 2025) Apple
 
@@ -97,6 +94,6 @@ Daheon Hong (Ph.D. program, Kyungpook National University) Jul. 2025 - Aug. 2025
 
 Undergraduate Research Teams
 -----
-![Purdue](/images/logo-2.png){: .align-left width="100px"}[Purdue Drone Team](https://vfspurdue.com)
+![Purdue](/images/logo-2.png){: .align-left .logo-img width="100px"}[Purdue Drone Team](https://vfspurdue.com)
 
-![Purdue](/images/logo-2.png){: .align-left width="100px"}[Purdue IEEE Racing Team](https://www.purdueieee.org/)
+![Purdue](/images/logo-2.png){: .align-left .logo-img width="100px"}[Purdue IEEE Racing Team](https://www.purdueieee.org/)
