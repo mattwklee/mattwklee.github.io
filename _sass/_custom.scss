@@ -1038,18 +1038,20 @@ html {
   grid-auto-rows: 1fr;
 }
 .name-card {
-  height: 100%;
-  min-height: 72px;
+  height: 72px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
+  background: #1B1B19;
+  border: 1px solid #1B1B19;
+  border-top: 3px solid #C28E0E;
 }
 .name-card span {
   font-family: "Archivo", sans-serif;
-  font-size: 0.92em;
+  font-size: 0.78em;
   font-weight: 700;
-  color: #1B1B19;
+  color: #E3B23C;
   letter-spacing: 0.02em;
   text-align: center;
   line-height: 1.3;
