@@ -13,7 +13,7 @@ Purdue University
     <span class="course-num">ECE 32100</span>
     <h3>Electromechanical Motion Devices</h3>
     <p class="course-level">Undergraduate</p>
-    <div class="kw-band course-terms"><span class="kw-chip">Fall 2025</span></div>
+    <div class="kw-band course-terms"><span class="kw-chip">Fall 2026</span><span class="kw-chip">Fall 2025</span></div>
     <p class="bio">Magnetic circuits, transformers, and the fundamentals of rotating electric machines - the foundation of every drive system in the lab.</p>
   </div>
   <div class="member-card course-card">
