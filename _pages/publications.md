@@ -3,31 +3,29 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[Google Scholar](https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Woongkul-Lee) | [ORCID](https://orcid.org/0000-0002-2282-6837)
-
-44 journal papers and 95+ conference papers, organized by research topic below. Selected recognitions include the IEEE IAS Industrial Drives Committee Transactions First Paper Award (2025), IEEE IAS Electrical Machines Committee ECCE Second Paper Award (2021), IEEE ITEC Best Paper Award (2020), IEEE ECCE Best Paper Award (2017), and multiple IEEE APEC presentation awards.
-
-<div class="pub-stats">
-  <div class="stat"><span class="stat-num">44</span><span class="stat-label">Journal Papers</span></div>
-  <div class="stat"><span class="stat-num">95+</span><span class="stat-label">Conference Papers</span></div>
-  <div class="stat"><span class="stat-num">15+</span><span class="stat-label">Patents &amp; Disclosures</span></div>
-  <div class="stat"><span class="stat-num">9</span><span class="stat-label">IEEE Paper &amp; Presentation Awards</span></div>
+<div class="profile-links">
+  <a class="profile-btn" href="https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+  <a class="profile-btn" href="https://www.researchgate.net/profile/Woongkul-Lee"><i class="fab fa-researchgate"></i> ResearchGate</a>
+  <a class="profile-btn" href="https://orcid.org/0000-0002-2282-6837"><i class="ai ai-orcid"></i> ORCID</a>
 </div>
+
+Publications are organized by research topic below. Use the filters to browse by topic or venue type.
+
 
 <div class="news-filter" role="group" aria-label="Filter by topic">
   <button class="filter-btn ptopic-btn is-active" data-topic="all">All Topics</button>
-  <button class="filter-btn ptopic-btn" data-topic="npl">NPL Inverters</button>
-  <button class="filter-btn ptopic-btn" data-topic="optical">Optical Power</button>
-  <button class="filter-btn ptopic-btn" data-topic="csi">CSI & IMD</button>
-  <button class="filter-btn ptopic-btn" data-topic="machines">Machines</button>
-  <button class="filter-btn ptopic-btn" data-topic="pdemi">PD & EMI</button>
-  <button class="filter-btn ptopic-btn" data-topic="dcfc">DC Fast Charging</button>
-  <button class="filter-btn ptopic-btn" data-topic="solar">Solar</button>
+  <button class="filter-btn ptopic-btn fb-npl" data-topic="npl">NPL Inverters</button>
+  <button class="filter-btn ptopic-btn fb-optical" data-topic="optical">Optical Power</button>
+  <button class="filter-btn ptopic-btn fb-csi" data-topic="csi">CSI & IMD</button>
+  <button class="filter-btn ptopic-btn fb-machines" data-topic="machines">Machines</button>
+  <button class="filter-btn ptopic-btn fb-pdemi" data-topic="pdemi">PD & EMI</button>
+  <button class="filter-btn ptopic-btn fb-dcfc" data-topic="dcfc">DC Fast Charging</button>
+  <button class="filter-btn ptopic-btn fb-solar" data-topic="solar">Solar</button>
 </div>
 <div class="news-filter" role="group" aria-label="Filter by type">
   <button class="filter-btn ptype-btn is-active" data-ptype="all">All Types</button>
-  <button class="filter-btn ptype-btn" data-ptype="journal">Journals</button>
-  <button class="filter-btn ptype-btn" data-ptype="conference">Conferences</button>
+  <button class="filter-btn ptype-btn fb-journal" data-ptype="journal">Journals</button>
+  <button class="filter-btn ptype-btn fb-conference" data-ptype="conference">Conferences</button>
 </div>
 
 <div class="pub-section" data-topic="npl">

@@ -114,6 +114,8 @@ Undergraduate Students
 Visiting Scholars
 ------
 <ul class="alumni-list">
+  <li><strong>Tae-hu Kim</strong> <span class="placement">Ph.D. program, Incheon National University · Jul. 2026 - Jan. 2027</span></li>
+  <li><strong>Donghyeok Jang</strong> <span class="placement">Ph.D. program, Incheon National University · Jul. 2026 - Jan. 2027</span></li>
   <li><strong>Dongin Lee</strong> <span class="placement">Ph.D. program, Incheon National University · Aug. 2025 - Feb. 2026</span></li>
   <li><strong>Junhyuk Heo</strong> <span class="placement">Ph.D. program, Incheon National University · Aug. 2025 - Feb. 2026</span></li>
   <li><strong>Daheon Hong</strong> <span class="placement">Ph.D. program, Kyungpook National University · Jul. 2025 - Aug. 2025</span></li>
@@ -143,8 +145,8 @@ Undergraduate Research Teams
     <p class="bio">2024 GoAERO Prize winner of the US University Innovation Awards, supported by NASA.</p>
   </div>
   <div class="member-card team-card">
-    <img src="/images/logo-2.png" alt="Purdue" class="logo-img">
-    <h3><a href="https://www.purdueieee.org/">Purdue IEEE Racing Team</a></h3>
+    <img src="https://images.squarespace-cdn.com/content/v1/65a93a089f862c1d17683127/0610d730-d4c2-4246-9dd4-ebec42a84e98/pieee_logo_v3.png?format=500w" alt="Purdue IEEE" class="logo-img">
+    <h3><a href="https://www.purdueieee.org/racing">Purdue IEEE Racing Team</a></h3>
     <p class="bio">IEEE Vehicular Technology Society (VTS) Student Branch Chapter.</p>
   </div>
 </div>

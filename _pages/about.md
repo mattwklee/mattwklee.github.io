@@ -34,6 +34,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
 
 <h3 class="news-year">2026</h3>
 <ul class="news-list">
+  <li data-cat="people"><span class="badge badge-people">People</span> Visiting scholars Tae-hu Kim and Donghyeok Jang (Incheon National University) joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Kangbeen Lee completed his Ph.D. and is joining Siemens, Congratulations Kangbeen!</li>
   <li data-cat="award"><span class="badge badge-award">Award</span> ARPA-E Director's Award for IGNIITE 2024 Awardees (OPUS project plus-up funding)</li>
   <li data-cat="award"><span class="badge badge-award">Award</span> Best Poster Presentation Award @ IEEE APEC 2026, Congratulations Junghoon!</li>

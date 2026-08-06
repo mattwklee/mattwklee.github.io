@@ -756,3 +756,53 @@ ol.pub-list > li:last-child {
   border-radius: 999px;
   margin-left: 6px;
 }
+
+/* Publication profile links + colored filter bubbles */
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0.6em 0 1.2em;
+}
+.profile-btn,
+.page__content a.profile-btn {
+  display: inline-block;
+  background: #1B1B19;
+  color: #E3B23C;
+  font-family: "Archivo", sans-serif;
+  font-size: 0.86em;
+  font-weight: 700;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border-bottom: none;
+  text-decoration: none;
+}
+.profile-btn:hover,
+.page__content a.profile-btn:hover {
+  background: #C28E0E;
+  color: #1B1B19;
+}
+.profile-btn i {
+  margin-right: 6px;
+}
+
+/* Colored topic bubbles (match news badge palette) */
+.filter-btn.fb-npl      { background: #EFE7D6; border-color: #E3D9C2; color: #7A5A10; }
+.filter-btn.fb-optical  { background: #F7E9C8; border-color: #EAD9A8; color: #8A6508; }
+.filter-btn.fb-csi      { background: #DEE6EE; border-color: #C9D6E2; color: #33506B; }
+.filter-btn.fb-machines { background: #E2EAD9; border-color: #CFDCC2; color: #3F5D34; }
+.filter-btn.fb-pdemi    { background: #E9DFEA; border-color: #D9C9DA; color: #5C3F5E; }
+.filter-btn.fb-dcfc     { background: #F2E0D2; border-color: #E5CCB8; color: #8A4B2A; }
+.filter-btn.fb-solar    { background: #FBF3D2; border-color: #EFE2A8; color: #7A6A10; }
+.filter-btn.fb-journal  { background: #EFE7D6; border-color: #E3D9C2; color: #7A5A10; }
+.filter-btn.fb-conference { background: #DEE6EE; border-color: #C9D6E2; color: #33506B; }
+
+.filter-btn.fb-npl.is-active      { background: #7A5A10; border-color: #7A5A10; color: #ffffff; }
+.filter-btn.fb-optical.is-active  { background: #C28E0E; border-color: #C28E0E; color: #1B1B19; }
+.filter-btn.fb-csi.is-active      { background: #33506B; border-color: #33506B; color: #ffffff; }
+.filter-btn.fb-machines.is-active { background: #3F5D34; border-color: #3F5D34; color: #ffffff; }
+.filter-btn.fb-pdemi.is-active    { background: #5C3F5E; border-color: #5C3F5E; color: #ffffff; }
+.filter-btn.fb-dcfc.is-active     { background: #8A4B2A; border-color: #8A4B2A; color: #ffffff; }
+.filter-btn.fb-solar.is-active    { background: #7A6A10; border-color: #7A6A10; color: #ffffff; }
+.filter-btn.fb-journal.is-active  { background: #7A5A10; border-color: #7A5A10; color: #ffffff; }
+.filter-btn.fb-conference.is-active { background: #33506B; border-color: #33506B; color: #ffffff; }
