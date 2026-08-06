@@ -134,7 +134,7 @@ ul.news-list > li:last-child {
   font-size: 1.05em;
 }
 .research-card p {
-  font-size: 0.92em;
+  font-size: 0.95em;
   line-height: 1.6;
 }
 @media (prefers-reduced-motion: reduce) {
@@ -352,7 +352,7 @@ ul.news-list > li:last-child {
 
 /* Join Us */
 .join-list {
-  font-size: 0.88em;
+  font-size: 0.95em;
   margin-left: 1.1em;
   margin-bottom: 0.8em;
 }
@@ -475,7 +475,7 @@ ul.news-list > li:last-child {
 }
 .member-card .bio,
 .member-featured .bio {
-  font-size: 0.86em;
+  font-size: 0.95em;
   line-height: 1.6;
   text-align: left;
   margin-bottom: 0.6em;
@@ -493,7 +493,7 @@ ul.alumni-list li {
   padding: 7px 0;
   border-bottom: 1px solid #ECE8DF;
   break-inside: avoid;
-  font-size: 0.94em;
+  font-size: 0.95em;
 }
 ul.alumni-list .placement {
   color: #5B5E63;
@@ -592,7 +592,7 @@ ul.alumni-list .placement {
 }
 .vision-tag {
   color: #B9B4A9;
-  font-size: 0.92em;
+  font-size: 0.95em;
   line-height: 1.6;
   margin-bottom: 0;
 }
@@ -654,7 +654,7 @@ ul.alumni-list .placement {
   margin-top: 0;
 }
 .topic-panel p {
-  font-size: 0.94em;
+  font-size: 0.95em;
 }
 .kw-band {
   display: flex;
@@ -726,7 +726,7 @@ ol.pub-list > li {
   padding: 9px 0 9px 34px;
   margin: 0;
   border-bottom: 1px solid #ECE8DF;
-  font-size: 0.93em;
+  font-size: 0.95em;
   line-height: 1.55;
   position: relative;
 }
@@ -842,4 +842,44 @@ ol.pub-list > li:last-child {
 /* Hide redundant page titles (kept in front matter for browser tab / SEO) */
 .page__title {
   display: none;
+}
+
+/* Current page indicator in nav */
+.greedy-nav a.nav-current {
+  color: #E3B23C;
+  position: relative;
+}
+.greedy-nav .visible-links a.nav-current:before {
+  background: #E3B23C;
+  transform: scaleX(1);
+  -webkit-transform: scaleX(1);
+}
+.greedy-nav .hidden-links a.nav-current {
+  color: #8E6F3E;
+  font-weight: 700;
+}
+
+/* Wider content area: use more of the screen left and right */
+@media (min-width: 64em) {
+  #main {
+    max-width: 1400px;
+  }
+  .page {
+    padding-right: 1.5em;
+  }
+  .archive {
+    padding-right: 1.5em;
+  }
+}
+@media (min-width: 80em) {
+  #main {
+    max-width: 1520px;
+  }
+}
+
+/* Remove extra gap above first heading on pages (e.g., Members) */
+.page__content > h2:first-child,
+.page__content > h1:first-child {
+  margin-top: 0;
+  padding-top: 0;
 }
