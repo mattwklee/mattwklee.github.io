@@ -128,22 +128,19 @@ Announcements, publications, awards, grants, and team updates from the lab.
 Sponsors &amp; Partners
 ------
 <div class="logo-wall">
-  <div class="logo-item" title="National Science Foundation"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/NSF_logo.png?width=300" alt="NSF"></div>
-  <div class="logo-item" title="DOE ARPA-E"><img src="/images/logos/arpae.png" alt="ARPA-E"></div>
-  <div class="logo-item" title="DOE Vehicle Technologies Office"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Department_of_Energy.svg?width=300" alt="DOE VTO"><span>VTO</span></div>
-  <div class="logo-item" title="USDA NRCS"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Department_of_Agriculture.svg?width=300" alt="USDA NRCS"></div>
-  <div class="logo-item" title="US Army DEVCOM GVSC"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_U.S._Department_of_the_Army.svg?width=300" alt="US Army DEVCOM GVSC"></div>
-  <div class="logo-item" title="NASA"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/NASA_logo.svg?width=300" alt="NASA"></div>
-  <div class="logo-item" title="Silicon Crossroads Microelectronics Commons Hub"><img src="/images/logos/scmc.png" alt="Silicon Crossroads SCMC Hub"></div>
-  <div class="logo-item" title="BorgWarner"><img src="/images/logos/borgwarner.png" alt="BorgWarner"></div>
-  <div class="logo-item" title="Hyundai Motors"><img src="/images/logos/hyundai.png" alt="Hyundai Motors"></div>
-  <div class="logo-item" title="General Motors"><img src="/images/logos/gm.png" alt="General Motors"></div>
-</div>
-
-<div class="chip-band">
-  <span class="chip">SJ Global</span>
-  <span class="chip">Blueflite</span>
-  <span class="chip">MathWorks</span>
+  <div class="logo-item name-card"><span>NSF</span></div>
+  <div class="logo-item name-card"><span>DOE ARPA-E</span></div>
+  <div class="logo-item name-card"><span>DOE VTO</span></div>
+  <div class="logo-item name-card"><span>USDA NRCS</span></div>
+  <div class="logo-item name-card"><span>US Army DEVCOM GVSC</span></div>
+  <div class="logo-item name-card"><span>NASA</span></div>
+  <div class="logo-item name-card"><span>SCMC Hub</span></div>
+  <div class="logo-item name-card"><span>BorgWarner</span></div>
+  <div class="logo-item name-card"><span>Hyundai Motors</span></div>
+  <div class="logo-item name-card"><span>General Motors</span></div>
+  <div class="logo-item name-card"><span>SJ Global</span></div>
+  <div class="logo-item name-card"><span>Blueflite</span></div>
+  <div class="logo-item name-card"><span>MathWorks</span></div>
 </div>
 
 Join Us

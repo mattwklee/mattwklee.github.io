@@ -1032,3 +1032,16 @@ html {
   border-color: #C28E0E;
   color: #8E6F3E;
 }
+
+/* Sponsor name cards (no logos) */
+.name-card {
+  min-height: 64px;
+}
+.name-card span {
+  font-family: "Archivo", sans-serif;
+  font-size: 0.92em;
+  font-weight: 700;
+  color: #1B1B19;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
