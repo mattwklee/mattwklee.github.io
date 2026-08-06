@@ -104,37 +104,122 @@ Graduate Students
   </div>
 </div>
 
-Undergraduate Students
+Undergraduate Researchers
 ------
-<div class="chip-band">
-  <span class="chip">Valentino Angel Cattaneo</span>
-  <span class="chip">Ryan Atkinson</span>
+<div class="member-grid">
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">VC</div>
+    <h3>Valentino Angel Cattaneo</h3>
+    <p class="member-role">Undergraduate Researcher</p>
+    <p class="bio">Purdue University</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">SG</div>
+    <h3>Sia Gupta</h3>
+    <p class="member-role">Undergraduate Researcher</p>
+    <p class="bio">Purdue University</p>
+  </div>
 </div>
 
 Visiting Scholars
 ------
-<ul class="alumni-list">
-  <li><strong>Tae-hu Kim</strong> <span class="placement">Ph.D. program, Incheon National University · Jul. 2026 - Jan. 2027</span></li>
-  <li><strong>Donghyeok Jang</strong> <span class="placement">Ph.D. program, Incheon National University · Jul. 2026 - Jan. 2027</span></li>
-  <li><strong>Dongin Lee</strong> <span class="placement">Ph.D. program, Incheon National University · Aug. 2025 - Feb. 2026</span></li>
-  <li><strong>Junhyuk Heo</strong> <span class="placement">Ph.D. program, Incheon National University · Aug. 2025 - Feb. 2026</span></li>
-  <li><strong>Daheon Hong</strong> <span class="placement">Ph.D. program, Kyungpook National University · Jul. 2025 - Aug. 2025</span></li>
-</ul>
+<div class="member-grid">
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">TK</div>
+    <h3>Tae-hu Kim</h3>
+    <p class="member-role">Visiting Scholar</p>
+    <p class="bio">Ph.D. program, Incheon National University · Jul. 2026 - Jan. 2027</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">DJ</div>
+    <h3>Donghyeok Jang</h3>
+    <p class="member-role">Visiting Scholar</p>
+    <p class="bio">Ph.D. program, Incheon National University · Jul. 2026 - Jan. 2027</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">DL</div>
+    <h3>Dongin Lee</h3>
+    <p class="member-role">Visiting Scholar</p>
+    <p class="bio">Ph.D. program, Incheon National University · Aug. 2025 - Feb. 2026</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">JH</div>
+    <h3>Junhyuk Heo</h3>
+    <p class="member-role">Visiting Scholar</p>
+    <p class="bio">Ph.D. program, Incheon National University · Aug. 2025 - Feb. 2026</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">DH</div>
+    <h3>Daheon Hong</h3>
+    <p class="member-role">Visiting Scholar</p>
+    <p class="bio">Ph.D. program, Kyungpook National University · Jul. 2025 - Aug. 2025</p>
+  </div>
+</div>
 
 Alumni
 ------
-<ul class="alumni-list">
-  <li><strong>Dr. Kangbeen Lee</strong> <span class="placement">Ph.D. 2026 → Siemens</span></li>
-  <li><strong>Dr. Taewoo Kim</strong> <span class="placement">Postdoc 2025-2026 → Faculty, Kyungpook National University</span></li>
-  <li><strong>Dr. Haitao Sun</strong> <span class="placement">Postdoc 2024-2026 → Faculty, Taiyuan University of Technology</span></li>
-  <li><strong>Mikayla Benson</strong> <span class="placement">Ph.D. 2025 → Williams International</span></li>
-  <li><strong>Mikhail Lopes</strong> <span class="placement">M.S. 2026 → Redwood Materials</span></li>
-  <li><strong>Arjun Gupta</strong> <span class="placement">M.S. 2025 → Apple</span></li>
-  <li><strong>Gavin Gardner</strong> <span class="placement">M.S. 2025 → AG3 Lab</span></li>
-  <li><strong>Roshan Varadharajan</strong> <span class="placement">M.S. 2025 → Caterpillar</span></li>
-  <li><strong>Saurabh Shah</strong> <span class="placement">M.S. 2022 → MPS</span></li>
-  <li><strong>Yuchen Wang</strong> <span class="placement">B.S. 2021 → Bosch</span></li>
-</ul>
+<div class="member-grid">
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">KL</div>
+    <h3>Dr. Kangbeen Lee</h3>
+    <p class="member-role">Ph.D. 2026</p>
+    <p class="bio">Siemens</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">TK</div>
+    <h3>Dr. Taewoo Kim</h3>
+    <p class="member-role">Postdoc 2025-2026</p>
+    <p class="bio">Faculty, Kyungpook National University</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">HS</div>
+    <h3>Dr. Haitao Sun</h3>
+    <p class="member-role">Postdoc 2024-2026</p>
+    <p class="bio">Faculty, Taiyuan University of Technology</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">MB</div>
+    <h3>Mikayla Benson</h3>
+    <p class="member-role">Ph.D. 2025</p>
+    <p class="bio">Williams International</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">ML</div>
+    <h3>Mikhail Lopes</h3>
+    <p class="member-role">M.S. 2026</p>
+    <p class="bio">Redwood Materials</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">AG</div>
+    <h3>Arjun Gupta</h3>
+    <p class="member-role">M.S. 2025</p>
+    <p class="bio">Apple</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">GG</div>
+    <h3>Gavin Gardner</h3>
+    <p class="member-role">M.S. 2025</p>
+    <p class="bio">AG3 Lab</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">RV</div>
+    <h3>Roshan Varadharajan</h3>
+    <p class="member-role">M.S. 2025</p>
+    <p class="bio">Caterpillar</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">SS</div>
+    <h3>Saurabh Shah</h3>
+    <p class="member-role">M.S. 2022</p>
+    <p class="bio">MPS</p>
+  </div>
+  <div class="member-card mini-card">
+    <div class="avatar-fallback">YW</div>
+    <h3>Yuchen Wang</h3>
+    <p class="member-role">B.S. 2021</p>
+    <p class="bio">Bosch</p>
+  </div>
+</div>
 
 Undergraduate Research Teams
 ------

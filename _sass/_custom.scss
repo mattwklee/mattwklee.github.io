@@ -955,3 +955,23 @@ html {
 .hero-credit a {
   color: #8A857A;
 }
+
+/* Compact member cards (visiting scholars, alumni) */
+.mini-card {
+  padding: 16px 14px 8px;
+}
+.mini-card .avatar-fallback {
+  width: 62px;
+  height: 62px;
+  font-size: 1.2em;
+  border-width: 2px;
+}
+.mini-card h3 {
+  font-size: 0.95em;
+  margin-top: 0.5em;
+}
+.mini-card .bio {
+  font-size: 0.85em;
+  text-align: center;
+  color: #5B5E63;
+}
