@@ -1,0 +1,136 @@
+---
+title: "Home"
+permalink: /
+author_profile: true
+---
+![image](/images/main_logo.png)
+
+Purdue Power Electronics and Drives Research Lab
+------
+We advance efficient electric energy conversion for a sustainable future - from wide-bandgap power semiconductors to electric machines and their integration - for transportation electrification, aerospace, distributed energy resources, and AI data centers. The lab is led by [Prof. Matt Woongkul Lee](/members/) in the Elmore Family School of Electrical and Computer Engineering, and our work is supported by NSF (CAREER), DOE ARPA-E (IGNIITE), DOE VTO, USDA, US Army, NASA, and industry partners.
+
+Our [research](/research/) focuses on:
+ - Neutral-point-less (NPL) multilevel inverters and WBG/UWBG power electronics
+ - Rare-earth-free electric machines and multiphase fault-tolerant drives
+ - Optical power transfer and optically excited high-speed generators (OPUS)
+ - EMI and partial discharge in inverter-fed electric drives
+ - Single-stage matrix converters for DC fast charging and V2G
+ - Distributed energy resources, smart agriculture, and AI data center power delivery
+
+<div class="notice--gold" markdown="1">
+**Prospective students:** We are always looking for motivated Ph.D., M.S., and undergraduate researchers passionate about power electronics and electric machines. Please email [wklee@purdue.edu](mailto:wklee@purdue.edu) with your CV and transcript.
+</div>
+
+News
+------
+### 2026 {: .news-year}
+- [Graduation] Dr. Kangbeen Lee completed his Ph.D. and is joining Siemens, Congratulations Kangbeen!
+- [Award] ARPA-E Director's Award for IGNIITE 2024 Awardees (OPUS project plus-up funding)
+- [Presentation Award] Best Poster Presentation Award @ IEEE APEC 2026, Congratulations Junghoon!
+- [Publications] Three papers presented @ IEEE APEC 2026 (San Antonio, TX)
+- [Publications] IEEE TIE journal paper accepted, Congratulations Avinash!
+- [Publications] IEEE TIE journal paper accepted, Congratulations Mikayla!
+- [Publications] Two IEEE TPEL journal papers accepted, Congratulations Mikayla and Ali!
+- [Publications] IEEE TTE journal paper accepted, Congratulations Hyunwoo!
+- [Publications] IEEE OJIA review paper on partial discharge published, Congratulations Kangbeen!
+- [Research Grant] Hyundai Motors - Integrated zero-sequence filter for open-end winding traction drives
+- [Research Grant] SJ Global - Rare-earth-free integrated motor drive for data center and aerial mobility
+- [New member] Dr. Taehoon Chin, Dr. Juwon Lee, and Dr. Yongmin Ju joined the team
+- [Invited Seminars] San Diego State University, UIUC, and KIAT Symposium
+{: .news-list}
+
+### 2025 {: .news-year}
+- [Award] ASME Rising Star of Mechanical Engineering @ IMECE 2025
+- [Paper Award] IEEE IAS Industrial Drives Committee Transactions First Paper Award @ ECCE 2025
+- [Publications] Six papers presented @ IEEE ECCE 2025 (Philadelphia, PA)
+- [Publications] Six papers presented @ IEEE ITEC 2025 (Anaheim, CA)
+- [Publications] IEEE TPEL journal paper accepted, Congratulations Kangbeen and Mikayla!
+- [Research Grant] Grainger CEME - Bioinspired electrohydraulic pump using hydrogel rotor
+- [Research Grant] Blueflite - High-power density electric propulsion for electric drones
+- [Research Grant] SJ Global - Line-start PM-assisted synchronous reluctance machine
+- [New member] Dr. Yuming Yan joined the team
+- [New member] Sachin Srinivasa Murthy, Mohammed Thushar Imran, Benjamin Schuchardt, and Fahmy Navid Rahman joined the team
+- [New member] Visiting scholars Dongin Lee and Junhyuk Heo (Incheon National University) joined the team
+- [Invited Seminars] Seoul National University, Incheon National University, Jeonbuk National University, Hyundai Motors, Sunchon National University (short course), MathWorks, and Amazon
+- [Publications] Two APEC paper presented
+- [Presentation Award] Oral presentation award @ IEEE APEC 2025, Congratulations Ali!
+- [Publications] IEEE TMAG journal paper accepted, Congratulations Kangbeen and Hyunwoo!
+- [Publications] IEEE TMAG journal paper accepted
+- [New member] Dr. Taewoo Kim joined the team
+- [Research Grant] BorgWarner Research Grant
+- [Publications] IEEE JESTIE journal paper accepted
+- [Publications] IEEE TIE journal paper accepted, Congratulations Haitao!
+{: .news-list}
+
+### 2024 {: .news-year}
+- [Research Grant] [Microelectronics Commons SCMC Hub research grant](https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/)
+- [Research Grant] [USDA NRCS](https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power)
+- [Publications] Three papers presented @ IEEE ECCE 2024
+- [Publications] IEEE TPEL journal paper accepted
+- [Publications] IEEE JESTIE journal paper accepted
+- [New member] Karen Reyes joined the team
+- [New member] Junghoon Kim joined the team
+- [New member] Dr. Junhyuk Im joined the team
+- [New member] Dr. Hyunwoo Kim joined the team
+{: .news-list}
+- Our research group moved to Purdue University in Fall 2024
+- Matt is elevated to IEEE Senior Member
+- [Research Grant/Award] [ARPA-E IGNIITE Early Career Award](https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/optically-powered-ultra-high-speed-opus-wound-field-synchronous-generators)
+- [Publications] IEEE TTE journal paper accepted
+- [Publications] IEEE TIA journal paper accepted
+- [Publications] Four papers accepted @ IEEE ITEC 2024
+- [Presentation Award] Poster presentation award @ IEEE APEC 2024
+- [Publications] Four papers presented @ IEEE APEC 2024
+- [Research Grant/Award] [NSF CAREER Award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2512910&HistoricalAwards=false)
+- [Publications] Two IEEE ACCESS papers accepted
+- [Research Seminar] MDSM 2024 research seminar
+- [Research Seminar] Hyundai Motors R&D Center
+- [Research Seminar] Hanyang University
+- [Research Seminar] Keimyung University
+- [Research Seminar] Inha University
+- [Research Seminar] Jeonbuk National University
+- [Research Seminar] Yeungnam University
+{: .news-list}
+
+### 2023 {: .news-year}
+- [Research Grant] ARPA-E ULTRAFAST Research Grant
+- [Publications] Four papers accepted @ IEEE APEC 2024
+- [Publications] Three papers presented @ IEEE ECCE 2023
+- [Publications] IEEE TPEL journal paper accepted
+- [Research Grant] DOE VTO Research Grant
+- [Research Grant] BorgWarner Research Grant
+- [Publications] IEEE TTE journal paper accepted
+- [New member] Ali Halawa joined the team
+- [New member] Gavin Gardner joined the team
+- [Research Grant] MTRAC Full Grant
+- [Publications] Two papers presented @ IEEE ITEC 2023
+- [Publications] Three papers presented @ IEEE APEC 2023
+- [Publications] One paper presented @ IEEE SLED 2023
+- [Research Grant] NASA USRC Research Grant
+- [New member] Avinash Dornala joined the team
+{: .news-list}
+
+### 2022 {: .news-year}
+- [Research Grant] US Army GVSC Research Grant
+- [Research Grant] DOE VTO Research Grant
+- [Research Grant] MTRAC Starter Grant
+- [Research Grant] BorgWarner Research Grant
+{: .news-list}
+
+### 2021 {: .news-year}
+- [New member] Mikayla Benson joined the team
+- [New member] Mostafa Fereydoonian joined the team
+- [New member] Kangbeen Lee joined the team
+- [Research Grant] MTRAC Award
+- [Research Grant] NASA USRC Research Grant
+- [Research Grant] Project GREEEN Research Grant
+- [Research Grant] Huppert Engineering Research Grant
+{: .news-list}
+  
+2020
+- [New member] Matt Woongkul Lee joined MSU
+{: .news-list}
+
+Research Sponsors
+------
+![image](/images/sponsors_2024.jpg)
