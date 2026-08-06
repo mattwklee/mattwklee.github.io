@@ -978,11 +978,11 @@ html {
 
 /* University logos in teaching section headings */
 .uni-logo {
-  height: 40px;
-  width: 40px;
+  height: 26px;
+  width: 26px;
   object-fit: contain;
-  vertical-align: -10px;
-  margin-right: 10px;
+  vertical-align: -5px;
+  margin-right: 8px;
   border-radius: 50%;
   background: #ffffff;
 }
@@ -1005,14 +1005,8 @@ html {
   align-items: center;
   justify-content: center;
   gap: 4px;
-  border-bottom: 1px solid #ECE8DF;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
-.logo-item:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 22px rgba(27, 27, 25, 0.10);
-  border-color: #C28E0E;
-}
+
 .logo-item img {
   height: 58px;
   width: auto;
@@ -1026,10 +1020,7 @@ html {
   color: #5B5E63;
   letter-spacing: 0.05em;
 }
-@media (prefers-reduced-motion: reduce) {
-  .logo-item { transition: none; }
-  .logo-item:hover { transform: none; box-shadow: none; }
-}
+
 .chip-link,
 .page__content a.chip-link {
   text-decoration: none;
