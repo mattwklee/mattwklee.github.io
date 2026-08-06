@@ -761,7 +761,7 @@ ol.pub-list > li:last-child {
 .profile-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 16px;
   margin: 0.6em 0 1.2em;
 }
 .profile-btn,
@@ -783,7 +783,7 @@ ol.pub-list > li:last-child {
   color: #1B1B19;
 }
 .profile-btn i {
-  margin-right: 6px;
+  margin-right: 10px;
 }
 
 /* Colored topic bubbles (match news badge palette) */
