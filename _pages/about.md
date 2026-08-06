@@ -7,18 +7,22 @@ author_profile: true
 
 Purdue Power Electronics and Drives Research Lab
 ------
-Our research lab focuses on transportation electrification and distributed energy resources.
+We advance efficient electric energy conversion for a sustainable future - from wide-bandgap power semiconductors to electric machines and their integration - for transportation electrification, aerospace, distributed energy resources, and AI data centers. The lab is led by [Prof. Matt Woongkul Lee](/members/) in the Elmore Family School of Electrical and Computer Engineering, and our work is supported by NSF (CAREER), DOE ARPA-E (IGNIITE), DOE VTO, USDA, US Army, NASA, and industry partners.
 
-Specific research interests include:
- - WBG/UWBG-based power electronics and motor drives
- - Multiphase electric motors and drives
- - EMI and partial discharge in electric drives
- - Integrated motor drives (IMDs)
- - Distributed energy resources and EV charging
+Our [research](/research/) focuses on:
+ - Neutral-point-less (NPL) multilevel inverters and WBG/UWBG power electronics
+ - Rare-earth-free electric machines and multiphase fault-tolerant drives
+ - Optical power transfer and optically excited high-speed generators (OPUS)
+ - EMI and partial discharge in inverter-fed electric drives
+ - Single-stage matrix converters for DC fast charging and V2G
+ - Distributed energy resources, smart agriculture, and AI data center power delivery
+
+**Prospective students:** We are always looking for motivated Ph.D., M.S., and undergraduate researchers passionate about power electronics and electric machines. Please email [wklee@purdue.edu](mailto:wklee@purdue.edu) with your CV and transcript.
 
 News
 ------
 2026
+- [Graduation] Dr. Kangbeen Lee completed his Ph.D. and is joining Siemens, Congratulations Kangbeen!
 - [Award] ARPA-E Director's Award for IGNIITE 2024 Awardees (OPUS project plus-up funding)
 - [Presentation Award] Best Poster Presentation Award @ IEEE APEC 2026, Congratulations Mikhail!
 - [Publications] Three papers presented @ IEEE APEC 2026 (San Antonio, TX)

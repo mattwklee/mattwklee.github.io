@@ -3,7 +3,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[Google Scholar](https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en)    [ResearchGate](https://www.researchgate.net/profile/Woongkul-Lee)
+[Google Scholar](https://scholar.google.com/citations?user=fxzfvXkAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Woongkul-Lee) | [ORCID](https://orcid.org/0000-0002-2282-6837)
+
+44 journal papers and 95+ conference papers, organized by research topic below. Selected recognitions include the IEEE IAS Industrial Drives Committee Transactions First Paper Award (2025), IEEE IAS Electrical Machines Committee ECCE Second Paper Award (2021), IEEE ITEC Best Paper Award (2020), IEEE ECCE Best Paper Award (2017), and multiple IEEE APEC presentation awards.
 
 
 Neutral-Point-Less Multilevel Inverter

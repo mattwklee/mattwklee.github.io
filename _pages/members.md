@@ -28,13 +28,13 @@ Dr. Yuming Yan joined the team in April 2025 as a Postdoctoral Research Associat
 ![juwon](/images/juwon_lee.jpg){: .align-left width="100px"}Dr. Juwon Lee received the B.S. and Ph.D. degrees in electrical engineering from Seoul National University, South Korea, in 2020 and 2026, respectively. He is currently a Visiting Postdoctoral Fellow with the Elmore Family School of Electrical and Computer Engineering at Purdue University, USA. His research interests include grid-connected converters, high-power density motor drives, and leakage current suppression of transformerless AC-DC and DC-DC converters. Dr. Lee was a recipient of the Distinguished Ph.D. Dissertation Award from the Department of Electric and Computer Engineering at Seoul National University in 2026, and his work was recognized as outstanding Ph.D. research by Springer Nature.
 
 -----
+Dr. Yongmin Ju joined the team in May 2026 as a Postdoctoral Research Associate. His research focuses on power electronics and electric drives.
+
+-----
 
 Graduate Students
 -----
 ![mostafa](/images/mf.png){: .align-left width="100px"}Mostafa Fereydoonian - Mostafa received his B.Sc. degree in electrical engineering from Shahid Beheshti University, Abbaspour School of Engineering, Tehran, Iran, in 2012. He is currently working toward the Ph.D. in electrical engineering at Purdue University. His research interests include rare-earth magnet-free electric machines, integrated motor drives, and high-power density drive design.
-
------
-![kangbeen](/images/kbl.png){: .align-left width="100px"}Kangbeen Lee - Kangbeen received a B.S. degree in electrical engineering from Yonsei University in 2016 and a M.S. degree from Hanyang University, Seoul, South Korea, in 2019. He was a research engineer at Hyundai Motors company from 2016 to 2021. Since 2021, he has been pursuing a Ph.D., currently at Purdue University. His research interests include partial discharge and EMI in AC machine drives.
 
 -----
 ![avinash](/images/ad.png){: .align-left width="100px"}Avinash Dornala - Avinash completed bachelor's degree in Electrical and Electronics Engineering and Masters in Power Systems in 2016 from India. Since then, he worked in Power Generation industry in maintenance, commissioning and erection activities in both Hydel and Thermal Power Plants. Since 2023, he has been working toward the Ph.D., currently at Purdue University. His research interests include matrix converters and V2G applications.
@@ -55,9 +55,6 @@ Benjamin Schuchardt - Ben joined the team in August 2025 as a Ph.D. student at P
 Mohammed Thushar Imran - Thushar joined the team in August 2025 as a Ph.D. student at Purdue University.
 
 -----
-Sachin Srinivasa Murthy - Sachin joined the team in August 2025 as an M.S. student at Purdue University.
-
------
 Fahmy Navid Rahman - Fahmy joined the team in June 2025 as an M.S. student at Purdue University.
 
 -----
@@ -70,6 +67,8 @@ Ryan Atkinson
 
 Alumni
 -----
+Dr. Kangbeen Lee (Ph.D. 2026) Siemens
+
 Dr. Taewoo Kim (Postdoc 2025-2026) Faculty at Kyungpook National University
 
 Dr. Haitao Sun (Postdoc 2024-2026) Faculty at Taiyuan University of Technology

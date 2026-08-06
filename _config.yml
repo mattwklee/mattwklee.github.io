@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt Woongkul Lee"
-  avatar           : "PU-Seal.jpg"
+  avatar           : "mwl.png"
   bio              : "Assistant Professor @ Purdue"
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "mwklee"
+  github           : "mattwklee"
   google_plus      :
   keybase          :
   instagram        :

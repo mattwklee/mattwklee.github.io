@@ -1,18 +1,20 @@
-# main links links
+# main links
 main:
 
   - title: "Home"
-    url: https://mattwklee.github.io/
-    
+    url: /
+
   - title: "Members"
     url: /members/
-    
+
   - title: "Research"
     url: /research/
 
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
