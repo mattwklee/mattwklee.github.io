@@ -18,7 +18,33 @@ Specific research interests include:
 
 News
 ------
+2026
+- [Award] ARPA-E Director's Award for IGNIITE 2024 Awardees (OPUS project plus-up funding)
+- [Presentation Award] Best Poster Presentation Award @ IEEE APEC 2026, Congratulations Mikhail!
+- [Publications] Three papers presented @ IEEE APEC 2026 (San Antonio, TX)
+- [Publications] IEEE TIE journal paper accepted, Congratulations Avinash!
+- [Publications] IEEE TIE journal paper accepted, Congratulations Mikayla!
+- [Publications] Two IEEE TPEL journal papers accepted, Congratulations Mikayla and Ali!
+- [Publications] IEEE TTE journal paper accepted, Congratulations Hyunwoo!
+- [Publications] IEEE OJIA review paper on partial discharge published, Congratulations Kangbeen!
+- [Research Grant] Hyundai Motors - Integrated zero-sequence filter for open-end winding traction drives
+- [Research Grant] SJ Global - Rare-earth-free integrated motor drive for data center and aerial mobility
+- [New member] Dr. Taehoon Chin, Dr. Juwon Lee, and Dr. Yongmin Ju joined the team
+- [Invited Seminars] San Diego State University, UIUC, and KIAT Symposium
+
 2025
+- [Award] ASME Rising Star of Mechanical Engineering @ IMECE 2025
+- [Paper Award] IEEE IAS Industrial Drives Committee Transactions First Paper Award @ ECCE 2025
+- [Publications] Six papers presented @ IEEE ECCE 2025 (Philadelphia, PA)
+- [Publications] Six papers presented @ IEEE ITEC 2025 (Anaheim, CA)
+- [Publications] IEEE TPEL journal paper accepted, Congratulations Kangbeen and Mikayla!
+- [Research Grant] Grainger CEME - Bioinspired electrohydraulic pump using hydrogel rotor
+- [Research Grant] Blueflite - High-power density electric propulsion for electric drones
+- [Research Grant] SJ Global - Line-start PM-assisted synchronous reluctance machine
+- [New member] Dr. Yuming Yan joined the team
+- [New member] Sachin Srinivasa Murthy, Mohammed Thushar Imran, Benjamin Schuchardt, and Fahmy Navid Rahman joined the team
+- [New member] Visiting scholars Dongin Lee and Junhyuk Heo (Incheon National University) joined the team
+- [Invited Seminars] Seoul National University, Incheon National University, Jeonbuk National University, Hyundai Motors, Sunchon National University (short course), MathWorks, and Amazon
 - [Publications] Two APEC paper presented
 - [Presentation Award] Oral presentation award @ IEEE APEC 2025, Congratulations Ali!
 - [Publications] IEEE TMAG journal paper accepted, Congratulations Kangbeen and Hyunwoo!

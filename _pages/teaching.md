@@ -5,6 +5,10 @@ author_profile: true
 ---
 Purdue University
 ------
+2025
+- ECE 32100 – Electromechanical Motion Devices
+- ECE 49022 – Electrical Engineering Senior Design Projects
+
 2024
 - ECE 61016 – Power Electronic Converters and Systems
 
