@@ -923,3 +923,8 @@ html {
 .page__content a.btn-ghost {
   margin-left: 0;
 }
+
+/* Unify all body paragraphs with component text (0.95em everywhere) */
+.page__content p {
+  font-size: 0.95em;
+}
