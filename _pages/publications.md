@@ -8,7 +8,7 @@ author_profile: true
 44 journal papers and 95+ conference papers, organized by research topic below. Selected recognitions include the IEEE IAS Industrial Drives Committee Transactions First Paper Award (2025), IEEE IAS Electrical Machines Committee ECCE Second Paper Award (2021), IEEE ITEC Best Paper Award (2020), IEEE ECCE Best Paper Award (2017), and multiple IEEE APEC presentation awards.
 
 
-<img class="pub-icon" src="/images/research/npl.svg" alt=""> Neutral-Point-Less Multilevel Inverter
+Neutral-Point-Less Multilevel Inverter
 ------
 1.	M. Benson, K. Lee, A. Halawa, X. Dong, L. Yi, J. Moon and W. Lee, “High-order DC-link ripple characterization in single capacitor multilevel operation of neutral-point-less (NPL) inverters,” IEEE Trans. Ind. Electron., 2026.
 2.	M. Benson, K. Lee, X. Dong, L. Yi, J. Moon and W. Lee, "Robustness of load impedance-based multilevel voltage generation in neutral-point-less H-type (NPL.H) inverter topology with load imbalance," IEEE Trans. Power Electron., 2026.
@@ -25,7 +25,7 @@ author_profile: true
 13.	M. Benson, X. Dong, M. Guven, K. Lee, J. Moon, and W. Lee, “Efficiency and DC-link ripple analysis of neutral-point-less (NPL) multilevel inverter with discontinuous pulse width modulations,” in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2022, pp. 1-6.
 14.	M. Benson, X. Dong, M. Guven, K. Lee, J. Moon, and W. Lee, “Neutral-point-less (NPL) multilevel inverter topology with single dc-link capacitor: H-type inverter,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2022, pp. 1-6.
 
-<img class="pub-icon" src="/images/research/optical.svg" alt=""> Optical Power Transfer
+Optical Power Transfer
 ------
 1.	K. Lee, H. Kim, and W. Lee, “Brushless wound field synchronous generator design with an optical power transfer,” IEEE Trans. Magn., vol. 61, no. 9, pp. 1-5, 2025.
 2.	J. Kim, K. Reyes, K. Lee, and W. Lee, “Active gate drive with optical communication and integrated power and signal systems in series connected SiC MOSFETs,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2026. (IEEE APEC Best Poster Presentation Award)
@@ -33,14 +33,14 @@ author_profile: true
 4.	J. Kim, T. Kim and W. Lee, "Self-powered gate drive for series connected SiC MOSFETs in MV applications," in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2025, pp. 1-6.
 5.	K. Lee, H. Kim, and W. Lee, "Brushless wound field synchronous generator design with an optical power transfer," in Proc. 2025 IEEE Conference on Magnetism and Magnetic Materials and Intermag (MMM-INTERMAG), New Orleans, LA, USA, 2025.
 
-<img class="pub-icon" src="/images/research/csi.svg" alt=""> Current-source Inverters and Integrated Motor Drives
+Current-source Inverters and Integrated Motor Drives
 ------
 1.	R. Torres, S. Lee, H. Dai, W. Lee, T. Jahns, and B. Sarlioglu, “Analysis of Pulsating High-Frequency Injection Self-Sensing Control for CSI PM Motor Drives,” IEEE Trans. Power Electron., vol. x, no. x, pp. xx-xx, May. 2024.
 2.	H. Dai, R. A. Torres, J. Gossmann, W. Lee, T. M. Jahns, and B. Sarlioglu, “A seven-switch current-source inverter using wide bandgap dual-gate bidirectional switches,” IEEE Trans. Ind. Appl., vol. 58, no. 3, pp. 3721-3737, 2022.
 3.	R. A. Torres, H. Dai, W. Lee, T. M. Jahns, B. Sarlioglu, “Current-source inverter integrated motor drives using dual-gate four-quadrant wide-bandgap power switches,” IEEE Trans. Ind. Appl., vol. 57, no. 5, pp. 5183-5198, Jul. 2021.
 4.	W. Lee, S. Li, D. Han, T. Minav, M. Pietola, and B. Sarlioglu, “A review of integrated motor drive and wide bandgap power electronics for high performance electro-hydrostatic actuators,” IEEE Trans. Transport. Electrific., vol. 4, no. 3, pp. 684-693, Jul. 2018.
 
-<img class="pub-icon" src="/images/research/machine.svg" alt=""> Rare-Earth-Free Electric Machine Design
+Rare-Earth-Free Electric Machine Design
 ------
 1.	M. Fereydoonian, K. Lee, C. Kiriella, J. Moon, and W. Lee, “Closing the loop on circular economy in transportation electrification: reuse, repurposing, and recycling of batteries, power electronics, and electric machines,” IEEE J. Sel. Topics Ind. Electron., vol. 6, no. 3, pp. 931-947, 2025.
 2.	M. Fereydoonian, D. Bobba, and W. Lee, “Magnetic flux path analysis of wound-field flux-switching machines with different field and armature winding configurations,” IEEE J. Sel. Topics Ind. Electron., vol. 6, no. 3, pp. 888-899, 2025.
@@ -51,7 +51,7 @@ author_profile: true
 7.	M. Fereydoonian and W. Lee, "High-power density wound-field flux-switching machine with modular rotor design for traction applications," in Proc. IEEE Energy Convers. Cong. and Expo. (ECCE), 2024, pp. 1-6.
 8.	W. Lee, “Rare-earth magnet-free electric machine design: unlocking sustainable electrification,” IEEE Electrification Magazine, vol. 11, no. 4, pp. 88-89, 2023 (Invited).
 
-<img class="pub-icon" src="/images/research/pd-emi.svg" alt=""> Partial Discharge and Electromagnetic Interference
+Partial Discharge and Electromagnetic Interference
 ------
 1.	K. Lee, H. Kim, J. Im, S. A. Sufi, C. Park and W. Lee, "A review of partial discharge in high-frequency and high-speed WBG-based electric drives," IEEE Open Journal of Industry Applications, vol. 7, pp. 79-89, 2026.
 2.	S. A. Sufi, W. Lee, K. Lee, and C. Park, “Mitigating PWM-induced partial discharge through optimized skin effect control,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2025.
@@ -62,7 +62,7 @@ author_profile: true
 7.	K. Lee, M. Fereydoonian, M. Benson, and W. Lee, “Partial discharge and electromagnetic interference under repetitive voltage pulses with high slew rate in AC machine drives,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2022, pp. 1-6.
 8.	S. A. Sufi, K. Lee, W. Lee, and C. Park, Identifying the influence of skin effects on PWM-induced partial discharges," in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2024, pp. 1-6.
    
-<img class="pub-icon" src="/images/research/matrix.svg" alt=""> Single-Stage DC Fast Charger
+Single-Stage DC Fast Charger
 ------
 1.	A. Dornala and W. Lee, “Enhancing reactive power compensation capability for a single-stage indirect matrix converter in V2G applications,” IEEE Trans. Ind. Electron., 2026.
 2.	A. Dornala, M. Benson, and W. Lee, “A translation-based modulation for single-stage three-phase rectifier indirect matrix converter,” IEEE Trans. Power Electron., 2026.
@@ -70,7 +70,7 @@ author_profile: true
 4.	A. Dornala, and W. Lee, "Bidirectional over-voltage protection circuit for three-phase single-stage indirect matrix converter,” in Proc. IEEE Transport. Electrific. Conf. and Expo. (ITEC), 2024, pp. 1-6.
 5.	M. Benson, A. Dornala, M. Andleeb, and W. Lee, “Simple and robust carrier-based PWM technique for single-stage three-phase rectifier indirect matrix converter,” in Proc. IEEE Appl. Power Electron. Conf. (APEC), 2024.
 
-<img class="pub-icon" src="/images/research/solar.svg" alt=""> Shunt-Connected Solar Microinverter
+Shunt-Connected Solar Microinverter
 ------
 1.	R. Varadharajan, W. Lee, and Y. Dong, “Cost-effective voltage and current sensing technique for smart agriculture systems,” Comput. and Electron. Agric., vol. 293, 2025.
 2.	K. Lee, M. Fereydoonian, M. Benson, A. Dornala, M. Guven, and W. Lee, “Grid-connected PV inverter for driving induction machines with synchronous scalar control,” IEEE Access, vol. 12, pp. 5177-5187, 2024.
