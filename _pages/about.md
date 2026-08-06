@@ -44,8 +44,8 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two IEEE TPEL journal papers accepted, Congratulations Mikayla and Ali!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TTE journal paper accepted, Congratulations Hyunwoo!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE OJIA review paper on partial discharge published, Congratulations Kangbeen!</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Hyundai Motors - Integrated zero-sequence filter for open-end winding traction drives</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global - Rare-earth-free integrated motor drive for data center and aerial mobility</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Hyundai Motors Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global Research Grant</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Taehoon Chin, Dr. Juwon Lee, and Dr. Yongmin Ju joined the team</li>
   <li data-cat="talk"><span class="badge badge-talk">Talk</span> San Diego State University, UIUC, and KIAT Symposium</li>
 </ul>
@@ -57,9 +57,9 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Six papers presented @ IEEE ECCE 2025 (Philadelphia, PA)</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Six papers presented @ IEEE ITEC 2025 (Anaheim, CA)</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted, Congratulations Kangbeen and Mikayla!</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Grainger CEME - Bioinspired electrohydraulic pump using hydrogel rotor</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Blueflite - High-power density electric propulsion for electric drones</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global - Line-start PM-assisted synchronous reluctance machine</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Grainger CEME Seed Grant - Bioinspired electrohydraulic pump using hydrogel rotor</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> Blueflite Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global Research Grant</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Yuming Yan joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Sachin Srinivasa Murthy, Mohammed Thushar Imran, Benjamin Schuchardt, and Fahmy Navid Rahman joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Visiting scholars Dongin Lee and Junhyuk Heo (Incheon National University) joined the team</li>
@@ -76,8 +76,8 @@ Announcements, publications, awards, grants, and team updates from the lab.
 
 <h3 class="news-year">2024</h3>
 <ul class="news-list">
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/">Microelectronics Commons SCMC Hub research grant</a></li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power">USDA NRCS</a></li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/">Microelectronics Commons SCMC Hub</a> - High-performance diamond electronics</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power">USDA NRCS</a> - Enhancing solar energy utilization for agricultural water and energy management</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE ECCE 2024</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE JESTIE journal paper accepted</li>
@@ -93,7 +93,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Four papers accepted @ IEEE APEC 2024</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE ECCE 2023</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant - GaN-enabled dual multilevel inverter integrated electric drive system</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> BorgWarner Research Grant</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TTE journal paper accepted</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Ali Halawa joined the team</li>
@@ -102,14 +102,14 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two papers presented @ IEEE ITEC 2023</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE APEC 2023</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> One paper presented @ IEEE SLED 2023</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> NASA USRC Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> NASA USRC Research Grant - Electric propulsion for the Purdue GoAERO drone team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Avinash Dornala joined the team</li>
 </ul>
 
 <h3 class="news-year">2022</h3>
 <ul class="news-list">
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> US Army GVSC Research Grant</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant - GaN-enabled dual multilevel inverter integrated electric drive system</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> MTRAC Starter Grant</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> BorgWarner Research Grant</li>
 </ul>
@@ -120,28 +120,31 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="people"><span class="badge badge-people">People</span> Mostafa Fereydoonian joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Kangbeen Lee joined the team</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> MTRAC Award</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> NASA USRC Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> NASA USRC Research Grant - Electric propulsion for the Purdue GoAERO drone team</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Project GREEEN Research Grant</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Huppert Engineering Research Grant</li>
 </ul>
 
 Sponsors &amp; Partners
 ------
+<div class="logo-wall">
+  <a class="logo-item" href="https://www.nsf.gov" title="National Science Foundation"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/NSF_logo.png?width=300" alt="NSF"></a>
+  <a class="logo-item" href="https://arpa-e.energy.gov" title="DOE ARPA-E"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Department_of_Energy.svg?width=300" alt="DOE ARPA-E"><span>ARPA-E</span></a>
+  <a class="logo-item" href="https://www.energy.gov/eere/vehicles/vehicle-technologies-office" title="DOE Vehicle Technologies Office"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Department_of_Energy.svg?width=300" alt="DOE VTO"><span>VTO</span></a>
+  <a class="logo-item" href="https://www.nrcs.usda.gov" title="USDA NRCS"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Department_of_Agriculture.svg?width=300" alt="USDA NRCS"></a>
+  <a class="logo-item" href="https://gvsc.devcom.army.mil" title="US Army DEVCOM GVSC"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Emblem_of_the_U.S._Department_of_the_Army.svg?width=300" alt="US Army DEVCOM GVSC"></a>
+  <a class="logo-item" href="https://www.nasa.gov" title="NASA"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/NASA_logo.svg?width=300" alt="NASA"></a>
+</div>
+
 <div class="chip-band">
-  <span class="chip">NSF</span>
-  <span class="chip">DOE ARPA-E</span>
-  <span class="chip">DOE VTO</span>
-  <span class="chip">USDA NRCS</span>
-  <span class="chip">US Army DEVCOM GVSC</span>
-  <span class="chip">NASA</span>
-  <span class="chip">SCMC Hub</span>
-  <span class="chip">BorgWarner</span>
-  <span class="chip">Hyundai Motors</span>
-  <span class="chip">General Motors</span>
-  <span class="chip">onsemi</span>
+  <a class="chip chip-link" href="https://scmchub.org">SCMC Hub</a>
+  <a class="chip chip-link" href="https://www.borgwarner.com">BorgWarner</a>
+  <a class="chip chip-link" href="https://www.hyundai.com">Hyundai Motors</a>
+  <a class="chip chip-link" href="https://www.gm.com">General Motors</a>
+  <a class="chip chip-link" href="https://www.onsemi.com">onsemi</a>
   <span class="chip">SJ Global</span>
-  <span class="chip">Blueflite</span>
-  <span class="chip">MathWorks</span>
+  <a class="chip chip-link" href="https://www.blueflite.com">Blueflite</a>
+  <a class="chip chip-link" href="https://www.mathworks.com">MathWorks</a>
 </div>
 
 Join Us
