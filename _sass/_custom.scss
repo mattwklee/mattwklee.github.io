@@ -374,3 +374,148 @@ ul.news-list > li:last-child {
   font-size: 0.9em;
   margin-bottom: 0;
 }
+
+/* ==========================================================================
+   Members page
+   ========================================================================== */
+
+.member-featured {
+  display: flex;
+  gap: 22px;
+  align-items: flex-start;
+  background: #FAF8F4;
+  border: 1px solid #ECE8DF;
+  border-left: 4px solid #C28E0E;
+  border-radius: 8px;
+  padding: 22px 24px;
+  margin: 1em 0 1.6em;
+  flex-wrap: wrap;
+}
+.featured-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #C28E0E;
+  flex-shrink: 0;
+}
+.featured-body {
+  flex: 1;
+  min-width: 240px;
+}
+.featured-body h3 {
+  margin: 0 0 0.1em;
+}
+.degree-chips {
+  margin-bottom: 0;
+}
+
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(255px, 1fr));
+  gap: 18px;
+  margin: 1em 0 1.8em;
+}
+.member-card {
+  background: #FAF8F4;
+  border: 1px solid #ECE8DF;
+  border-top: 3px solid #C28E0E;
+  border-radius: 6px;
+  padding: 22px 18px 12px;
+  text-align: center;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.member-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(27, 27, 25, 0.10);
+}
+.member-card img {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid #E9DFC8;
+  margin: 0 auto;
+  display: block;
+}
+.member-card img.logo-img {
+  border-radius: 0;
+  border: none;
+  object-fit: contain;
+  height: 90px;
+}
+.avatar-fallback {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  border: 3px solid #E9DFC8;
+  background: #1B1B19;
+  color: #E3B23C;
+  font-family: "Archivo", sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.member-card h3 {
+  margin: 0.6em 0 0.1em;
+  font-size: 1.02em;
+}
+.member-role {
+  color: #8E6F3E;
+  font-family: "Archivo", sans-serif;
+  font-size: 0.78em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 0.6em;
+}
+.member-card .bio,
+.member-featured .bio {
+  font-size: 0.86em;
+  line-height: 1.6;
+  text-align: left;
+  margin-bottom: 0.6em;
+}
+
+/* Alumni / visiting scholar lists */
+ul.alumni-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+  columns: 2;
+  column-gap: 32px;
+}
+ul.alumni-list li {
+  padding: 7px 0;
+  border-bottom: 1px solid #ECE8DF;
+  break-inside: avoid;
+  font-size: 0.94em;
+}
+ul.alumni-list .placement {
+  color: #5B5E63;
+  font-size: 0.92em;
+}
+@media (max-width: 640px) {
+  ul.alumni-list {
+    columns: 1;
+  }
+}
+
+/* Research/publication illustrations */
+.card-art {
+  display: block;
+  width: 100%;
+  height: 108px;
+  object-fit: contain;
+  margin: 0 auto 10px;
+}
+.pub-icon {
+  width: 40px;
+  height: 26px;
+  object-fit: contain;
+  vertical-align: -4px;
+  margin-right: 6px;
+}
