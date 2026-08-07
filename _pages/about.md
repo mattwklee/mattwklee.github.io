@@ -34,6 +34,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
 
 <h3 class="news-year">2026</h3>
 <ul class="news-list">
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE PES GM 2026 (Montreal, Canada)</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPE journal paper accepted, Congratulations Dong-in and Jun!</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Visiting scholars Tae-hu Kim and Donghyeok Jang (Incheon National University) joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Kangbeen Lee completed his Ph.D. and is joining Siemens, Congratulations Kangbeen!</li>
