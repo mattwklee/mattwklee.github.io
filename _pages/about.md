@@ -34,6 +34,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
 
 <h3 class="news-year">2026</h3>
 <ul class="news-list">
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPE journal paper accepted, Congratulations Dong-in and Jun!</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Visiting scholars Tae-hu Kim and Donghyeok Jang (Incheon National University) joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Kangbeen Lee completed his Ph.D. and is joining Siemens, Congratulations Kangbeen!</li>
   <li data-cat="award"><span class="badge badge-award">Award</span> ARPA-E Director's Award for IGNIITE 2024 Awardees (OPUS project plus-up funding)</li>
@@ -41,7 +42,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE APEC 2026 (San Antonio, TX)</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TIE journal paper accepted, Congratulations Avinash!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TIE journal paper accepted, Congratulations Mikayla!</li>
-  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two IEEE TPEL journal papers accepted, Congratulations Mikayla and Ali!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> Two IEEE TPE journal papers accepted, Congratulations Mikayla and Ali!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TTE journal paper accepted, Congratulations Hyunwoo!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE OJIA review paper on partial discharge published, Congratulations Kangbeen!</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Hyundai Motors Research Grant</li>
@@ -56,7 +57,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="award"><span class="badge badge-award">Award</span> IEEE IAS Industrial Drives Committee Transactions First Paper Award @ ECCE 2025</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Six papers presented @ IEEE ECCE 2025 (Philadelphia, PA)</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Six papers presented @ IEEE ITEC 2025 (Anaheim, CA)</li>
-  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted, Congratulations Kangbeen and Mikayla!</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPE journal paper accepted, Congratulations Kangbeen and Mikayla!</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Grainger CEME Seed Grant - Bioinspired electrohydraulic pump using hydrogel rotor</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Blueflite Research Grant</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global Research Grant</li>
@@ -79,7 +80,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/">Microelectronics Commons SCMC Hub</a> - High-performance diamond electronics</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power">USDA NRCS</a> - Enhancing solar energy utilization for agricultural water and energy management</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE ECCE 2024</li>
-  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPE journal paper accepted</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE JESTIE journal paper accepted</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Karen Reyes joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Junghoon Kim joined the team</li>
@@ -92,7 +93,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> ARPA-E ULTRAFAST Research Grant</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Four papers accepted @ IEEE APEC 2024</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE ECCE 2023</li>
-  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPEL journal paper accepted</li>
+  <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPE journal paper accepted</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant - GaN-enabled dual multilevel inverter integrated electric drive system</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> BorgWarner Research Grant</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TTE journal paper accepted</li>
