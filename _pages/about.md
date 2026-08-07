@@ -32,7 +32,20 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <button class="filter-btn" data-filter="talk">Talks</button>
 </div>
 
-<h3 class="news-year">2026</h3>
+<div class="news-nav" role="group" aria-label="Select news year">
+  <button class="year-arrow" id="year-prev" aria-label="Newer year">&#8249;</button>
+  <div class="year-tabs">
+    <button class="year-tab is-active" data-year="2026">2026</button>
+    <button class="year-tab" data-year="2025">2025</button>
+    <button class="year-tab" data-year="2024">2024</button>
+    <button class="year-tab" data-year="2023">2023</button>
+    <button class="year-tab" data-year="2022">2022</button>
+    <button class="year-tab" data-year="2021">2021</button>
+  </div>
+  <button class="year-arrow" id="year-next" aria-label="Older year">&#8250;</button>
+</div>
+
+<div class="news-year-panel is-active" data-year="2026">
 <ul class="news-list">
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Three papers presented @ IEEE PES GM 2026 (Montreal, Canada)</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPE journal paper accepted, Congratulations Dong-in and Jun!</li>
@@ -51,8 +64,9 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Taehoon Chin, Dr. Juwon Lee, and Dr. Yongmin Ju joined the team</li>
   <li data-cat="talk"><span class="badge badge-talk">Talk</span> San Diego State University, UIUC, and KIAT Symposium</li>
 </ul>
-
-<h3 class="news-year">2025</h3>
+<p class="news-empty" hidden>No items in this category for 2026.</p>
+</div>
+<div class="news-year-panel" data-year="2025">
 <ul class="news-list">
   <li data-cat="award"><span class="badge badge-award">Award</span> ASME Rising Star of Mechanical Engineering @ IMECE 2025</li>
   <li data-cat="award"><span class="badge badge-award">Award</span> IEEE IAS Industrial Drives Committee Transactions First Paper Award @ ECCE 2025</li>
@@ -75,8 +89,9 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE JESTIE journal paper accepted</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TIE journal paper accepted, Congratulations Haitao!</li>
 </ul>
-
-<h3 class="news-year">2024</h3>
+<p class="news-empty" hidden>No items in this category for 2025.</p>
+</div>
+<div class="news-year-panel" data-year="2024">
 <ul class="news-list">
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://theari.us/projects-awards-coming-to-the-silicon-crossroads-microelectronics-commons/">Microelectronics Commons SCMC Hub</a> - High-performance diamond electronics</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> <a href="https://www.canr.msu.edu/news/msu-researcher-receives-grant-to-develop-efficient-irrigation-technology-using-solar-power">USDA NRCS</a> - Enhancing solar energy utilization for agricultural water and energy management</li>
@@ -88,8 +103,9 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Junhyuk Im joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Hyunwoo Kim joined the team</li>
 </ul>
-
-<h3 class="news-year">2023</h3>
+<p class="news-empty" hidden>No items in this category for 2024.</p>
+</div>
+<div class="news-year-panel" data-year="2023">
 <ul class="news-list">
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> ARPA-E ULTRAFAST Research Grant</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> Four papers accepted @ IEEE APEC 2024</li>
@@ -107,16 +123,18 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> NASA USRC Research Grant - Electric propulsion for the Purdue GoAERO drone team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Avinash Dornala joined the team</li>
 </ul>
-
-<h3 class="news-year">2022</h3>
+<p class="news-empty" hidden>No items in this category for 2023.</p>
+</div>
+<div class="news-year-panel" data-year="2022">
 <ul class="news-list">
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> US Army GVSC Research Grant</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> DOE VTO Research Grant - GaN-enabled dual multilevel inverter integrated electric drive system</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> MTRAC Starter Grant</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> BorgWarner Research Grant</li>
 </ul>
-
-<h3 class="news-year">2021</h3>
+<p class="news-empty" hidden>No items in this category for 2022.</p>
+</div>
+<div class="news-year-panel" data-year="2021">
 <ul class="news-list">
   <li data-cat="people"><span class="badge badge-people">People</span> Mikayla Benson joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Mostafa Fereydoonian joined the team</li>
@@ -126,56 +144,8 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Project GREEEN Research Grant</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Huppert Engineering Research Grant</li>
 </ul>
-
-Sponsors &amp; Partners
-------
-<div class="logo-wall">
-  <div class="logo-item name-card"><span>NSF</span></div>
-  <div class="logo-item name-card"><span>DOE ARPA-E</span></div>
-  <div class="logo-item name-card"><span>DOE VTO</span></div>
-  <div class="logo-item name-card"><span>USDA NRCS</span></div>
-  <div class="logo-item name-card"><span>US Army DEVCOM GVSC</span></div>
-  <div class="logo-item name-card"><span>NASA</span></div>
-  <div class="logo-item name-card"><span>SCMC Hub</span></div>
-  <div class="logo-item name-card"><span>BorgWarner</span></div>
-  <div class="logo-item name-card"><span>Hyundai Motors</span></div>
-  <div class="logo-item name-card"><span>General Motors</span></div>
-  <div class="logo-item name-card"><span>SJ Global</span></div>
-  <div class="logo-item name-card"><span>Blueflite</span></div>
-  <div class="logo-item name-card"><span>MathWorks</span></div>
+<p class="news-empty" hidden>No items in this category for 2021.</p>
 </div>
-
-Join Us
-------
-We seek motivated students and researchers who want to grow as independent scholars and build the future of electric energy conversion.
-
-<div class="research-grid">
-  <div class="research-card">
-    <h3>Ph.D. / M.S. Students</h3>
-    <p>Work on funded projects spanning WBG power electronics, electric machines, and drives - from topology concept to hardware demonstration.</p>
-    <ul class="join-list">
-      <li>Hands-on hardware experience with WBG converters and machine testbeds</li>
-      <li>Publish at leading venues (APEC, ECCE, ITEC, IEEE Transactions)</li>
-      <li>Collaborate with national labs and industry partners</li>
-    </ul>
-  </div>
-  <div class="research-card">
-    <h3>Postdoctoral Researchers</h3>
-    <p>Lead research thrusts with strong academic and real-world impact, with opportunities to define independent directions.</p>
-    <ul class="join-list">
-      <li>Independent research leadership on federally funded programs</li>
-      <li>Proposal development and mentoring experience</li>
-      <li>Pathway to academic and industry research careers</li>
-    </ul>
-  </div>
-  <div class="research-card">
-    <h3>Undergraduate Researchers</h3>
-    <p>Join research projects and student competition teams to build hands-on skills in power electronics and electrification.</p>
-    <ul class="join-list">
-      <li>Mentoring from graduate students and faculty</li>
-      <li>Student teams: GoAERO Prize and Purdue IEEE Racing</li>
-      <li>Pathway to graduate research</li>
-    </ul>
   </div>
 </div>
 
@@ -187,22 +157,56 @@ We seek motivated students and researchers who want to grow as independent schol
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var btns = document.querySelectorAll('.filter-btn');
-  btns.forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      var f = btn.getAttribute('data-filter');
-      btns.forEach(function (b) { b.classList.remove('is-active'); });
-      btn.classList.add('is-active');
-      document.querySelectorAll('.news-list li').forEach(function (li) {
-        li.style.display = (f === 'all' || li.getAttribute('data-cat') === f) ? '' : 'none';
-      });
-      document.querySelectorAll('.news-list').forEach(function (ul) {
-        var visible = Array.prototype.some.call(ul.children, function (li) { return li.style.display !== 'none'; });
-        ul.style.display = visible ? '' : 'none';
-        var h = ul.previousElementSibling;
-        if (h && h.classList.contains('news-year')) { h.style.display = visible ? '' : 'none'; }
-      });
+  var years = Array.prototype.map.call(document.querySelectorAll('.year-tab'), function (t) { return t.getAttribute('data-year'); });
+  var cur = 0, curCat = 'all';
+
+  function render(direction) {
+    document.querySelectorAll('.year-tab').forEach(function (t, i) {
+      t.classList.toggle('is-active', i === cur);
+    });
+    document.querySelectorAll('.news-year-panel').forEach(function (pnl, i) {
+      pnl.classList.remove('is-active', 'slide-left', 'slide-right');
+      if (i === cur) {
+        pnl.classList.add('is-active');
+        if (direction) { pnl.classList.add(direction); }
+        var visible = 0;
+        pnl.querySelectorAll('.news-list li').forEach(function (li) {
+          var ok = (curCat === 'all' || li.getAttribute('data-cat') === curCat);
+          li.style.display = ok ? '' : 'none';
+          if (ok) { visible++; }
+        });
+        var empty = pnl.querySelector('.news-empty');
+        var list = pnl.querySelector('.news-list');
+        if (empty) { empty.hidden = visible > 0; }
+        if (list) { list.style.display = visible > 0 ? '' : 'none'; }
+      }
+    });
+    var prev = document.getElementById('year-prev');
+    var next = document.getElementById('year-next');
+    if (prev) { prev.disabled = (cur === 0); }
+    if (next) { next.disabled = (cur === years.length - 1); }
+  }
+
+  document.querySelectorAll('.year-tab').forEach(function (t, i) {
+    t.addEventListener('click', function () {
+      var dir = i > cur ? 'slide-left' : 'slide-right';
+      cur = i; render(dir);
     });
   });
+  var prevBtn = document.getElementById('year-prev');
+  var nextBtn = document.getElementById('year-next');
+  if (prevBtn) { prevBtn.addEventListener('click', function () { if (cur > 0) { cur--; render('slide-right'); } }); }
+  if (nextBtn) { nextBtn.addEventListener('click', function () { if (cur < years.length - 1) { cur++; render('slide-left'); } }); }
+
+  document.querySelectorAll('.filter-btn[data-filter]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      document.querySelectorAll('.filter-btn[data-filter]').forEach(function (x) { x.classList.remove('is-active'); });
+      b.classList.add('is-active');
+      curCat = b.getAttribute('data-filter');
+      render();
+    });
+  });
+
+  render();
 });
 </script>
