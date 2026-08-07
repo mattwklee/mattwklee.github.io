@@ -85,10 +85,10 @@ Graduate Students
     <p class="bio">Jun's research interests are optical power transfer, gate drivers, WBG power devices, and quantum computing for power electronics. He has worked on high-voltage, high-power inverter design at GE Aerospace, General Motors, and Ford. He earned an M.S. in electrical engineering from the University of Michigan, Ann Arbor, and a B.S. from Hanyang University.</p>
   </div>
   <div class="member-card">
-    <div class="avatar-fallback">BS</div>
+    <img src="/images/ben_schuchardt.jpg" alt="Benjamin Schuchardt">
     <h3>Benjamin Schuchardt</h3>
     <p class="member-role">Ph.D. Student</p>
-    <p class="bio">Joined the team in August 2025 as a Ph.D. student at Purdue University. He previously worked with the group as an undergraduate researcher at Michigan State University, contributing to GaN-based neutral-point-less multilevel inverter research.</p>
+    <p class="bio">Ben received his B.S.E.E. in 2024 from Michigan State University, starting at MIT Lincoln Laboratory in January 2025 as a co-op student in the Electronics for Contested Space group, then as a Summer Research Intern in the Energy Systems group, before joining the research group in August 2025. His research interests include integrated DC-DC converters, HBM/GPU power delivery, and other microelectronics/power electronics intersections.</p>
   </div>
   <div class="member-card">
     <img src="/images/thushar_imran.jpg" alt="Mohammed Thushar Imran">
@@ -97,10 +97,10 @@ Graduate Students
     <p class="bio">Mohammed Thushar Imran is a Ph.D. student at Purdue University, where he began his studies in Fall 2025. He received his B.Sc. in Electrical and Electronic Engineering from BRAC University in 2022 and later served there as a lecturer. His current research interests include power electronic converter design, wide-bandgap semiconductor devices, and motor control.</p>
   </div>
   <div class="member-card">
-    <div class="avatar-fallback">FR</div>
+    <img src="/images/fahmy_rahman.jpg" alt="Fahmy Navid Rahman">
     <h3>Fahmy Navid Rahman</h3>
     <p class="member-role">M.S. Student</p>
-    <p class="bio">Joined the team in June 2025 as an M.S. student at Purdue University.</p>
+    <p class="bio">Fahmy received his B.S. in electrical engineering from the University of Cincinnati, and worked on battery-powered outdoor tools as a new product development engineer at Milwaukee Tool afterward. He is currently an M.S. student at Purdue University focusing on motor drives.</p>
   </div>
 </div>
 
