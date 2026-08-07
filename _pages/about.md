@@ -146,6 +146,56 @@ Announcements, publications, awards, grants, and team updates from the lab.
 </ul>
 <p class="news-empty" hidden>No items in this category for 2021.</p>
 </div>
+
+Sponsors &amp; Partners
+------
+<div class="logo-wall">
+  <div class="logo-item name-card"><span>NSF</span></div>
+  <div class="logo-item name-card"><span>DOE ARPA-E</span></div>
+  <div class="logo-item name-card"><span>DOE VTO</span></div>
+  <div class="logo-item name-card"><span>USDA NRCS</span></div>
+  <div class="logo-item name-card"><span>US Army DEVCOM GVSC</span></div>
+  <div class="logo-item name-card"><span>NASA</span></div>
+  <div class="logo-item name-card"><span>SCMC Hub</span></div>
+  <div class="logo-item name-card"><span>BorgWarner</span></div>
+  <div class="logo-item name-card"><span>Hyundai Motors</span></div>
+  <div class="logo-item name-card"><span>General Motors</span></div>
+  <div class="logo-item name-card"><span>SJ Global</span></div>
+  <div class="logo-item name-card"><span>Blueflite</span></div>
+  <div class="logo-item name-card"><span>MathWorks</span></div>
+</div>
+
+Join Us
+------
+We seek motivated students and researchers who want to grow as independent scholars and build the future of electric energy conversion.
+
+<div class="research-grid">
+  <div class="research-card">
+    <h3>Ph.D. / M.S. Students</h3>
+    <p>Work on funded projects spanning WBG power electronics, electric machines, and drives - from topology concept to hardware demonstration.</p>
+    <ul class="join-list">
+      <li>Hands-on hardware experience with WBG converters and machine testbeds</li>
+      <li>Publish at leading venues (APEC, ECCE, ITEC, IEEE Transactions)</li>
+      <li>Collaborate with national labs and industry partners</li>
+    </ul>
+  </div>
+  <div class="research-card">
+    <h3>Postdoctoral Researchers</h3>
+    <p>Lead research thrusts with strong academic and real-world impact, with opportunities to define independent directions.</p>
+    <ul class="join-list">
+      <li>Independent research leadership on federally funded programs</li>
+      <li>Proposal development and mentoring experience</li>
+      <li>Pathway to academic and industry research careers</li>
+    </ul>
+  </div>
+  <div class="research-card">
+    <h3>Undergraduate Researchers</h3>
+    <p>Join research projects and student competition teams to build hands-on skills in power electronics and electrification.</p>
+    <ul class="join-list">
+      <li>Mentoring from graduate students and faculty</li>
+      <li>Student teams: GoAERO Prize and Purdue IEEE Racing</li>
+      <li>Pathway to graduate research</li>
+    </ul>
   </div>
 </div>
 
@@ -157,13 +207,11 @@ Announcements, publications, awards, grants, and team updates from the lab.
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  var years = Array.prototype.map.call(document.querySelectorAll('.year-tab'), function (t) { return t.getAttribute('data-year'); });
+  var tabs = document.querySelectorAll('.year-tab');
   var cur = 0, curCat = 'all';
 
   function render(direction) {
-    document.querySelectorAll('.year-tab').forEach(function (t, i) {
-      t.classList.toggle('is-active', i === cur);
-    });
+    tabs.forEach(function (t, i) { t.classList.toggle('is-active', i === cur); });
     document.querySelectorAll('.news-year-panel').forEach(function (pnl, i) {
       pnl.classList.remove('is-active', 'slide-left', 'slide-right');
       if (i === cur) {
@@ -184,19 +232,17 @@ document.addEventListener('DOMContentLoaded', function () {
     var prev = document.getElementById('year-prev');
     var next = document.getElementById('year-next');
     if (prev) { prev.disabled = (cur === 0); }
-    if (next) { next.disabled = (cur === years.length - 1); }
+    if (next) { next.disabled = (cur === tabs.length - 1); }
   }
 
-  document.querySelectorAll('.year-tab').forEach(function (t, i) {
+  tabs.forEach(function (t, i) {
     t.addEventListener('click', function () {
       var dir = i > cur ? 'slide-left' : 'slide-right';
       cur = i; render(dir);
     });
   });
-  var prevBtn = document.getElementById('year-prev');
-  var nextBtn = document.getElementById('year-next');
-  if (prevBtn) { prevBtn.addEventListener('click', function () { if (cur > 0) { cur--; render('slide-right'); } }); }
-  if (nextBtn) { nextBtn.addEventListener('click', function () { if (cur < years.length - 1) { cur++; render('slide-left'); } }); }
+  document.getElementById('year-prev').addEventListener('click', function () { if (cur > 0) { cur--; render('slide-right'); } });
+  document.getElementById('year-next').addEventListener('click', function () { if (cur < tabs.length - 1) { cur++; render('slide-left'); } });
 
   document.querySelectorAll('.filter-btn[data-filter]').forEach(function (b) {
     b.addEventListener('click', function () {

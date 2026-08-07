@@ -1087,9 +1087,10 @@ html {
   border-color: #C28E0E;
 }
 .year-tab.is-active {
-  background: #1B1B19;
-  border-color: #1B1B19;
-  color: #E3B23C;
+  background: #C28E0E;
+  border-color: #C28E0E;
+  color: #1B1B19;
+  box-shadow: 0 2px 8px rgba(194, 142, 14, 0.35);
 }
 .year-arrow {
   background: #1B1B19;
