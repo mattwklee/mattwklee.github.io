@@ -43,6 +43,16 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
 
 <div class="topic-panel is-active" id="t1">
   <h3>Neutral-Point-Less (NPL) Multilevel Inverters</h3>
+  <div class="panel-fig-row">
+    <figure class="panel-fig panel-fig-inline">
+      <img src="/images/research/npl_h.png" alt="NPL.H three-level inverter prototype with SiC H-type daughtercards and single DC-link capacitor">
+      <figcaption>NPL.H SiC three-level inverter prototype</figcaption>
+    </figure>
+    <figure class="panel-fig panel-fig-inline">
+      <img src="/images/research/npl_x.png" alt="NPL.X inverter prototype with X-type phase leg daughtercards and neutral-point-less DC-link capacitor bank">
+      <figcaption>NPL.X GaN inverter prototype</figcaption>
+    </figure>
+  </div>
   <p>Our NPL inverter family (H-type and X-type) achieves three-level operation with a single DC-link capacitor, eliminating the neutral point entirely - improving efficiency and power quality without split-capacitor balancing.</p>
   <div class="kw-band">
     <span class="kw-chip">NPL.H / NPL.X topologies</span><span class="kw-chip">Single DC-link capacitor</span><span class="kw-chip">Active CMV cancellation</span><span class="kw-chip">DC-link ripple characterization</span><span class="kw-chip">Hybrid Si/SiC design</span><span class="kw-chip">Discontinuous PWM</span><span class="kw-chip">Low-inductance GaN layout</span><span class="kw-chip">Traction inverters</span>
@@ -51,6 +61,10 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
 </div>
 <div class="topic-panel" id="t2">
   <h3>Single-Stage Matrix Converters for DC Fast Charging &amp; V2G</h3>
+  <figure class="panel-fig">
+    <img src="/images/research/matrix_charger.png" alt="Single-stage indirect matrix converter DC fast charger prototype board">
+    <figcaption>Single-stage matrix converter DC fast charger prototype</figcaption>
+  </figure>
   <p>Direct AC-DC conversion without a bulky intermediate DC link enables compact, efficient DC fast chargers and vehicle-to-grid interfaces built on dual-gate bidirectional switches.</p>
   <div class="kw-band">
     <span class="kw-chip">Indirect matrix converters</span><span class="kw-chip">Dual-gate bidirectional switches</span><span class="kw-chip">Carrier-based modulation</span><span class="kw-chip">Translation-based modulation</span><span class="kw-chip">Reactive power compensation</span><span class="kw-chip">V2G</span><span class="kw-chip">Over-voltage protection</span>
@@ -67,6 +81,10 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
 </div>
 <div class="topic-panel" id="t4">
   <h3>Rare-Earth-Free Electric Machines</h3>
+  <figure class="panel-fig">
+    <img src="/images/research/mimd.png" alt="Exploded view of a magnetically integrated motor drive: stator, AC phase winding, DC field winding, rotor pole, SiC reverse-blocking switches, and AC filter capacitors">
+    <figcaption>Magnetically integrated motor drive with a rare-earth-free wound-field machine</figcaption>
+  </figure>
   <p>High-power density wound-field synchronous and flux-switching machines that eliminate rare-earth magnets without sacrificing performance, supported by the NSF CAREER award and a broader circular-economy vision.</p>
   <div class="kw-band">
     <span class="kw-chip">Wound-field synchronous machines</span><span class="kw-chip">Flux-switching machines</span><span class="kw-chip">Modular rotor design</span><span class="kw-chip">Torque ripple mitigation</span><span class="kw-chip">Line-start PMa-SynRM</span><span class="kw-chip">Magnetically integrated drives</span><span class="kw-chip">Reuse / repurposing / recycling</span>
@@ -83,6 +101,10 @@ Click a filter to narrow the pillars, then select a topic to see its focus areas
 </div>
 <div class="topic-panel" id="t6">
   <h3>Optical Power Transfer &amp; OPUS Generators</h3>
+  <figure class="panel-fig">
+    <img src="/images/research/opus_gen.png" alt="OPUS wound-field synchronous generator with rotor-mounted PV cell excited by an external light source">
+    <figcaption>OPUS wound-field synchronous generator with optical rotor excitation</figcaption>
+  </figure>
   <p>Delivering power across isolation barriers and onto spinning rotors with light. Under ARPA-E IGNIITE (with a 2026 Director's Award plus-up), we develop Optically Powered Ultra-high-Speed wound-field synchronous generators and optically powered gate drives.</p>
   <div class="kw-band">
     <span class="kw-chip">Optically excited WFSG</span><span class="kw-chip">Brushless excitation</span><span class="kw-chip">Laser power delivery</span><span class="kw-chip">Optical communication gate drives</span><span class="kw-chip">Ultra-high-speed generators</span><span class="kw-chip">More electric aircraft</span>
