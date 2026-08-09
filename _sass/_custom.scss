@@ -530,7 +530,7 @@ ul.alumni-list .placement {
 .vision-hero {
   background: #1B1B19;
   border-radius: 8px;
-  padding: 48px 30px 42px;
+  padding: 26px 26px 22px;
   margin: 0.4em 0 1.4em;
   position: relative;
   overflow: hidden;
@@ -557,7 +557,7 @@ ul.alumni-list .placement {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
-  margin-bottom: 1.4em;
+  margin-bottom: 0.9em;
 }
 .vision-letter {
   flex: 1;
@@ -565,7 +565,7 @@ ul.alumni-list .placement {
   background: rgba(250, 248, 244, 0.06);
   border: 1px solid rgba(227, 178, 60, 0.35);
   border-radius: 6px;
-  padding: 22px 10px;
+  padding: 10px 10px;
   text-align: center;
   transition: transform 0.15s ease, border-color 0.15s ease;
 }
@@ -576,7 +576,7 @@ ul.alumni-list .placement {
 .vision-letter .vl {
   display: block;
   font-family: "Archivo", sans-serif;
-  font-size: 2.7em;
+  font-size: 2.0em;
   font-weight: 800;
   color: #E3B23C;
   line-height: 1.1;
