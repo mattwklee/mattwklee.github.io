@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 <div class="vision-hero">
+  <canvas id="power-particles" aria-hidden="true"></canvas>
   <p class="vision-eyebrow">The Research Vision of the Lab</p>
   <div class="vision-letters">
     <div class="vision-letter" data-group="conv" title="Explore converter research"><span class="vl">P</span><span class="vw">Power<br>Conversion</span></div>
@@ -144,5 +145,61 @@ document.addEventListener('DOMContentLoaded', function () {
       if (active && active.style.display === 'none' && firstVisible) { firstVisible.click(); }
     });
   });
+  /* Electron field in vision hero */
+  (function () {
+    var canvas = document.getElementById('power-particles');
+    if (!canvas || !canvas.getContext) { return; }
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) { return; }
+    var ctx = canvas.getContext('2d');
+    var hero = canvas.parentElement;
+    var dpr = Math.min(window.devicePixelRatio || 1, 2);
+    var W, H, pts;
+    function resize() {
+      W = hero.clientWidth; H = hero.clientHeight;
+      canvas.width = W * dpr; canvas.height = H * dpr;
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      var n = Math.max(18, Math.min(40, Math.round(W / 30)));
+      pts = [];
+      for (var i = 0; i < n; i++) {
+        pts.push({ x: Math.random() * W, y: Math.random() * H,
+                   vx: (Math.random() - 0.5) * 0.35, vy: (Math.random() - 0.5) * 0.35 });
+      }
+    }
+    resize();
+    window.addEventListener('resize', resize, { passive: true });
+    function frame() {
+      if (!document.hidden) {
+        ctx.clearRect(0, 0, W, H);
+        for (var i = 0; i < pts.length; i++) {
+          var p = pts[i];
+          p.x += p.vx; p.y += p.vy;
+          if (p.x < 0 || p.x > W) { p.vx *= -1; }
+          if (p.y < 0 || p.y > H) { p.vy *= -1; }
+        }
+        ctx.lineWidth = 1;
+        for (var a = 0; a < pts.length; a++) {
+          for (var b = a + 1; b < pts.length; b++) {
+            var dx = pts[a].x - pts[b].x, dy = pts[a].y - pts[b].y;
+            var d2 = dx * dx + dy * dy;
+            if (d2 < 8100) {
+              ctx.strokeStyle = 'rgba(227, 178, 60, ' + (0.16 * (1 - d2 / 8100)) + ')';
+              ctx.beginPath();
+              ctx.moveTo(pts[a].x, pts[a].y);
+              ctx.lineTo(pts[b].x, pts[b].y);
+              ctx.stroke();
+            }
+          }
+        }
+        for (var i = 0; i < pts.length; i++) {
+          ctx.fillStyle = 'rgba(227, 178, 60, 0.55)';
+          ctx.beginPath();
+          ctx.arc(pts[i].x, pts[i].y, 1.6, 0, Math.PI * 2);
+          ctx.fill();
+        }
+      }
+      requestAnimationFrame(frame);
+    }
+    requestAnimationFrame(frame);
+  })();
 });
 </script>

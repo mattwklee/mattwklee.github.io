@@ -83,3 +83,26 @@ document.addEventListener('DOMContentLoaded', function () {
   update();
 });
 </script>
+
+<!-- 3D tilt + glare on cards (desktop, motion-safe) -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var fine = window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+  var noMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (!fine || noMotion) { return; }
+  document.querySelectorAll('.member-card, .research-card').forEach(function (card) {
+    card.classList.add('tiltable');
+    card.addEventListener('pointermove', function (e) {
+      var r = card.getBoundingClientRect();
+      var px = (e.clientX - r.left) / r.width;
+      var py = (e.clientY - r.top) / r.height;
+      card.style.transform = 'perspective(700px) rotateY(' + ((px - 0.5) * 7) + 'deg) rotateX(' + ((0.5 - py) * 7) + 'deg) translateY(-3px)';
+      card.style.setProperty('--mx', (px * 100) + '%');
+      card.style.setProperty('--my', (py * 100) + '%');
+    });
+    card.addEventListener('pointerleave', function () {
+      card.style.transform = '';
+    });
+  });
+});
+</script>
