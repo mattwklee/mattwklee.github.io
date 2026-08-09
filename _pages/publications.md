@@ -12,6 +12,9 @@ author_profile: true
 Publications are organized by research topic below. Use the filters to browse by topic or venue type.
 
 
+<input type="search" class="pub-search" placeholder="Search papers by keyword, author, or venue..." aria-label="Search publications">
+<p class="pub-noresults" hidden>No papers match your search.</p>
+
 <div class="news-filter" role="group" aria-label="Filter by topic">
   <button class="filter-btn ptopic-btn is-active" data-topic="all">All Topics</button>
   <button class="filter-btn ptopic-btn fb-npl" data-topic="npl">NPL Inverters</button>
@@ -122,16 +125,31 @@ document.addEventListener('DOMContentLoaded', function () {
   var topicBtns = document.querySelectorAll('.ptopic-btn');
   var typeBtns = document.querySelectorAll('.ptype-btn');
   var curTopic = 'all', curType = 'all';
+  var curQ = '';
   function apply() {
+    var total = 0;
     document.querySelectorAll('.pub-section').forEach(function (sec) {
       var topicOk = (curTopic === 'all' || sec.getAttribute('data-topic') === curTopic);
       var visibleItems = 0;
       sec.querySelectorAll('li').forEach(function (li) {
         var typeOk = (curType === 'all' || li.getAttribute('data-type') === curType);
-        li.style.display = typeOk ? '' : 'none';
-        if (typeOk) { visibleItems++; }
+        var qOk = (curQ === '' || li.textContent.toLowerCase().indexOf(curQ) !== -1);
+        var ok = typeOk && qOk;
+        li.style.display = ok ? '' : 'none';
+        if (ok) { visibleItems++; }
       });
-      sec.style.display = (topicOk && visibleItems > 0) ? '' : 'none';
+      var show = topicOk && visibleItems > 0;
+      sec.style.display = show ? '' : 'none';
+      if (show) { total += visibleItems; }
+    });
+    var nores = document.querySelector('.pub-noresults');
+    if (nores) { nores.hidden = total > 0; }
+  }
+  var searchBox = document.querySelector('.pub-search');
+  if (searchBox) {
+    searchBox.addEventListener('input', function () {
+      curQ = searchBox.value.trim().toLowerCase();
+      apply();
     });
   }
   topicBtns.forEach(function (b) {

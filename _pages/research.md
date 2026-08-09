@@ -7,11 +7,11 @@ author_profile: true
 <div class="vision-hero">
   <p class="vision-eyebrow">The Research Vision of the Lab</p>
   <div class="vision-letters">
-    <div class="vision-letter"><span class="vl">P</span><span class="vw">Power<br>Conversion</span></div>
-    <div class="vision-letter"><span class="vl">O</span><span class="vw">Optical Power<br>Transfer</span></div>
-    <div class="vision-letter"><span class="vl">W</span><span class="vw">Wide-Bandgap<br>Devices</span></div>
-    <div class="vision-letter"><span class="vl">E</span><span class="vw">Electric<br>Machines</span></div>
-    <div class="vision-letter"><span class="vl">R</span><span class="vw">Reliability<br>&amp; Integration</span></div>
+    <div class="vision-letter" data-group="conv" title="Explore converter research"><span class="vl">P</span><span class="vw">Power<br>Conversion</span></div>
+    <div class="vision-letter" data-group="rel" title="Explore optics research"><span class="vl">O</span><span class="vw">Optical Power<br>Transfer</span></div>
+    <div class="vision-letter" data-group="conv" title="Explore device research"><span class="vl">W</span><span class="vw">Wide-Bandgap<br>Devices</span></div>
+    <div class="vision-letter" data-group="mach" title="Explore machine research"><span class="vl">E</span><span class="vw">Electric<br>Machines</span></div>
+    <div class="vision-letter" data-group="rel" title="Explore reliability research"><span class="vl">R</span><span class="vw">Reliability<br>&amp; Integration</span></div>
   </div>
   <p class="vision-tag">Building efficient, sustainable, and resilient electric energy conversion through the seamless integration of power converters, light-based power delivery, WBG semiconductors, electric machines, and reliability engineering.</p>
 </div>
@@ -117,6 +117,15 @@ document.addEventListener('DOMContentLoaded', function () {
       btn.classList.add('is-active');
       var p = document.getElementById(btn.getAttribute('data-topic'));
       if (p) { p.classList.add('is-active'); }
+    });
+  });
+  document.querySelectorAll('.vision-letter[data-group]').forEach(function (tile) {
+    tile.addEventListener('click', function () {
+      var g = tile.getAttribute('data-group');
+      var btn = document.querySelector('.rgroup-btn[data-group="' + g + '"]');
+      if (btn) { btn.click(); }
+      var target = document.querySelector('.news-filter');
+      if (target) { target.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
     });
   });
   var gbtns = document.querySelectorAll('.rgroup-btn');

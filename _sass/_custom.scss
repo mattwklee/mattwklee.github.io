@@ -1196,3 +1196,81 @@ html {
   min-width: 200px;
   max-width: 300px;
 }
+
+/* Scroll reveal */
+.reveal-init {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.45s ease, transform 0.45s ease;
+}
+.reveal-init.revealed {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal-init {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* Back to top */
+#back-to-top {
+  position: fixed;
+  right: 22px;
+  bottom: 22px;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: #1B1B19;
+  color: #E3B23C;
+  border: 1px solid #C28E0E;
+  font-size: 1.3em;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  z-index: 50;
+}
+#back-to-top.show {
+  opacity: 1;
+  pointer-events: auto;
+}
+#back-to-top:hover {
+  background: #C28E0E;
+  color: #1B1B19;
+}
+#back-to-top:focus-visible {
+  outline: 2px solid #C28E0E;
+  outline-offset: 2px;
+}
+
+/* Publication search box */
+.pub-search {
+  width: 100%;
+  max-width: 420px;
+  font-family: "Archivo", sans-serif;
+  font-size: 0.9em;
+  padding: 9px 14px;
+  border: 1px solid #D9D3C6;
+  border-radius: 6px;
+  margin: 0.4em 0 0.8em;
+  background: #ffffff;
+  color: #1B1B19;
+}
+.pub-search:focus {
+  outline: 2px solid #C28E0E;
+  outline-offset: 1px;
+  border-color: #C28E0E;
+}
+.pub-noresults {
+  color: #8A857A;
+  font-style: italic;
+}
+
+/* Clickable vision tiles */
+.vision-letter[data-group] {
+  cursor: pointer;
+}
