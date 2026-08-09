@@ -1361,25 +1361,6 @@ ol.pub-list > li:hover .copy-cite,
   opacity: 1;
 }
 
-/* 3D tilt cards with gold glare */
-.tiltable {
-  transition: transform 0.18s ease, box-shadow 0.15s ease;
-  position: relative;
-  overflow: hidden;
-  will-change: transform;
-}
-.tiltable::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(240px circle at var(--mx, 50%) var(--my, 50%), rgba(227, 178, 60, 0.16), transparent 65%);
-  opacity: 0;
-  transition: opacity 0.2s ease;
-  pointer-events: none;
-}
-.tiltable:hover::after {
-  opacity: 1;
-}
 
 /* Shimmering gold sweep on the lab name */
 .hero-block h1 {
@@ -1402,7 +1383,6 @@ ol.pub-list > li:hover .copy-cite,
     -webkit-text-fill-color: initial;
     color: #1B1B19;
   }
-  .tiltable::after { display: none; }
 }
 
 /* Electron field canvas in vision hero */

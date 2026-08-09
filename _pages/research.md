@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', function () {
       W = hero.clientWidth; H = hero.clientHeight;
       canvas.width = W * dpr; canvas.height = H * dpr;
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      var n = Math.max(18, Math.min(40, Math.round(W / 30)));
+      var n = Math.max(10, Math.min(20, Math.round(W / 60)));
       pts = [];
       for (var i = 0; i < n; i++) {
         pts.push({ x: Math.random() * W, y: Math.random() * H,
@@ -181,8 +181,8 @@ document.addEventListener('DOMContentLoaded', function () {
           for (var b = a + 1; b < pts.length; b++) {
             var dx = pts[a].x - pts[b].x, dy = pts[a].y - pts[b].y;
             var d2 = dx * dx + dy * dy;
-            if (d2 < 8100) {
-              ctx.strokeStyle = 'rgba(227, 178, 60, ' + (0.16 * (1 - d2 / 8100)) + ')';
+            if (d2 < 4900) {
+              ctx.strokeStyle = 'rgba(227, 178, 60, ' + (0.10 * (1 - d2 / 4900)) + ')';
               ctx.beginPath();
               ctx.moveTo(pts[a].x, pts[a].y);
               ctx.lineTo(pts[b].x, pts[b].y);
@@ -191,9 +191,9 @@ document.addEventListener('DOMContentLoaded', function () {
           }
         }
         for (var i = 0; i < pts.length; i++) {
-          ctx.fillStyle = 'rgba(227, 178, 60, 0.55)';
+          ctx.fillStyle = 'rgba(227, 178, 60, 0.38)';
           ctx.beginPath();
-          ctx.arc(pts[i].x, pts[i].y, 1.6, 0, Math.PI * 2);
+          ctx.arc(pts[i].x, pts[i].y, 1.2, 0, Math.PI * 2);
           ctx.fill();
         }
       }
