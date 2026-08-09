@@ -32,10 +32,10 @@ Postdoctoral Research Associates
     <p class="bio">Received the bachelor's, master's, and Ph.D. degrees from Incheon National University, South Korea, in 2017, 2019, and 2022. He spent one year as a Research Professor at Incheon National University and worked as a Senior Researcher at Daegu Mechatronics and Materials Institute before joining Purdue in 2024, where he continues to contribute to the field of electric machines.</p>
   </div>
   <div class="member-card">
-    <img src="/images/yuming_yan.jpg" alt="Yuming Yan">
-    <h3>Dr. Yuming Yan</h3>
+    <img src="/images/taehoon_chin.jpg" alt="Taehoon Chin">
+    <h3>Dr. Taehoon Chin</h3>
     <p class="member-role">Postdoctoral Research Associate</p>
-    <p class="bio">Received the B.Eng. degree in electrical engineering from Xi'an Jiaotong University, Xi'an, China, in 2017, and the Ph.D. degree in electrical engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2024. He was a Postdoctoral Research Fellow with the Department of Mechanical and Aerospace Engineering, North Carolina State University, before joining Purdue. His research interests include permanent magnet machines and drives, rare-earth-free electric machines, and their applications for AI data centers, robotic systems, and electrified mobility.</p>
+    <p class="bio">Received the B.S. and Ph.D. degrees in electrical engineering from Konkuk University, Seoul, South Korea, in 2019 and 2025, and was a Postdoctoral Researcher at Konkuk University before joining Purdue in May 2026. His research interests include digital control of electric propulsion drives for electric vehicles and urban air mobility, focusing on open-end winding topologies, torque ripple reduction, and fault-tolerant operation.</p>
   </div>
   <div class="member-card">
     <img src="/images/juwon_lee.jpg" alt="Juwon Lee">
@@ -44,10 +44,10 @@ Postdoctoral Research Associates
     <p class="bio">Received the B.S. and Ph.D. degrees in electrical engineering from Seoul National University, South Korea, in 2020 and 2026. His research interests include grid-connected converters, high-power density motor drives, and leakage current suppression of transformerless AC-DC and DC-DC converters. He received the Distinguished Ph.D. Dissertation Award from the Department of ECE at Seoul National University in 2026, and his work was recognized as outstanding Ph.D. research by Springer Nature.</p>
   </div>
   <div class="member-card">
-    <img src="/images/taehoon_chin.jpg" alt="Taehoon Chin">
-    <h3>Dr. Taehoon Chin</h3>
+    <img src="/images/yuming_yan.jpg" alt="Yuming Yan">
+    <h3>Dr. Yuming Yan</h3>
     <p class="member-role">Postdoctoral Research Associate</p>
-    <p class="bio">Received the B.S. and Ph.D. degrees in electrical engineering from Konkuk University, Seoul, South Korea, in 2019 and 2025, and was a Postdoctoral Researcher at Konkuk University before joining Purdue in May 2026. His research interests include digital control of electric propulsion drives for electric vehicles and urban air mobility, focusing on open-end winding topologies, torque ripple reduction, and fault-tolerant operation.</p>
+    <p class="bio">Received the B.Eng. degree in electrical engineering from Xi'an Jiaotong University, Xi'an, China, in 2017, and the Ph.D. degree in electrical engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2024. He was a Postdoctoral Research Fellow with the Department of Mechanical and Aerospace Engineering, North Carolina State University, before joining Purdue. His research interests include permanent magnet machines and drives, rare-earth-free electric machines, and their applications for AI data centers, robotic systems, and electrified mobility.</p>
   </div>
 </div>
 
