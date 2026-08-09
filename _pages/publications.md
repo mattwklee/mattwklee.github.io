@@ -168,5 +168,25 @@ document.addEventListener('DOMContentLoaded', function () {
       apply();
     });
   });
+  /* Copy citation buttons */
+  if (navigator.clipboard) {
+    document.querySelectorAll('ol.pub-list > li').forEach(function (li) {
+      var clone = li.cloneNode(true);
+      clone.querySelectorAll('.badge, .award-tag, .copy-cite').forEach(function (x) { x.remove(); });
+      var citation = clone.textContent.replace(/\s+/g, ' ').trim();
+      var b = document.createElement('button');
+      b.className = 'copy-cite';
+      b.textContent = 'Copy';
+      b.setAttribute('aria-label', 'Copy citation');
+      b.addEventListener('click', function () {
+        navigator.clipboard.writeText(citation).then(function () {
+          b.textContent = 'Copied!';
+          b.classList.add('copied');
+          setTimeout(function () { b.textContent = 'Copy'; b.classList.remove('copied'); }, 1500);
+        });
+      });
+      li.appendChild(b);
+    });
+  }
 });
 </script>

@@ -67,3 +67,19 @@ document.addEventListener('DOMContentLoaded', function () {
   }, { passive: true });
 });
 </script>
+
+<!-- Scroll progress busbar -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var bar = document.createElement('div');
+  bar.id = 'scroll-progress';
+  document.body.appendChild(bar);
+  function update() {
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    bar.style.width = (h > 0 ? (window.scrollY / h) * 100 : 0) + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update, { passive: true });
+  update();
+});
+</script>

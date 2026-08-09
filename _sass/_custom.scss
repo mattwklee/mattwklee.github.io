@@ -1277,3 +1277,86 @@ html {
 .vision-letter[data-group] {
   cursor: pointer;
 }
+
+/* Scroll progress busbar */
+#scroll-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0;
+  background: linear-gradient(90deg, #C28E0E, #E3B23C);
+  z-index: 100;
+  pointer-events: none;
+  transition: width 0.1s linear;
+}
+
+/* Flowing current in the masthead busbar */
+.masthead::after {
+  background: linear-gradient(90deg, #C28E0E 0%, #E3B23C 25%, #C28E0E 50%, #E3B23C 75%, #C28E0E 100%);
+  background-size: 200% 100%;
+  animation: busflow 7s linear infinite;
+}
+@keyframes busflow {
+  from { background-position: 0% 0; }
+  to { background-position: -200% 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .masthead::after { animation: none; }
+  #scroll-progress { transition: none; }
+}
+
+/* Typewriter hero line */
+.hero-type {
+  font-family: "Archivo", sans-serif;
+  font-size: 1.0em;
+  font-weight: 600;
+  color: #8E6F3E;
+  margin: 0.5em 0 0;
+  min-height: 1.5em;
+}
+.hero-type .caret {
+  display: inline-block;
+  width: 2px;
+  height: 1.05em;
+  background: #C28E0E;
+  vertical-align: -2px;
+  margin-left: 2px;
+  animation: caretBlink 0.9s step-end infinite;
+}
+@keyframes caretBlink {
+  50% { opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-type .caret { animation: none; }
+}
+
+/* Copy citation buttons */
+.copy-cite {
+  background: transparent;
+  border: 1px solid #D9D3C6;
+  border-radius: 4px;
+  color: #8E6F3E;
+  font-size: 0.75em;
+  padding: 1px 8px;
+  margin-left: 8px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  font-family: "Archivo", sans-serif;
+  font-weight: 600;
+}
+ol.pub-list > li:hover .copy-cite,
+.copy-cite:focus-visible {
+  opacity: 1;
+}
+.copy-cite:hover {
+  border-color: #C28E0E;
+  color: #C28E0E;
+}
+.copy-cite.copied {
+  background: #C28E0E;
+  border-color: #C28E0E;
+  color: #1B1B19;
+  opacity: 1;
+}

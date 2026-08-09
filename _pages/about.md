@@ -8,6 +8,7 @@ author_profile: true
 <div class="hero-block">
   <h1>Power Electronics and Drives Research Lab</h1>
   <p class="hero-sub">Elmore Family School of Electrical and Computer Engineering<br>Purdue University</p>
+  <p class="hero-type">Advancing <span id="typewriter"></span><span class="caret"></span></p>
 </div>
 
 We advance efficient electric energy conversion for a sustainable future - from wide-bandgap power semiconductors to electric machines and their integration - for transportation electrification, aerospace, distributed energy resources, and AI data centers. The lab is led by [Prof. Matt Woongkul Lee](/members/), and our work is supported by NSF (CAREER), DOE ARPA-E (IGNIITE), DOE VTO, USDA, US Army, NASA, and industry partners. Explore our [research](/research/), [publications](/publications/), and [team](/members/).
@@ -254,5 +255,31 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 
   render();
+
+  /* Typewriter */
+  var words = ['GaN & SiC power electronics', 'rare-earth-free electric machines', 'optical power transfer', 'fault-tolerant multiphase drives', 'DC fast charging & V2G', 'AI data center power delivery'];
+  var twEl = document.getElementById('typewriter');
+  if (twEl) {
+    if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      twEl.textContent = words[0];
+    } else {
+      var wi = 0, ci = 0, deleting = false;
+      (function tick() {
+        var w = words[wi];
+        twEl.textContent = w.slice(0, ci);
+        var delay;
+        if (!deleting) {
+          ci++;
+          delay = 55;
+          if (ci > w.length) { deleting = true; delay = 1600; }
+        } else {
+          ci--;
+          delay = 28;
+          if (ci === 0) { deleting = false; wi = (wi + 1) % words.length; delay = 350; }
+        }
+        setTimeout(tick, delay);
+      })();
+    }
+  }
 });
 </script>
