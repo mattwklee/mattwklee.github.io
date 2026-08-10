@@ -1397,6 +1397,9 @@ ol.pub-list > li:hover .copy-cite,
 
 
 /* Masthead logo in the leading slot */
+.masthead__menu-item--lg {
+  display: inline-block !important;
+}
 .masthead__menu-item--lg a {
   padding-top: 6px;
   padding-bottom: 6px;
