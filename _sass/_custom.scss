@@ -1401,11 +1401,14 @@ ol.pub-list > li:hover .copy-cite,
   display: inline-block !important;
 }
 .masthead__menu-item--lg a {
-  padding-top: 6px;
-  padding-bottom: 6px;
+  padding-top: 0;
+  padding-bottom: 0;
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 .site-logo {
-  height: 15px;
+  height: 26px;
   width: auto;
   display: inline-block;
   vertical-align: middle;
@@ -1419,4 +1422,34 @@ ol.pub-list > li:hover .copy-cite,
   .masthead__inner-wrap {
     max-width: 1520px;
   }
+}
+
+
+/* Pull nav tabs further left */
+.masthead__inner-wrap {
+  padding-left: 0.5em;
+}
+.greedy-nav .visible-links li:first-child a,
+.greedy-nav .visible-links .masthead__menu-item--lg a {
+  padding-left: 0;
+  margin-left: 0;
+}
+.site-logo {
+  margin-right: 14px;
+}
+
+/* Logo hover: glow + scale instead of the tab underline */
+.greedy-nav .visible-links .masthead__menu-item--lg a:before {
+  display: none;
+}
+.site-logo {
+  transition: transform 0.18s ease, filter 0.18s ease;
+}
+.masthead__menu-item--lg a:hover .site-logo {
+  transform: scale(1.15);
+  filter: drop-shadow(0 0 6px rgba(227, 178, 60, 0.75));
+}
+@media (prefers-reduced-motion: reduce) {
+  .site-logo { transition: none; }
+  .masthead__menu-item--lg a:hover .site-logo { transform: none; }
 }
