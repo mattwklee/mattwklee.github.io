@@ -6,7 +6,7 @@ author_profile: true
 ![image](/images/main_banner.jpg)
 
 <div class="hero-block">
-  <h1>Power Electronics and Drives Research Lab</h1>
+  <h1>Purdue POWER Lab</h1>
   <p class="hero-sub">Elmore Family School of Electrical and Computer Engineering<br>Purdue University</p>
   <p class="hero-type">Advancing <span id="typewriter"></span><span class="caret"></span></p>
 </div>
