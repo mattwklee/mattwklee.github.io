@@ -11,11 +11,11 @@ author_profile: true
   <p class="hero-type">Advancing <span id="typewriter"></span><span class="caret"></span></p>
 </div>
 
-We advance efficient electric energy conversion for a sustainable future - from wide-bandgap power semiconductors to electric machines and their integration - for transportation electrification, aerospace, distributed energy resources, and AI data centers. The lab is led by [Prof. Matt Woongkul Lee](/members/), and our work is supported by NSF (CAREER), DOE ARPA-E (IGNIITE), DOE VTO, USDA, US Army, NASA, and industry partners. Explore our [research](/research/), [publications](/publications/), and [team](/members/).
+The **Purdue POWER Lab** - **P**ower conversion, **O**ptical power transfer, **W**ide-bandgap devices, **E**lectric machines, and **R**eliability - advances efficient electric energy conversion for a sustainable future, for transportation electrification, aerospace, distributed energy resources, and AI data centers. The lab is led by [Prof. Matt Woongkul Lee](/members/), and our work is supported by NSF (CAREER), DOE ARPA-E (IGNIITE), DOE VTO, USDA, US Army, NASA, and industry partners. Explore our [research](/research/), [publications](/publications/), and [team](/members/).
 
 <div class="hiring-card">
   <span class="hiring-flag">Actively Recruiting</span>
-  <h3>We are recruiting new lab members.</h3>
+  <h3>Join the Purdue POWER Lab.</h3>
   <p>Openings are available for Ph.D. and M.S. students, postdoctoral researchers, and undergraduate researchers passionate about power electronics and electric machines.</p>
   <p class="hiring-ctas"><a class="btn-gold" href="mailto:wklee@purdue.edu">Apply by Email</a> <a class="btn-ghost" href="/research/">View Research Areas</a></p>
 </div>

@@ -1453,3 +1453,27 @@ ol.pub-list > li:hover .copy-cite,
 @media (prefers-reduced-motion: reduce) {
   .site-logo { transition: none; }
 }
+
+/* Find-paper links on publications */
+.page__content a.find-link {
+  border: 1px solid #D9D3C6;
+  border-radius: 4px;
+  color: #8E6F3E;
+  font-size: 0.75em;
+  font-family: "Archivo", sans-serif;
+  font-weight: 600;
+  padding: 1px 8px;
+  margin-left: 6px;
+  text-decoration: none;
+  border-bottom-width: 1px;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+ol.pub-list > li:hover .find-link,
+.page__content a.find-link:focus-visible {
+  opacity: 1;
+}
+.page__content a.find-link:hover {
+  border-color: #C28E0E;
+  color: #C28E0E;
+}

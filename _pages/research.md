@@ -6,7 +6,7 @@ author_profile: true
 
 <div class="vision-hero">
   <canvas id="power-particles" aria-hidden="true"></canvas>
-  <p class="vision-eyebrow">The Research Vision of the Lab</p>
+  <p class="vision-eyebrow">What POWER Stands For</p>
   <div class="vision-letters">
     <div class="vision-letter" data-group="conv" title="Explore converter research"><span class="vl">P</span><span class="vw">Power<br>Conversion</span></div>
     <div class="vision-letter" data-group="rel" title="Explore optics research"><span class="vl">O</span><span class="vw">Optical Power<br>Transfer</span></div>

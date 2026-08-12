@@ -186,6 +186,17 @@ document.addEventListener('DOMContentLoaded', function () {
         });
       });
       li.appendChild(b);
+      /* Find-paper link: search the exact title on Google Scholar */
+      var tmatch = citation.match(/[\u201C"]([^\u201D"]+)[\u201D"]/);
+      var q = tmatch ? tmatch[1] : citation;
+      var fl = document.createElement('a');
+      fl.className = 'find-link';
+      fl.href = 'https://scholar.google.com/scholar?q=' + encodeURIComponent('"' + q + '"');
+      fl.target = '_blank';
+      fl.rel = 'noopener';
+      fl.textContent = 'Find \u2197';
+      fl.setAttribute('aria-label', 'Find this paper on Google Scholar');
+      li.appendChild(fl);
     });
   }
 });
