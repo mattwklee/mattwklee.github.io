@@ -41,3 +41,47 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- Site-wide interactions: scroll reveal + back-to-top -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  /* Scroll reveal */
+  var revealables = document.querySelectorAll('.member-card, .research-card, .logo-item, .pub-section, .contact-block, .member-featured');
+  if ('IntersectionObserver' in window && revealables.length) {
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) {
+        if (e.isIntersecting) { e.target.classList.add('revealed'); io.unobserve(e.target); }
+      });
+    }, { threshold: 0.08 });
+    revealables.forEach(function (el) { el.classList.add('reveal-init'); io.observe(el); });
+  }
+  /* Back to top */
+  var btn = document.createElement('button');
+  btn.id = 'back-to-top';
+  btn.setAttribute('aria-label', 'Back to top');
+  btn.innerHTML = '&#8963;';
+  document.body.appendChild(btn);
+  btn.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
+  window.addEventListener('scroll', function () {
+    btn.classList.toggle('show', window.scrollY > 600);
+  }, { passive: true });
+});
+</script>
+
+<!-- Scroll progress busbar -->
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  var bar = document.createElement('div');
+  bar.id = 'scroll-progress';
+  document.body.appendChild(bar);
+  function update() {
+    var h = document.documentElement.scrollHeight - window.innerHeight;
+    bar.style.width = (h > 0 ? (window.scrollY / h) * 100 : 0) + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update, { passive: true });
+  update();
+});
+</script>
+
+
