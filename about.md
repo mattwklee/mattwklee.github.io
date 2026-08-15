@@ -81,7 +81,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TTE journal paper accepted, Congratulations Hyunwoo!</li>
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE OJIA review paper on partial discharge published, Congratulations Kangbeen!</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Hyundai Motors Research Grant</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> K Global Research Grant</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Taehoon Chin, Dr. Juwon Lee, and Dr. Yongmin Ju joined the team</li>
   <li data-cat="talk"><span class="badge badge-talk">Talk</span> San Diego State University, UIUC, and KIAT Symposium</li>
 </ul>
@@ -96,7 +96,7 @@ Announcements, publications, awards, grants, and team updates from the lab.
   <li data-cat="publication"><span class="badge badge-publication">Publication</span> IEEE TPE journal paper accepted, Congratulations Kangbeen and Mikayla!</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Grainger CEME Seed Grant - Bioinspired electrohydraulic pump using hydrogel rotor</li>
   <li data-cat="grant"><span class="badge badge-grant">Grant</span> Blueflite Research Grant</li>
-  <li data-cat="grant"><span class="badge badge-grant">Grant</span> SJ Global Research Grant</li>
+  <li data-cat="grant"><span class="badge badge-grant">Grant</span> K Global Research Grant</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Dr. Yuming Yan joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Sachin Srinivasa Murthy, Mohammed Thushar Imran, Benjamin Schuchardt, and Fahmy Navid Rahman joined the team</li>
   <li data-cat="people"><span class="badge badge-people">People</span> Visiting scholars Dongin Lee and Junhyuk Heo (Incheon National University) joined the team</li>
@@ -181,9 +181,11 @@ Sponsors &amp; Partners
   <div class="logo-item name-card"><span>BorgWarner</span></div>
   <div class="logo-item name-card"><span>Hyundai Motors</span></div>
   <div class="logo-item name-card"><span>General Motors</span></div>
-  <div class="logo-item name-card"><span>SJ Global</span></div>
+  <div class="logo-item name-card"><span>K Global</span></div>
   <div class="logo-item name-card"><span>Blueflite</span></div>
   <div class="logo-item name-card"><span>MathWorks</span></div>
+  <div class="logo-item name-card"><span>imec</span></div>
+  <div class="logo-item name-card"><span>SK hynix</span></div>
 </div>
 
 Join Us
