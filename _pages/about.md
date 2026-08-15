@@ -34,8 +34,10 @@ Everything we build sits at the intersection of three layers - tap each circle t
     <button class="venn-node vn-bc" data-v="mat_top" aria-label="Materials and Topologies"></button>
     <button class="venn-core" data-v="power">POWER</button>
   </div>
-  <p class="venn-desc" id="venn-desc">Tap a circle, an intersection dot, or the POWER core to explore how the layers combine.</p>
-  <div class="kw-band venn-chips" id="venn-chips"></div>
+  <div class="venn-side">
+    <p class="venn-desc" id="venn-desc">Tap a circle, an intersection dot, or the POWER core to explore how the layers combine.</p>
+    <div class="kw-band venn-chips" id="venn-chips"></div>
+  </div>
 </div>
 
 Latest News
@@ -182,6 +184,8 @@ Sponsors &amp; Partners
   <div class="logo-item name-card"><span>SJ Global</span></div>
   <div class="logo-item name-card"><span>Blueflite</span></div>
   <div class="logo-item name-card"><span>MathWorks</span></div>
+  <div class="logo-item name-card"><span>imec</span></div>
+  <div class="logo-item name-card"><span>SK hynix</span></div>
 </div>
 
 Join Us
@@ -276,7 +280,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   /* Approach venn: 7 interactive zones */
   var vennData = {
-    materials:   { d: 'Materials - the physics layer: WBG and UWBG semiconductors, diamond electronics, insulation systems, and magnet-free magnetics.',
+    materials:   { d: 'Materials - the physics layer: WBG and UWBG semiconductors, diamond electronics, insulation systems, and rare-earth-free magnetics.',
                    c: ['GaN / SiC / UWBG', 'Diamond electronics', 'PEEK insulation', 'Hairpin windings'] },
     topologies:  { d: 'Topologies - the circuit and machine layer: new converter and electric machine architectures that get more from the same silicon and steel.',
                    c: ['NPL multilevel inverters', 'Matrix converters', 'Current-source inverters', 'Wound-field machines'] },
