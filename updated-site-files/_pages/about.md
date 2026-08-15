@@ -29,9 +29,15 @@ Everything we build sits at the intersection of three layers - tap each circle t
     <button class="venn-circle vc-top" data-v="integration"><span>Integration</span></button>
     <button class="venn-circle vc-left" data-v="materials"><span>Materials</span></button>
     <button class="venn-circle vc-right" data-v="topologies"><span>Topologies</span></button>
-    <div class="venn-core" aria-hidden="true">POWER</div>
+    <button class="venn-node vn-tl" data-v="mat_int" aria-label="Materials and Integration"></button>
+    <button class="venn-node vn-tr" data-v="top_int" aria-label="Topologies and Integration"></button>
+    <button class="venn-node vn-bc" data-v="mat_top" aria-label="Materials and Topologies"></button>
+    <button class="venn-core" data-v="power">POWER</button>
   </div>
-  <p class="venn-desc" id="venn-desc">From WBG semiconductors and insulation materials, through novel converter and machine topologies, to fully integrated drive systems.</p>
+  <div class="venn-side">
+    <p class="venn-desc" id="venn-desc">Tap a circle, an intersection dot, or the POWER core to explore how the layers combine.</p>
+    <div class="kw-band venn-chips" id="venn-chips"></div>
+  </div>
 </div>
 
 Latest News
@@ -178,6 +184,8 @@ Sponsors &amp; Partners
   <div class="logo-item name-card"><span>SJ Global</span></div>
   <div class="logo-item name-card"><span>Blueflite</span></div>
   <div class="logo-item name-card"><span>MathWorks</span></div>
+  <div class="logo-item name-card"><span>imec</span></div>
+  <div class="logo-item name-card"><span>SK hynix</span></div>
 </div>
 
 Join Us
@@ -270,18 +278,38 @@ document.addEventListener('DOMContentLoaded', function () {
 
   render();
 
-  /* Approach venn */
-  var vennDescs = {
-    materials: 'Materials - WBG and UWBG semiconductors, diamond electronics, PEEK insulation and slot liners, magnet-free magnetics, and hairpin windings.',
-    topologies: 'Topologies - neutral-point-less (NPL) multilevel inverters, single-stage matrix converters, current-source inverters, and rare-earth-free machine designs.',
-    integration: 'Integration - magnetically integrated motor drives, optical power transfer onto spinning rotors, X-in-1 powertrains, and drives co-designed with their machines.'
+  /* Approach venn: 7 interactive zones */
+  var vennData = {
+    materials:   { d: 'Materials - the physics layer: WBG and UWBG semiconductors, diamond electronics, insulation systems, and rare-earth-free magnetics.',
+                   c: ['GaN / SiC / UWBG', 'Diamond electronics', 'PEEK insulation', 'Hairpin windings'] },
+    topologies:  { d: 'Topologies - the circuit and machine layer: new converter and electric machine architectures that get more from the same silicon and steel.',
+                   c: ['NPL multilevel inverters', 'Matrix converters', 'Current-source inverters', 'Wound-field machines'] },
+    integration: { d: 'Integration - the systems layer: converters, machines, and controls co-designed as one.',
+                   c: ['Integrated motor drives', 'Optical power transfer', 'X-in-1 powertrains'] },
+    mat_int:     { d: 'Materials + Integration - insulation-aware and thermally co-designed systems: partial-discharge-resilient windings, PD/EMI mitigation, and cryogenic GaN.',
+                   c: ['Partial discharge', 'CM EMI', 'Cryogenic power electronics'] },
+    top_int:     { d: 'Topologies + Integration - drives where the converter and machine are one unit: NPL inverters co-packaged with rare-earth-free machines.',
+                   c: ['Magnetically integrated drives', 'NPL traction drives', 'OPUS generators'] },
+    mat_top:     { d: 'Materials + Topologies - device-informed circuit design: hybrid Si/SiC NPL.H, low-inductance GaN NPL.X layouts, and dual-gate switch matrix converters.',
+                   c: ['Hybrid Si/SiC design', 'GaN power loop layout', 'Dual-gate bidirectional switches'] },
+    power:       { d: 'POWER - where all three layers meet: the Purdue POWER Lab builds complete, efficient, reliable electric energy conversion systems.',
+                   c: ['Transportation electrification', 'Aerospace', 'AI data centers', 'Distributed energy'] }
   };
   var vennDesc = document.getElementById('venn-desc');
-  document.querySelectorAll('.venn-circle').forEach(function (c) {
+  var vennChips = document.getElementById('venn-chips');
+  document.querySelectorAll('.venn-circle, .venn-node, .venn-core').forEach(function (c) {
     function activate() {
-      document.querySelectorAll('.venn-circle').forEach(function (x) { x.classList.remove('is-active'); });
+      document.querySelectorAll('.venn-circle, .venn-node, .venn-core').forEach(function (x) { x.classList.remove('is-active'); });
       c.classList.add('is-active');
-      if (vennDesc) { vennDesc.textContent = vennDescs[c.getAttribute('data-v')]; }
+      var v = vennData[c.getAttribute('data-v')];
+      if (v && vennDesc) {
+        vennDesc.textContent = v.d;
+        if (vennChips) {
+          vennChips.innerHTML = v.c.map(function (k) {
+            return '<a class="kw-chip venn-chip" href="/research/">' + k + '</a>';
+          }).join('');
+        }
+      }
     }
     c.addEventListener('mouseenter', activate);
     c.addEventListener('focus', activate);
